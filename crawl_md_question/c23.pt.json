@@ -1,0 +1,2382 @@
+[
+  {
+    "_id": "5f4361618f60cf559ab752be",
+    "status": 2,
+    "question_link": "/hoi-dap/hiv-c23-q55652#traloi",
+    "created_at": "2020-08-24T06:42:41.459Z",
+    "updated_at": "2020-08-24T06:51:51.199Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Cho mình hỏi bệnh nhiễm ki sinh trùng HIV là j ạ",
+    "q_id": "q55652",
+    "q_related": [
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      },
+      {
+        "text": "Tra cứu kết quả",
+        "href": "/hoi-dap/tra-cuu-ket-qua-c23-q54141"
+      }
+    ],
+    "q_title": "Hiv"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752bf",
+    "status": 2,
+    "question_link": "/hoi-dap/nhiem-toxocara-c23-q55411#traloi",
+    "created_at": "2020-08-24T06:42:41.460Z",
+    "updated_at": "2020-08-24T06:51:50.559Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Thưa bác sĩ ,\nEm bị nhiễm giun chó ,xét nghiệm dương tính 0.89 đã uống abendazol 400mg trong 21 ngày . Sau 35 ngày xét nghiệm lại còn 0.558 . \nVậy em có cần điều trị thêm nữa không hay chờ thêm thời gian nữa xét nghiệm lại , hiện em vẫn còn ngứa . \nMong bs trả lời giúp em , cám ơn bác sĩ . ",
+    "q_id": "q55411",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      },
+      {
+        "text": "Tra cứu kết quả",
+        "href": "/hoi-dap/tra-cuu-ket-qua-c23-q54141"
+      }
+    ],
+    "q_title": "Nhiễm toxocara"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752c0",
+    "status": 2,
+    "question_link": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021#traloi",
+    "created_at": "2020-08-24T06:42:41.461Z",
+    "updated_at": "2020-08-24T06:51:50.523Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "bác sĩ ơi cho em hỏi là mèo mẹ và mèo con đi vệ sinh ra con giun thì em cho mèo uống thuốc alzental ( albendazole 400g ) có được ko ạ . 1 viên thì thì chia cho mèo mẹ đc 1 năm , 2 con mèo con 2 tháng 1 tuần và 1 con mèo 5 tháng tuổi như thế nào ạ . mong bác sĩ trả lời sớm ạ",
+    "q_id": "q55021",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      },
+      {
+        "text": "Tra cứu kết quả",
+        "href": "/hoi-dap/tra-cuu-ket-qua-c23-q54141"
+      }
+    ],
+    "q_title": "mèo của em bị giun sán "
+  },
+  {
+    "_id": "5f4361618f60cf559ab752c1",
+    "status": 2,
+    "question_link": "/hoi-dap/san-cho-c23-q54662#traloi",
+    "created_at": "2020-08-24T06:42:41.463Z",
+    "updated_at": "2020-08-24T06:51:50.732Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Bác sĩ cho e hỏi.  Em Đang cho con bú .có thuốc nào uống điều trị sán chó mà k phảo bỏ bú bé k ạ\nCảm ơn bsi",
+    "q_id": "q54662",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      },
+      {
+        "text": "Tra cứu kết quả",
+        "href": "/hoi-dap/tra-cuu-ket-qua-c23-q54141"
+      }
+    ],
+    "q_title": "Sán chó"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752c2",
+    "status": 2,
+    "question_link": "/hoi-dap/-giun-cho-meo-c23-q54659#traloi",
+    "created_at": "2020-08-24T06:42:41.465Z",
+    "updated_at": "2020-08-24T06:51:50.688Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Dạ bsy ..e ms đi xet nghiệm bị  giun đũa chó mèo. Noi vết đỏ xung quanh vay trắng.vaf ngứa..có đi bv nhiệt đới nha trang.dc bac sy kê thuốc uống và hết ngứa.lặn hết mề đay...sau 1 tháng tư nhiên bị nổi đỏ lại.cho em hỏi bây giờ phải dieu trị và uống thuốc j ms hét ạ .",
+    "q_id": "q54659",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": "Tra cứu kết quả",
+        "href": "/hoi-dap/tra-cuu-ket-qua-c23-q54141"
+      }
+    ],
+    "q_title": " Giun chó mèo"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752c3",
+    "status": 2,
+    "question_link": "/hoi-dap/tra-cuu-ket-qua-c23-q54141#traloi",
+    "created_at": "2020-08-24T06:42:41.467Z",
+    "updated_at": "2020-08-24T06:51:46.766Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Tôi nhập mã hóa đơn 180720-1155805721 và mã bảo mật  5583 theo hóa đơn để tra cứu nhưng ko được, vui lòng cấp lại mã tra cứu cho tôi",
+    "q_id": "q54141",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Tra cứu kết quả"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752c4",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-phu-khoa-c23-q53508#traloi",
+    "created_at": "2020-08-24T06:42:41.468Z",
+    "updated_at": "2020-08-24T06:51:46.649Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào bác sĩ. Cho tôi hỏi cách đọc kết quả xét nghiệm soi tươi dịch âm đạo. Tế bào biểu mô 2+.bạch Cầu 2+.nấm 2+. Trực khuẩn gram dương 2+. Trực khuẩn gram âm 2+.Rất mong bác sĩ đưa ra đánh giá mức độ viêm âm đạo mà tôi đang gặp phải. Cảm ơn bác sĩ. ",
+    "q_id": "q53508",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bệnh phụ khoa"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752c5",
+    "status": 2,
+    "question_link": "/hoi-dap/thuoc-dieu-tri-jun-san-cho-c23-q53076#traloi",
+    "created_at": "2020-08-24T06:42:41.470Z",
+    "updated_at": "2020-08-24T06:51:50.668Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "bé nhà em gần 2 tuổi có xét nghiệm bị nhiễm sán chó, bác sĩ có kêu về uống thuốc fugacar mỗi lần 1 viên và cách nhau 2 tuần, bé nhà em uống dc 1 viên rùi nhưng vẫn thấy bé ngứa khó chịu, cho em hỏi uống thuốc fugacar có điều trị dứt điểm ko, hay phải dùng loại thuốc đặc trị khác",
+    "q_id": "q53076",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Thuốc điều trị jun sán chó"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752c6",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-me-day-man-ngua-c23-q52925#traloi",
+    "created_at": "2020-08-24T06:42:41.471Z",
+    "updated_at": "2020-08-24T06:51:50.956Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Tôi bị nổi mề đay gây ngứa ngáy rất khó chịu. Đến bv Nhiệt đới khám, bs cho xét nghiệm máu, bị nhiễm giun chó. Bs cho thuốc Stromectin 1 liều duy nhất 2,5 viên và thuốc Telgate,  Nadyestin mỗi thứ 28 viên,  mỗi ngày uống 1 viên. Tôi uống đã 10 ngày rồi mà mề đay nổi ngày càng nhiều (toàn thân), bs điều trị hẹn 10/7/2020 tái khám. Bây giờ tôi phải làm sao. Xin bs tư vấn dùm. Xin cảm ơn. ",
+    "q_id": "q52925",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bệnh mề đay, mẫn ngứa"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752c7",
+    "status": 2,
+    "question_link": "/hoi-dap/ket-qua-xet-nghiem-c23-q52379#traloi",
+    "created_at": "2020-08-24T06:42:41.473Z",
+    "updated_at": "2020-08-24T06:51:50.655Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Tôi làm kết quả xét nghiệm máu san cho mèo có ở KQ sau:\nTôi Ara IgG (Elisa) có GZ 0,29 OD\nTôi có bị san chó mèo hay không?",
+    "q_id": "q52379",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Kết quả xét nghiệm"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752c8",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-di-ung-do-giun-san-ky-sinh-c23-q52269#traloi",
+    "created_at": "2020-08-24T06:42:41.474Z",
+    "updated_at": "2020-08-24T06:51:50.537Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Các bác sỹ cho e hỏi, có loại thuốc nào tẩy hết đc giun, sán trong cơ thể ra k ạ ? ",
+    "q_id": "q52269",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bị dị ứng do giun, sán ký sinh"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752c9",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-truen-benh-dai-c23-q51792#traloi",
+    "created_at": "2020-08-24T06:42:41.476Z",
+    "updated_at": "2020-08-24T06:51:50.700Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Bác sĩ cho e hỏi , lòng bàn tay của e có vết thương hở ( độ rộng bé khoảng 1.5 milimet vuông) vết thương ko chảy máu và e đã dùng lòng bàn tay vuốt lên lông trên lưng của con chó . Sau đó thì e đã ngay lập tức dùng cồn sát khuẩn rửa tay \nNguy cơ của e cơ cao ko ạ và cần đi tiêm phòng ko ạ",
+    "q_id": "q51792",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Hỏi về truền bệnh dại"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752ca",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-hiv-c23-q51638#traloi",
+    "created_at": "2020-08-24T06:42:41.477Z",
+    "updated_at": "2020-08-24T06:51:50.823Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Lúc chiều E đi cắt tóc bị cái tông đơ làm xước da 1 đoạn dài 2cm nhưng máu hầu như ko chảy mà chỉ có 1 vạch trên da . Cho e hỏi trường hợp của e cơ nguy cơ bị nhiễm hiv ko ạ em cảm ơn ạ",
+    "q_id": "q51638",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Hỏi hiv"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752cb",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-vi-sinh-c23-q51097#traloi",
+    "created_at": "2020-08-24T06:42:41.479Z",
+    "updated_at": "2020-08-24T06:51:50.721Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "E xet nghiem toxocara igg mien dich tu dong duong tinh 5.7545 tai beh vien nhan dan gia dinh. Hien tai da ngứa nhieu vao ban dem. Mong bac si tu van giup e. ",
+    "q_id": "q51097",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Xét nghiệm vi sinh"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752cc",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-san-cho-c23-q50928#traloi",
+    "created_at": "2020-08-24T06:42:41.480Z",
+    "updated_at": "2020-08-24T06:51:51.265Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Khu em ở có nhiều chó hay đi ị bậy ngay trên đường vào hẻm em ở vậy cho em hỏi chạy xe không cẩn thận đi sau xe phía trước cán lên và mình phía sau thì nguy cơ mìh bị dính ấu trùng lên tay lái và dính lên tay và mặt có nguy cơ bị nhiễm sán chó không vậy ạ?",
+    "q_id": "q50928",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bệnh sán chó"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75529",
+    "status": 2,
+    "question_link": "/hoi-dap/san-la-nho-c23-q50638#traloi",
+    "created_at": "2020-08-24T06:42:42.214Z",
+    "updated_at": "2020-08-24T06:56:30.913Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Vì sao bị nhiễm sán lá nhỏ ban đầu bệnh nhân thường bị rối loạn tiêu hóa",
+    "q_id": "q50638",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Sán lá nhỏ"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7552a",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-can-c23-q50581#traloi",
+    "created_at": "2020-08-24T06:42:42.215Z",
+    "updated_at": "2020-08-24T06:56:44.518Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Bác sĩ cho xin hỏi là khoảng nữa năm hay gần một năm trước con bị chó cắn và đã chích ngừa, và bà con đã để còn chó theo dõi và nó không bị gì nên đã nuôi nó tiếp tục đến giờ nó cắn còn lần nữa thì nên làm gì ạ",
+    "q_id": "q50581",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bị chó cắn"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7552b",
+    "status": 2,
+    "question_link": "/hoi-dap/ky-sinh-trung--c23-q50580#traloi",
+    "created_at": "2020-08-24T06:42:42.216Z",
+    "updated_at": "2020-08-24T06:56:46.659Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào bác sĩ ạ , con có người thân đi xét nghiệm về giun đũa chó , kết quả cho ra là 0,58(+) con muốn hỏi rằng liệu kết quả như thế có nguy hiểm gì nhiều không ạ? con xin cảm ơn ạ ",
+    "q_id": "q50580",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Ký Sinh Trùng "
+  },
+  {
+    "_id": "5f4361628f60cf559ab7552c",
+    "status": 2,
+    "question_link": "/hoi-dap/ki-sinh-o-nao-c23-q50426#traloi",
+    "created_at": "2020-08-24T06:42:42.217Z",
+    "updated_at": "2020-08-24T06:56:55.084Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Kí sinh ở não ",
+    "q_id": "q50426",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Kí sinh ở não"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7552d",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo-can-c23-q50378#traloi",
+    "created_at": "2020-08-24T06:42:42.219Z",
+    "updated_at": "2020-08-24T06:56:54.850Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Cho con hoi.nha con moi xin con meo con ve nuoi,con bi nó cắn bị lủng 2 lỗ rất nhỏ trên ngón tay con nặn mới chảy máu.giờ con dang cho con bú,vậy con có thể theo doi con meo,neu nó chết thi con mới tiêm phong dược k ạ.nếu phải tiêm phòng thì có nóng hay ảnh hưởng gì đến bé khog thưa bác sĩ.",
+    "q_id": "q50378",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bi meo can"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7552e",
+    "status": 2,
+    "question_link": "/hoi-dap/vạt-nuoi-c23-q50065#traloi",
+    "created_at": "2020-08-24T06:42:42.220Z",
+    "updated_at": "2020-08-24T06:56:46.682Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào bác sĩ, mình bị nuốt phải lông chó, một sợi hình như mảnh và ngắn, có bị sao không ạ?",
+    "q_id": "q50065",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Vật nuôi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7552f",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-suc-khoe-c23-q49743#traloi",
+    "created_at": "2020-08-24T06:42:42.221Z",
+    "updated_at": "2020-08-24T06:56:52.551Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Em chào bác sĩ. Bác sĩ cho em hỏi với ạ. Em mới đi khám phụ khoa xét nghiệm ra kết quả thế này. Bác sĩ giải thích giúp em với ạ\nTrực khuẩn gram dương +++\nCầu khuẩn gran dương ++\nTrực khuẩn gram âm +\nBạch cầu 06-07\nTế bào 07-08\nTạp khuẩn ++\nLacto bacillus ++\nEm cảm ơn ạ",
+    "q_id": "q49743",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Tư vấn sức khỏe"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75530",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo-can-c23-q49109#traloi",
+    "created_at": "2020-08-24T06:42:42.222Z",
+    "updated_at": "2020-08-24T06:56:54.703Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Thưa bác sĩ em bị mèo căn 2 hôm trước bằng răng nanh ạ\nVết thương khá sâu và sưng nóng rát đỏ lên và đau từng cơn ạ em chưa tiêm phòng cho mèo nhà em thì em có nên đi khám để tiêm phòng dại không ạ \nEm cảm ơn bác sĩ ạ",
+    "q_id": "q49109",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bị mèo cắn"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75531",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-benh-giun-dua-cho-mei-c23-q48656#traloi",
+    "created_at": "2020-08-24T06:42:42.223Z",
+    "updated_at": "2020-08-24T06:56:48.561Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Tôi đã đi xét nghiệm tại ký sinh trùng sốt rét trung ương và uống thuốc nhiều lần do dương tính với giun đũa chó mèo . Nhưng vẫn không khỏi vậy bây giờ tôi nên làm sao ",
+    "q_id": "q48656",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Hỏi về bệnh giun đũa chó mèi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75532",
+    "status": 2,
+    "question_link": "/hoi-dap/ggg-c23-q47964#traloi",
+    "created_at": "2020-08-24T06:42:42.224Z",
+    "updated_at": "2020-08-24T06:56:54.760Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Dạo gần đây người e đột nhiên nổi mụn rất ngứa, e có nuôi mèo xin được tư vấn",
+    "q_id": "q47964",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Ggg"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75533",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-san-cho-c23-q46814#traloi",
+    "created_at": "2020-08-24T06:42:42.226Z",
+    "updated_at": "2020-08-24T06:56:54.965Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào bác sĩ. Dạo gần đây(1thang nay) cháu có hay thường xuyên tiếp xúc với chó. Rồi cách đây mấy hôm cháu có biểu hiện ho, táo bón, tức ngực và đặc biệt là mấy hôm nay lại nổi mụn đỏ liti bên trong có mủ trắng. K biết có phải cháu mắc sán chó k ạ? Mong bác sĩ tư vấn giúp cháu. Cháu xin cảm ơn!",
+    "q_id": "q46814",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bệnh sán chó"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75534",
+    "status": 2,
+    "question_link": "/hoi-dap/bac-si-cho-em-hoi-ve-ket-qua-xet-nghiem--c23-q46662#traloi",
+    "created_at": "2020-08-24T06:42:42.227Z",
+    "updated_at": "2020-08-24T06:56:54.738Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Em bị viêm xoang dạng dị ứng gần đây em bị sốt mà bên ngoài không cao ạ, em đi xét nghiệm máu thì lượng bạch cầu  Neu% khá cao nên đã nhập viện điều trị bên phổi vì được chẩn đoán là nhiễm trùng phổi, sau thời gian điều trị ở bệnh viện về dùng kháng sinh dạng tiêm và  kết quả xét nghiệm ngày 13/12 là WBC 11.7, EOs% 9.21, Eos # 1.08 sau đó là dạng uống Curam 100g thì em hay đau bụng và đi vệ sinh nhiều, sau 5 ngày uống thì em ngưng 3 ngày và xét nghiệm lại vào 24/02 thì kết quả là WBC 8.48, EOS % 10.6, EOS # 0,899, MCV 75.4, MCH 23.9, MCHC 31.7. Em có nội soi tai mũi họng thì mũi bị sung huyết do viêm xoang nên e bị ù tai nặng hơn kèm theo ho khá nhiều Bác Sĩ cho em hỏi với kết quả xét nghiệm hiện tại này thì tình trạng bệnh của em có giảm không ạ và nhìn vào xét nghiệm máu thì em nghiêng về mũi hay phổi ạ? , em có cần kiêng cữ thức ăn gì khi lại tiếp tục dùng kháng sinh tiếp không ạ? ",
+    "q_id": "q46662",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bác sĩ cho em hỏi về kết quả xét nghiệm "
+  },
+  {
+    "_id": "5f4361628f60cf559ab75535",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-san-cho--c23-q46579#traloi",
+    "created_at": "2020-08-24T06:42:42.228Z",
+    "updated_at": "2020-08-24T06:56:55.103Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Bệnh này nên uống và dùng thuốc gì để hết ngứa",
+    "q_id": "q46579",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bệnh sán chó "
+  },
+  {
+    "_id": "5f4361628f60cf559ab75536",
+    "status": 2,
+    "question_link": "/hoi-dap/giai-thich-va-chuan-doan-ket-qua-soi-tuoi-c23-q45806#traloi",
+    "created_at": "2020-08-24T06:42:42.230Z",
+    "updated_at": "2020-08-24T06:56:54.835Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào bác sĩ . E năm nay 21 tuổi thấy chố ấy rát bất thường nên đi xét nghiệm huyết trắng soi tươi nhưng e không hiểu kết quả xét nghiệm . Bác sĩ có thể phản hồi mail để xem kết quả giúp em được không ạ . Em cảm ơn ",
+    "q_id": "q45806",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Giải thích và chuẩn đoán kết quả soi tươi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75537",
+    "status": 2,
+    "question_link": "/hoi-dap/em-muon-hoi-ve-nguy-co-hanh-vi-nhiem-hiv-c23-q45398#traloi",
+    "created_at": "2020-08-24T06:42:42.231Z",
+    "updated_at": "2020-08-24T06:56:50.650Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Em có một lần quan hệ với gái mại dâm bằng bao cao su. Nhưng do say sỉn quá dương vật của em không cương cứng lên được với lại em có bị hẹp bao quy đầu nên bạn đó mới kiu em không sài bao nhưng tầm 40s thì em rút ra. Sáng dậy tỉnh táo em mới suy nghĩ lại nên đã mua thuốc avonza  về điều trị và bắt đầu điều trị vào khoảng 60h kể từ khi bắt đầu hành vi. Cho em hỏi nguy cơ lây nhiemx của em có cao không ạ",
+    "q_id": "q45398",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Em muốn hỏi về nguy cơ hành vi nhiễm hiv"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756fa",
+    "status": 2,
+    "question_link": "/hoi-dap/ky-sinh-trung-trong-thuc-an-chua-chin-ky-c23-q44827#traloi",
+    "created_at": "2020-08-24T06:42:42.724Z",
+    "updated_at": "2020-08-24T07:01:09.335Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Dạ bác sĩ cho con hỏi mấy hôm trước con có lỡ ăn phải thịt lợn chưa nấu chín kỹ không biết con có khả năng sẽ bị nhiễm giun không ạ? Hiện tại thì con vẫn chưa có biểu hiện nào cụ thể ạ.",
+    "q_id": "q44827",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Ký sinh trùng trong thức ăn chưa chín kỹ"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756fb",
+    "status": 2,
+    "question_link": "/hoi-dap/nhiem-kst-c23-q44185#traloi",
+    "created_at": "2020-08-24T06:42:42.725Z",
+    "updated_at": "2020-08-24T07:01:09.492Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào bác sĩ. Bs làm cho cháu hỏi, cách đây mấy năm cháu ăn rau xà lách sống ,sau đó cảm giác có con gì bò lại còn giãy mạnh trong bụng.hiện tại cảm giác nhiều hơn.thỉnh thoảng xuất hiện vết chấm đỏ dưới da. Liệu có phải cháu đã ăn phải đỉa không hay la loai kst nào ạ. Nếu là đỉa thật có thuốc gì uống vào nó chết hết k ạ.vì cháu đã từng nghe có trường hợp bị ổ đỉa trong bụng.cháu sợ lắm, mong bsĩ tư vấn giúp cháu với",
+    "q_id": "q44185",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Nhiem kst"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756fc",
+    "status": 2,
+    "question_link": "/hoi-dap/nhiem-kst-c23-q44184#traloi",
+    "created_at": "2020-08-24T06:42:42.727Z",
+    "updated_at": "2020-08-24T07:01:09.367Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào bác sĩ. Bs làm cho cháu hỏi, cách đây mấy năm cháu ăn rau xà lách sống ,sau đó cảm giác có con gì bò lại còn giãy mạnh trong bụng.hiện tại cảm giác nhiều hơn.thỉnh thoảng xuất hiện vết chấm đỏ dưới da. Liệu có phải cháu đã ăn phải đỉa không hay la loai kst nào ạ. Nếu là đỉa thật có thuốc gì uống vào nó chết hết k ạ.vì cháu đã từng nghe có trường hợp bị ổ đỉa trong bụng.cháu sợ lắm, mong bsĩ tư vấn giúp cháu với",
+    "q_id": "q44184",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Nhiem kst"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756fd",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-ket-qua-xet-nghiem-mau-tim-ki-sinh-trung-c23-q43082#traloi",
+    "created_at": "2020-08-24T06:42:42.729Z",
+    "updated_at": "2020-08-24T07:01:09.691Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào Bác sĩ ! Bác vui lòng giải đáp giúp e.  Sáng nay Ngày 3.12.2019 vợ chồng e có làm xét nghiệm  lấy máu tại nhà ( text kí sinh trùng ) và chiều nay khi kết quả trả về có ghi : toxocara canis ( giun đũa chó ) : borderline 0.33 .Bác sĩ cho e hỏi với kết quả như vậy k biết chồng em có bị nhiễm giun sán chó hay k ạ\nE cảm ơn Bác Sĩ đã giải đáp !",
+    "q_id": "q43082",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Hỏi về kết quả xét nghiệm máu tìm kí sinh trùng"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756fe",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-san-cho-c23-q42703#traloi",
+    "created_at": "2020-08-24T06:42:42.733Z",
+    "updated_at": "2020-08-24T07:01:09.572Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Em năm nay 21 tuổi cân nặng 60kg.... em đi xét nghiệm toxocara IgG thì kết quả là Dương tính 2.176..... bác sĩ kê toa cho em là 1 viên pizar 6 và 1 viên pizar 3..... 1 tuần sau tiếp tục dùng 1 viên pizar 6 và 1 viên pizar 3.... mà theo những gì em tìm hiểu thì dùng như vậy không hợp lí lắm...cho em hỏi là bác sĩ kê toa như vậy có hợp lí không?... và nếu em dùng pizar nhiều như vậy có ảnh hưởng đến gan không?.... em cảm ơn bác sĩ",
+    "q_id": "q42703",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bệnh sán chó"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756ff",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-c23-q41911#traloi",
+    "created_at": "2020-08-24T06:42:42.734Z",
+    "updated_at": "2020-08-24T07:01:09.480Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Cho tôi hỏi bạn tôi lúc đang đi tắm thì nhìn thấy một con vật màu đỏ đang động đậy, sau khi tìm hiểu bảo đó là giun móc . Vậy bạn tôi có bị gì hay không",
+    "q_id": "q41911",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bệnh"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75700",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-san-cho-co-hien-mau-duoc-khong--c23-q41455#traloi",
+    "created_at": "2020-08-24T06:42:42.735Z",
+    "updated_at": "2020-08-24T07:01:09.502Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Thưa bác sĩ, em bị nhiễm kí sinh trùng giun đũa chó ( sán chó ) đã 3 năm, hiện tại em đang điều trị với các loại thuốc :\n1. Fexofenadin 180 mg ( Telgate 180 (2019) )\n2. Desloratadin 5 mg ( Aleradin (2018L2-19) )\n3. Thymomodulin 80 mg ( IMODULIN (2018) )\nVậy thì em có thể hiến máu được không ạ",
+    "q_id": "q41455",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "BỆNH SÁN CHÓ CÓ HIẾN MÁU ĐƯỢC KHÔNG ?"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75701",
+    "status": 2,
+    "question_link": "/hoi-dap/ket-qua-nhuom-soi-c23-q40576#traloi",
+    "created_at": "2020-08-24T06:42:42.737Z",
+    "updated_at": "2020-08-24T07:01:09.659Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào BS. Vừa rồi em có đi khám sản phụ khoa tại BV Nhờ BS đọc kết quả soi tươi dịch âm đạo giúp em xem em có bị làm sao không ạ Em xin chân thành cảm ơn Bạch cầu 3+,Tế bào biểu mô 3+, nấm men3+(có sợi tơ nấm giả).",
+    "q_id": "q40576",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Kết quả nhuộm soi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75702",
+    "status": 2,
+    "question_link": "/hoi-dap/cach-dieu-tri-giun-san-cho-meo-c23-q39506#traloi",
+    "created_at": "2020-08-24T06:42:42.738Z",
+    "updated_at": "2020-08-24T07:01:09.528Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào Bác Sỹ!\nTôi là Phụ huynh của cháu Hà Thế Lâm (SN: 27/03/2012). Cháu có làm dịch vụ lấy máu xét nghiệm Ký sinh trùng ngày 10/08/2019 tại Trung Tâm Sản Nhi Phú Thọ. Kết quả là cháu dương tính với gian đũa chó mèo và gian tròn người lớn. Bác sỹ có kê đơn cho cháu uống thuốc tẩy run. Em cho cháu uống 3 liều rồi. Vậy cách khoảng bao lâu lại cho cháu uống tiếp à,. và cách điều trị như thế nào là tốt nhất ạ.\nCháu hiện tại được 20kg ạ",
+    "q_id": "q39506",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Cách điều trị giun sán chó mèo"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75703",
+    "status": 2,
+    "question_link": "/hoi-dap/vi-khuan-an-thit-nguoi-c23-q39066#traloi",
+    "created_at": "2020-08-24T06:42:42.739Z",
+    "updated_at": "2020-08-24T07:01:09.377Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào bác sĩ, cho em hỏi vi khuẩn ăn thịt người gram âm B. pseudomallei có lây cho người khi chạm vào xác hay ăn các động vật bị nhiễm khuẩn này không ạ. Em xin cám ơn.",
+    "q_id": "q39066",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "vi khuẩn ăn thịt người"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75704",
+    "status": 2,
+    "question_link": "/hoi-dap/nhiem-ky-sinh-trung-san-cho-c23-q38986#traloi",
+    "created_at": "2020-08-24T06:42:42.740Z",
+    "updated_at": "2020-08-24T07:01:09.545Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Bs ơi cho e hỏi là người nhà em đi khám bị thiếu máu não do bị nhiễm kí sinh trùng sán chó vậy nhà em có được nuôi chó nữa không ạ hay là bắt buộc phải đem chó đi cho vậy ạ :((",
+    "q_id": "q38986",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Nhiễm ký sinh trùng sán chó"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75705",
+    "status": 2,
+    "question_link": "/hoi-dap/thac-mac-ve-ket-qua-xet-nghiem-toxocara-c23-q37747#traloi",
+    "created_at": "2020-08-24T06:42:42.741Z",
+    "updated_at": "2020-08-24T07:01:09.346Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Cháu từng xét nghiệm toxocara ( giun đũa chó mèo ) và kết quả dương tính tại bệnh viện Bạch Mai HN, đã điều trị bằng thuốc tẩy Zentel . Tháng 5/2019 cháu có xét nghiệm lại tại viện ký sinh trùng - côn trùng TW cho kết quả 0.495 ( dương tính ), bác sỹ bảo không phải tẩy nữa dù cháu vẫn bị dị ứng. đến 20/08/2019 cháu có làm xét nghiệm lại tại viện MEDLATEC chi nhánh vĩnh phúc cho kết quả 0.03 ( âm tính ). Cháu muốn hỏi tại sao trong suốt từ tháng 5 đến tháng 8 cháu không dùng thuốc tẩy giun mà kết quả lại khác nhau nhiều vậy? Kết quả xét nghiệm có hoàn toàn chính xác không ạ? hiện tại cháu vẫn còn bị dị ứng vậy cháu phải điều trị thế nào? có cần tiếp tục uống thuốc zentel và 3 tháng sau lại xét nghiệm lại không ạ?",
+    "q_id": "q37747",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "thắc mắc về kết quả xét nghiệm toxocara"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75706",
+    "status": 2,
+    "question_link": "/hoi-dap/tay-giun-c23-q37487#traloi",
+    "created_at": "2020-08-24T06:42:42.742Z",
+    "updated_at": "2020-08-24T07:01:09.396Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "tôi năm nay 28 tuổi, chưa 1 lần tẩy giun. có nên tẩy giun hay không",
+    "q_id": "q37487",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Tẩy Giun"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75707",
+    "status": 2,
+    "question_link": "/hoi-dap/virut-toxo-c23-q34983#traloi",
+    "created_at": "2020-08-24T06:42:42.743Z",
+    "updated_at": "2020-08-24T07:01:09.432Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào bác sĩ,\n\nEm đang mang bầu tuần thứ 14. Đợt xét nghiệm tuần thứ 12 virut toxo dương tính IgM 1 và IgG 65. Sau đó em xét nghiệm lại sau 2 tuần thì chỉ số như cũ IgM 1 và IgG 66. (Em làm 2 xét nghiệm cùng 1 chỗ)\nCùng với kì xét nghiệm lần 2, em làm xét nghiệm ở 1 bệnh viện khác để so sánh thì KQ là IgM 1,3 và IgG 256.\n\nEm được bác sĩ tư vấn là trường hợp của em phải theo dõi thêm. Cho em hỏi là như vậy e có thể an tâm tiếp tục thai kì của mình được không? Hay phải tới 1 trung tâm chuyên về toxo để điều trị.\n\nEm châm thành cảm ơn\n\n",
+    "q_id": "q34983",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Virut toxo"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75708",
+    "status": 2,
+    "question_link": "/hoi-dap/cac-chi-so-do-phan-bo-tc-pdw-cao-va-so-luong-bach-cau-lympho-tang-c23-q34980#traloi",
+    "created_at": "2020-08-24T06:42:42.744Z",
+    "updated_at": "2020-08-24T07:01:09.513Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Vừa rồi tối có khám sức khỏe tại medlatec kết quả xét nghiệm máu có các chỉ số \n Độ phân bố TC (PDW) (cao) và Số lượng bạch cầu Lympho (tăng). với kết quả như vậy tôi phải làm gì tiếp theo, nhờ các bác sỹ tư vấn.",
+    "q_id": "q34980",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Các chỉ số Độ phân bố TC (PDW) (cao) và Số lượng bạch cầu Lympho (tăng)"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75839",
+    "status": 2,
+    "question_link": "/hoi-dap/kinh-gui-bac-sy-c23-q34016#traloi",
+    "created_at": "2020-08-24T06:42:43.098Z",
+    "updated_at": "2020-08-24T07:04:01.676Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Tháng 12/2018 tôi kiểm tra sức khỏe tại MEDLATEC có phất hiện ra sán ở gan . Tôi đã sang Bv nhiệt đới xét nghiêm và điều tri . Nay tôi muốn kiểm tra xem trong cơ thể còn sán lớn lá  gan ko thì làm xét nghiệm gì . Tôi đang sinh sống tại tp hải dương . Mong bác sỹ tư vấn giúp",
+    "q_id": "q34016",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "kính gửi bác sỹ"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7583a",
+    "status": 2,
+    "question_link": "/hoi-dap/tay-giun-cho-be-c23-q33802#traloi",
+    "created_at": "2020-08-24T06:42:43.099Z",
+    "updated_at": "2020-08-24T07:04:03.797Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Em chào bs. Nhà em có bé trai hơn 4 tuổi mỗi tối cháu bị ngứa hậu môn, em soi vào thì thấy con giun màu trắng bằng cái kim. Bác sĩ cho em hỏi cách tẩy giun cho cháu và mua thuốc tẩy giun loại gì ạ? Và có phải cháu bị giun kim ko ạ? em xin cảm ơn bs.",
+    "q_id": "q33802",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Tẩy giun cho bé"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7583b",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-giun-san-tai-nha-c23-q33008#traloi",
+    "created_at": "2020-08-24T06:42:43.100Z",
+    "updated_at": "2020-08-24T07:04:05.048Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Bên mình có dịch vụ xét nghiệm giun sán tại nhà ko? Mình đăng ký ",
+    "q_id": "q33008",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Xét nghiệm giun sán tại nhà"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7583c",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-ket-quả-xet-nhiẹm-c23-q32698#traloi",
+    "created_at": "2020-08-24T06:42:43.101Z",
+    "updated_at": "2020-08-24T07:04:03.809Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Kính chào bác sĩ.  Tôi bị ngứa nổi mề đay khi chạm mạnh vào da. Tôi có đi xét nhiệm Toxocara lgG  cho chỉ số 21.05 cao hơn bình thường. Vậy tôi có phải bị nhiễm giun đũa chó không ạ và chữa ở đâu thì tốt nhất ạ. Nhờ bác sĩ tư vấn giúp ạ.",
+    "q_id": "q32698",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Tư vấn kết quả xét nhiệm"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7583d",
+    "status": 2,
+    "question_link": "/hoi-dap/nhiem-giun-dua-cho-chua-ỏ-dau-hiẹu-quả-c23-q32696#traloi",
+    "created_at": "2020-08-24T06:42:43.102Z",
+    "updated_at": "2020-08-24T07:04:03.223Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "E bị ngứa ,nổi mề đay mỗi khi chạm mạnh vào da. Sau khi làm xét nhiệm Toxocara igG cho kết quả 21.05 cao hơn mức bình thường (9). Như vậy có chính xác e bị nhiễm giun đũa chó không ạ và bệnh này chữa ở viện nào là tốt nhất ạ.",
+    "q_id": "q32696",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Nhiễm giun đũa chó chữa ở đâu hiệu quả"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7583e",
+    "status": 2,
+    "question_link": "/hoi-dap/e-bi-nhiem-khuan-hp-da-day-c23-q32482#traloi",
+    "created_at": "2020-08-24T06:42:43.103Z",
+    "updated_at": "2020-08-24T07:04:01.376Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Cho e hỏi chút ạ e có khám và điều trị HP dạ dày  dương tính  bên mình bác sĩ hẹn e tái khám sau nửa tháng khi hết thuốc và ko được dùng thuốc gì trong vòng nửa tháng đấy giờ e sử dụng cái trà Giảo cổ lam có  ảnh hưởng gì đến việc tái khám ko ạ",
+    "q_id": "q32482",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "E bị nhiễm khuẩn HP dạ dày"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7583f",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-xet-nghiem-ky-sinh-trung-c23-q32197#traloi",
+    "created_at": "2020-08-24T06:42:43.104Z",
+    "updated_at": "2020-08-24T07:04:07.194Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào Bs! Cách đây 5-6 năm trên ngực tôi có xuất hiện vài nốt cứng ( bằng hạt đậu) dưới da, ko đau. Tối có đi siêu âm ngực thì Bs bảo đây chỉ là các hạt nhở dưới đã kiểu như mụn bã đậu dần dần sẽ hết. Những đến nay đã 6 năm mà các hạt này vẫn còn. \n Gần đây tôi có đọc và tìm hiểu bênh nhiễm KST thì nhiều khả năng tôi bị ký sinh trùng đóng kém dưới da( vì tôi cũng hay ăn rau sống)\n Bây giờ tôi muốn làm xét nghiệm KST thì cần làm các xét nghiệm gì? Và chi phí hết bao nhiêu ạ?\nRất mong nhận được sự tư vấn của các BS. Tôi xin chân thành cảm ơn!",
+    "q_id": "q32197",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Tư vấn xét nghiệm ký sinh trùng"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75840",
+    "status": 2,
+    "question_link": "/hoi-dap/san-lon-c23-q32188#traloi",
+    "created_at": "2020-08-24T06:42:43.105Z",
+    "updated_at": "2020-08-24T07:04:03.269Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào các bác sĩ, sau khi ăn thịt lợn luộc em mới phát hiện 1 miếng thịt có dấu hiệu lạ - chấm trắng nhỏ trên mô mỡ của miếng thịt nạc vai. Nhưng hiện tại cơ thể cũng chưa có dấu hiệu gì lạ. Liệu em có bị nhiễm sán lợn không ạ? Em đang mang bầu 16 tuần, liệu có ảnh hưởng gì cho thai nhi không ạ? nếu cần thiết thì phải thực hiện xét nghiệm sán như thế nào? Và nếu nhiễm sán thì hướng điều trị ra sao ạ?",
+    "q_id": "q32188",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Sán lợn"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75841",
+    "status": 2,
+    "question_link": "/hoi-dap/au-trung-san-lon-c23-q32161#traloi",
+    "created_at": "2020-08-24T06:42:43.108Z",
+    "updated_at": "2020-08-24T07:04:03.292Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Bác sĩ cho e hỏi, biểu hiện và cách nhận biết ấu trùng sán dây lợn ở người khi mới bị nhiễm.\nBệnh viện mình có dịch vụ xét nghiệm ấu trùng sán dây này tại nhà không ạ?",
+    "q_id": "q32161",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Ấu trùng sán lợn"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75842",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-giun-san-c23-q31674#traloi",
+    "created_at": "2020-08-24T06:42:43.109Z",
+    "updated_at": "2020-08-24T07:04:05.065Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "chào Bs, nhà. em có nuôi chó và em thì rất yêu quý chúng, gần đây đọc báo thấy nhắc nhiều về giun, sán chó lây cho người. em thấy rất lo lắng, chỉ sợ giun sán lên não thì nguy hiểm, liệu nêua phát hiện giun sán trên não uống thuốc có hết không hay phải mổ ạ? xét nghiệm máu có phát hiện được giun sán ko ạ? mong các bs trả lời giúp em, cám ơn Bs nhiều",
+    "q_id": "q31674",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "hỏi về giun sán"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75843",
+    "status": 2,
+    "question_link": "/hoi-dap/sot-39-nhac-moi-lung-thay-lanh-khat-nuoc--c23-q31463#traloi",
+    "created_at": "2020-08-24T06:42:43.110Z",
+    "updated_at": "2020-08-24T07:04:04.021Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "tôi bị sốt tầm 39 độ trong 12h vừa rồi, người nhấc mỏi, nhất là phần hông và lưng, thấy lạnh trong người ra và háo nước thì có nguy cơ bị gì ?",
+    "q_id": "q31463",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Sốt 39, nhấc mỏi lưng, thấy lạnh, khát nước ?"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75844",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-c23-q31460#traloi",
+    "created_at": "2020-08-24T06:42:43.111Z",
+    "updated_at": "2020-08-24T07:04:04.005Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Xin hỏi bên mình có xét nghiệm huyet thanh nhiễm leptopspira không ạ, cám ơn. ",
+    "q_id": "q31460",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "xét nghiệm"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75845",
+    "status": 2,
+    "question_link": "/hoi-dap/ket-qua-tpha-c23-q30069#traloi",
+    "created_at": "2020-08-24T06:42:43.112Z",
+    "updated_at": "2020-08-24T07:04:03.199Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Xin bác sĩ cho em kết quả xét nghiệm TPHA . Mã 081018-2413806986. Xin cám ơn",
+    "q_id": "q30069",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "kết quả TPHA"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75846",
+    "status": 2,
+    "question_link": "/hoi-dap/vi-khuan-saureus-c23-q29825#traloi",
+    "created_at": "2020-08-24T06:42:43.112Z",
+    "updated_at": "2020-08-24T07:04:11.190Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Tôi làm xn cấy dịch âm đạo có kết quả vi khuẩn gây bệnh là S.aureus ở âm đạo . Đó là bệnh gì và phòng chữa .",
+    "q_id": "q29825",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "vi khuẩn S.aureus"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75847",
+    "status": 2,
+    "question_link": "/hoi-dap/thuoc-tay-giun-c23-q29347#traloi",
+    "created_at": "2020-08-24T06:42:43.114Z",
+    "updated_at": "2020-08-24T07:04:11.203Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "em xét nghiệm máu kết quả bạch cầu ái toan tăng bs tư vấn uống thuốc tẩy giun vậy e nên uống loại thuốc nào thì tốt ? bs tư vấn giúp e. e xin cảm ơn!",
+    "q_id": "q29347",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Thuốc tẩy giun"
+  },
+  {
+    "_id": "5f4361638f60cf559ab759a1",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-giun-dua-cho-toxocara-c23-q28322#traloi",
+    "created_at": "2020-08-24T06:42:43.511Z",
+    "updated_at": "2020-08-24T07:07:23.174Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Bac sỹ cho e hỏi e bị sán chó Toxocariasis , e đi khám bs cho e đơn thuốc Ivermectin liều 3 viên uống 1 lần . Nhưng e lên mạng xem bệnh viện tư vấn nó ko tốt . Bs cho e hỏi khi e bị người e có biểu hiện ngứa vậy sau khi uống thuốc khi nào mới hết giun trong người và nếu ko hết bao lâu e mới có thể sử dụng thuốc khác.Như thuốc mebendazole.\n (Theo Magnaval (2001), thiabendazole liều 25-50 mg/kg/ngày trong 3-7 ngày có hiệu quả trong 50-53% trường hợp bệnh, mebendazole liều 20-25 mg/kg/ngày trong 21 ngày có hiệu quả trong 70% trường hợp bệnh và albendazole liều 10 mg/kg/ngày trong 5 ngày có hiệu quả trong 47% trường hợp bệnh. Tuy diethylcarbamazine (DEC) liều 3-4 mg/kg/ngày trong 21 ngày (khởi đầu với liều 25 mg/ngày và tăng dần) có hiệu quả đến 70% trường hợp bệnh nhưng có đến 28% bệnh nhân bị phản ứng bất lợi và 10% có phản ứng ngứa, nổi mề đay. Ivermectin không được khuyên dùng vì hiệu quả kém. )",
+    "q_id": "q28322",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bệnh giun đũa chó Toxocara"
+  },
+  {
+    "_id": "5f4361638f60cf559ab759a2",
+    "status": 2,
+    "question_link": "/hoi-dap/ket-qua-duoi-day-co-bi-san-cho-ko-ak-c23-q28176#traloi",
+    "created_at": "2020-08-24T06:42:43.512Z",
+    "updated_at": "2020-08-24T07:07:23.392Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Tên xét nghiệm: echinococcus - IgG\nKết quả: NEG < 5 U/mL\nCSBT/NGƯỠNG: ( < 10 U/mL, Gz 10 - 15, < 0,3 OD)",
+    "q_id": "q28176",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Kết quả dưới đây có bị sán chó ko ak"
+  },
+  {
+    "_id": "5f4361638f60cf559ab759a3",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-san-cho-c23-q27934#traloi",
+    "created_at": "2020-08-24T06:42:43.513Z",
+    "updated_at": "2020-08-24T07:07:21.650Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Thưa bác sĩ tôi mới đi xét nghiệm ở bệnh viện đa khoa tỉnh. Bác sĩ cho tôi uống 2 viên Pizar 6mg như vậy có đủ liệu trình trị bệnh của tôi chưa vây?\n",
+    "q_id": "q27934",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bệnh sán chó"
+  },
+  {
+    "_id": "5f4361638f60cf559ab759a4",
+    "status": 2,
+    "question_link": "/hoi-dap/dieu-tri-ap-xe-gan-do-san-c23-q27824#traloi",
+    "created_at": "2020-08-24T06:42:43.514Z",
+    "updated_at": "2020-08-24T07:07:21.665Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Kính gửi Ths Nguyễn Thị Thu Hương\nTôi đi khám và được chẩn đoán áp xe gan do sán. Bác sỹ cho tôi hỏi điều trị áp xe gan do sán có phải nằm viện không? Bệnh viện Medlatec có điều trị bệnh này không? \nTrân trọng cảm ơn",
+    "q_id": "q27824",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Điều trị áp xe gan do sán"
+  },
+  {
+    "_id": "5f4361638f60cf559ab759a5",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-xet-nghiem-ki-sinh-trung-c23-q27583#traloi",
+    "created_at": "2020-08-24T06:42:43.515Z",
+    "updated_at": "2020-08-24T07:07:23.383Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Cho em hỏi giờ em muốn xét nghiệm xem trong máu mình có nhiễm loại giun nào không thì em xét nghiệm những chỉ số nào và giá tiền cho mỗi chỉ số xét nghiệm.\nEm cảm ơn!",
+    "q_id": "q27583",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Hỏi về xét nghiệm kí sinh trùng"
+  },
+  {
+    "_id": "5f4361638f60cf559ab759a6",
+    "status": 2,
+    "question_link": "/hoi-dap/be-bi-nhiem-ky-sinh-trung-c23-q26987#traloi",
+    "created_at": "2020-08-24T06:42:43.516Z",
+    "updated_at": "2020-08-24T07:07:21.679Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Thưa bác sỹ, bé trai nhà em năm nay 4 tuổi có làm xét nghiệm máu vì nghi sốt xuất huyết ngày 23/09,  kết quả xét nghiệm bé âm tính với sốt xuất huyết nhưng nhân viên Melatec có gọi cho gia đình nói là bé bị nhiễm ký sinh trùng. Xin bác sỹ tư vấn thêm cho em về bệnh này và hướng điều trị cho bé. Mã xét nghiệm của bé là 230917-1106806006",
+    "q_id": "q26987",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Bé bị nhiễm ký sinh trùng"
+  },
+  {
+    "_id": "5f4361638f60cf559ab759a7",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-ve-xet-nghiem-thu-mau-ki-sinh-trung--c23-q26885#traloi",
+    "created_at": "2020-08-24T06:42:43.518Z",
+    "updated_at": "2020-08-24T07:07:23.436Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Bác sỹ cho e hỏi , con e 8t nặng 19kg cao 1m2 . Cháu ăn uống rất tốt nhưng không lên kg , rất gầy và xanh xao . Cho đi khám dinh dưỡng uống thuốc nhưng vẫn vậy , cháu cung hay kêu ngứa gãi sẹo hết người . Nếu giờ e muốn xét nghiệm máu cho cháu để kiểm tra xem cháu bệnh gi hoặc có liên quan đến kí sinh trùng trong máu không ? Vì sao cháu lại gầy thế . Thì nên làm các xét nghiệm nào , và bệnh viện nào khám + xét nghiệm ??? ",
+    "q_id": "q26885",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Tư vấn về xét nghiệm thử máu kí sinh trùng "
+  },
+  {
+    "_id": "5f4361638f60cf559ab759a8",
+    "status": 2,
+    "question_link": "/hoi-dap/cai-thien-tinh-trang-thieu-can-nang-c23-q26197#traloi",
+    "created_at": "2020-08-24T06:42:43.519Z",
+    "updated_at": "2020-08-24T07:07:25.635Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "bs cho e hỏi. e là nam 21 tuổi cao 1m65 mà nặng có 43kg. từ năm lớp 12 đến giờ cứ trog khoan bây nhiêu ký thui. e k biết tại sao e an cug dau phai it j ma sao e ốm hoai k mập. nhìn mảnh khảnh tay chân nhỏ xấu lắm bs ơi. mong bs chỉ cách cho em lam như thế nào với ạ. liệu em có bị bệnh gì không",
+    "q_id": "q26197",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Cải thiện tình trạng thiếu cân nặng"
+  },
+  {
+    "_id": "5f4361638f60cf559ab759a9",
+    "status": 2,
+    "question_link": "/hoi-dap/cach-phat-hien-giun-cho-tre-c23-q26162#traloi",
+    "created_at": "2020-08-24T06:42:43.520Z",
+    "updated_at": "2020-08-24T07:07:23.508Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Kính gửi Bác Sĩ Medlatec.\nThằng cu nhà tôi  3 tuôi cứ đêm đến là nằm sấp và rung đùi, mông, cùng với việc hay quấy khóc khó chịu, tôi phát hiện trong phân của cháu co giun nên nghi là cháu bị nhiễm giun. vậy mong bác sĩ tư vấn cho tôi hiện tượng trên có phải đặc trưng khi bị nhiễm giun hay không, và nếu tôi định đi khám giun cho cháu tôi có phải chuẩn bị phân hay cái gì để có thể thuận tiện cho việc khám cho cháu.\nTôi xin cám ơn!",
+    "q_id": "q26162",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Cách phát hiện giun cho trẻ"
+  },
+  {
+    "_id": "5f4361638f60cf559ab759aa",
+    "status": 2,
+    "question_link": "/hoi-dap/nghi-ngo-dai-sau-khi-bi-cho-can-c23-q26001#traloi",
+    "created_at": "2020-08-24T06:42:43.521Z",
+    "updated_at": "2020-08-24T07:07:23.271Z",
+    "__v": 0,
+    "c_id": "c23",
+    "q_content": "Chào bác sĩ, hôm qua vào lúc khoảng 4h00 ngày 29/5/2017 em bị răng con chó con làm xước da chảy máu không sâu nhưng lúc đó không có dụng cụ làm sạch vết thương,  bác sĩ cho em hỏi là em có nên tiêm phòng không ạ ?",
+    "q_id": "q26001",
+    "q_related": [
+      {
+        "text": "Hiv",
+        "href": "/hoi-dap/hiv-c23-q55652"
+      },
+      {
+        "text": "Nhiễm toxocara",
+        "href": "/hoi-dap/nhiem-toxocara-c23-q55411"
+      },
+      {
+        "text": "mèo của em bị giun sán ",
+        "href": "/hoi-dap/meo-cua-em-bi-giun-san--c23-q55021"
+      },
+      {
+        "text": "Sán chó",
+        "href": "/hoi-dap/san-cho-c23-q54662"
+      },
+      {
+        "text": " Giun chó mèo",
+        "href": "/hoi-dap/-giun-cho-meo-c23-q54659"
+      }
+    ],
+    "q_title": "Nghi ngờ dại sau khi bị chó cắn"
+  }
+]

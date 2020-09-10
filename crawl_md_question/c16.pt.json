@@ -1,0 +1,920 @@
+[
+  {
+    "_id": "5f4361618f60cf559ab75376",
+    "status": 2,
+    "question_link": "/hoi-dap/da-dàu-bị-mèm-c16-q55046#traloi",
+    "created_at": "2020-08-24T06:42:41.703Z",
+    "updated_at": "2020-08-24T06:52:57.053Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Bác sĩ tư vấn dùm. Da đầu tui bị mềm trên đỉnh đầu là bị dệnh gì vây?. Dấu hiệu đụng vô không dau, không sưng da đầu màu sắt bình thường ạ. ",
+    "q_id": "q55046",
+    "q_related": [
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      },
+      {
+        "text": "Kiểm tra dinh dưỡng",
+        "href": "/hoi-dap/kiem-tra-dinh-duong-c16-q30455"
+      }
+    ],
+    "q_title": "Da đầu bị mềm"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75377",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-thuoc--c16-q40307#traloi",
+    "created_at": "2020-08-24T06:42:41.704Z",
+    "updated_at": "2020-08-24T06:52:56.684Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Thuốc NatraCare rang bột 21 gói 1 hộp có tác dung gi",
+    "q_id": "q40307",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      },
+      {
+        "text": "Kiểm tra dinh dưỡng",
+        "href": "/hoi-dap/kiem-tra-dinh-duong-c16-q30455"
+      }
+    ],
+    "q_title": "Hỏi thuốc "
+  },
+  {
+    "_id": "5f4361618f60cf559ab75378",
+    "status": 2,
+    "question_link": "/hoi-dap/giai-dap-thac-mac-c16-q33023#traloi",
+    "created_at": "2020-08-24T06:42:41.706Z",
+    "updated_at": "2020-08-24T06:52:57.006Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "xin bs đọc giúp kết quả xn 230419-1201352958 nhờ bs giải thích các thông số",
+    "q_id": "q33023",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      },
+      {
+        "text": "Kiểm tra dinh dưỡng",
+        "href": "/hoi-dap/kiem-tra-dinh-duong-c16-q30455"
+      }
+    ],
+    "q_title": "giải đáp thắc mắc"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75379",
+    "status": 2,
+    "question_link": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989#traloi",
+    "created_at": "2020-08-24T06:42:41.707Z",
+    "updated_at": "2020-08-24T06:52:55.152Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Mình có cháu bé được 13 tháng tuổi muốn xn máu để khám dinh dưỡng xem cháu có thừa/ thiếu chất nào không và hướng dẫn cách bổ sung/ ăn uống cho bé. Cho mình hỏi nếu mình đặt làm XN máu ở Medlatec thì có BS chuyên về sinh dưỡng nhi khoa đọc kết quả và tư vấn dinh dưỡng giúp mình không hay mình sẽ phải tự tra cứu kết quả?\n\n",
+    "q_id": "q30989",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      },
+      {
+        "text": "Kiểm tra dinh dưỡng",
+        "href": "/hoi-dap/kiem-tra-dinh-duong-c16-q30455"
+      }
+    ],
+    "q_title": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7537a",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472#traloi",
+    "created_at": "2020-08-24T06:42:41.708Z",
+    "updated_at": "2020-08-24T06:52:59.099Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Thưa bác sĩ,\n\nGần đây em có đi xét nghiệm về Vitamin D thì kết quả chỉ số ở mức 24.3 ng/mL\n\nEm có đọc bài viết về vitamin D ở đây: https://medlatec.vn/chi-tiet/can-lam-sang/-y-nghia-lam-sang-cua-xet-nghiem-vitamin-d----22-2176.aspx\n\nTrong các triệu chứng thì em cảm thấy mệt mỏi thường xuyên, mặc dù ăn uống đầy đủ và thể thao đều đặn\n\nVậy cho em hỏi có phải em đang thiếu vitamin D và cần được bổ sung như thế nào ạ?\n\nSau khi bổ sung thì nên đi kiểm tra lại định kỳ bao lâu 1 lần ạ?\n\nCảm ơn bác sĩ",
+    "q_id": "q30472",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Kiểm tra dinh dưỡng",
+        "href": "/hoi-dap/kiem-tra-dinh-duong-c16-q30455"
+      }
+    ],
+    "q_title": "Xét nghiệm Vitamin D"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7537b",
+    "status": 2,
+    "question_link": "/hoi-dap/kiem-tra-dinh-duong-c16-q30455#traloi",
+    "created_at": "2020-08-24T06:42:41.710Z",
+    "updated_at": "2020-08-24T06:52:57.316Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Chào bác sỹ. Hiện tôi 27 tuổi, cao 1m58, nặng 40kg. Vì vậy, tôi muốn kiểm tra chế độ dinh dưỡng/cơ thể thiếu và cần bổ sung những gì. Mong bác sỹ tư vấn giúp tôi. Xin chân thành cảm ơn bác sỹ và bệnh viện.",
+    "q_id": "q30455",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Kiểm tra dinh dưỡng"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7537c",
+    "status": 2,
+    "question_link": "/hoi-dap/suc-khoe-hang-ngay-c16-q30025#traloi",
+    "created_at": "2020-08-24T06:42:41.711Z",
+    "updated_at": "2020-08-24T06:52:57.212Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Bác sĩ ơi, dạo gần đây cháu luôn trong tình trạng mệt mỏi chán ăn, mắt đôi khi hơi hoa mắt. Đầu óc lúc nào cũng trong tình trạng lú lẫn, lơ mơ. Cho cháu hỏi cháu bị làm sao ạ. Cháu còn bị chán ăn nữa. Xin bác sĩ chuẩn đoán cho cháu và cho cháu phương pháp điều trị, chái xin cảm ơn",
+    "q_id": "q30025",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Sức khoẻ hàng ngày"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7537d",
+    "status": 2,
+    "question_link": "/hoi-dap/cac-chi-so-dinh-duong-cua-tre-sau-khi-co-ket-qua-xet-nghiem-mau-c16-q30020#traloi",
+    "created_at": "2020-08-24T06:42:41.712Z",
+    "updated_at": "2020-08-24T06:52:54.740Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Chào bác sĩ!\nCon tôi hiện nay được 1 tuổi, cháu có hiện tượng rụng tóc vành khăn khá nặng, gia đình nghi cháu có thể bị thiếu canxi nên đã tiến hành xét nghiệm máu ở bệnh viện và nhận được kết quả là nồng độ sắt huyết thanh 7.8 mmol/L, canxi là  2,73 mmol/L,  canxi ion là 1.38 mmol/L. Nhờ bác sĩ tư vấn các chỉ số trên là như thế nào ạ?",
+    "q_id": "q30020",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Các chỉ số dinh dưỡng của trẻ sau khi có kết quả xét nghiệm máu"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7537e",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-dinh-duong-c16-q29697#traloi",
+    "created_at": "2020-08-24T06:42:41.714Z",
+    "updated_at": "2020-08-24T06:52:53.825Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Thưa bác sỹ ! E xin đc bsy tư vấn giúp e ah. E có con trai năm nay 8 tuổi,cao 124cm nặng 23kg. Con rất gầy. Con ăn uống bình thường , nhưng cách đây 4 năm con bị bệnh đau dạ dày có vi khuẩn HP , từ đó trở đi, mặc dù e đi khám dinh dưỡng & bổ sung cho cháu nhưng cháu vẫn ko cải thiện. Vậy nhờ bsy tư vấn cho e với ah. ",
+    "q_id": "q29697",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Tư vấn dinh dưỡng"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7537f",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-dinh-duong-cho-be-c16-q29675#traloi",
+    "created_at": "2020-08-24T06:42:41.715Z",
+    "updated_at": "2020-08-24T06:52:55.405Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "e chào các bác sỹ ạ, bé nhà e hiện tại được 8 tháng 10 ngày, bé đi phân cứ nhão nhoẹt như cháo xay í ạ, ngày đi 3 lần, có ngày đi 2 lần, hiện tại bé nhà e đang ăn dặm ngày ăn 3 bữa, sáng e nấu cháo xay cho bé, bữa trưa và tối thì e cho bé ăn bột ăn dặm redialac, thỉnh thoảng buổi tối e nấu cho bé ăn, trước bé 7 tháng e cho bé ăn bột redialac phân bình thường, nhưng 1 tháng nay bé đi phân nhão nhoẹt như cháo xay, bác sỹ cho e hỏi chế độ ăn của bé như vậy có được k ạ, ngày và phân bé đi như thế có bị loạn khuẩn k ạ, sáng mai bé ị e gửi mẫu phân đến trung tâm mình để xét nghiệm, e cám ơn các bac sỹ",
+    "q_id": "q29675",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "tư vấn dinh dưỡng cho bé"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75380",
+    "status": 2,
+    "question_link": "/hoi-dap/gan-nhiem-mo-do-ii-c16-q28974#traloi",
+    "created_at": "2020-08-24T06:42:41.716Z",
+    "updated_at": "2020-08-24T06:52:53.694Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "30 tuổi. nghề nghiệp làm việc máy tính. siêu âm gan nhiễm mỡ độ 2. kết quả xét nghiệm thì máu không nhiễm mỡ. không bị tiểu đường. đang nuôi con nhỏ 6 tháng\ngan nhiễm mỡ độ 2. cao 1m55 60kg.đang nuôi con bú 6 tháng thì cần có chế độ ăn uống như thế nào để giảm mỡ mà vẫn có sữa cho con. xin cảm ơn",
+    "q_id": "q28974",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Gan nhiễm mỡ độ II"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75381",
+    "status": 2,
+    "question_link": "/hoi-dap/nho-bac-si-tu-van-ket-qua-xet-nghiem-c16-q28899#traloi",
+    "created_at": "2020-08-24T06:42:41.718Z",
+    "updated_at": "2020-08-24T06:52:58.840Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Họ và tên\t:\tNGUYỄN THỊ VINH\tĐơn vị\t:\tVăn phòng Ba Đình\nNăm sinh\t:\t1937\tGiới tính\t:\tNữ\nĐịa chỉ\t:\t\tThẻ khách hàng\t:\t\nMã xét nghiệm\t:\t270618-1105108839\tNgày xét nghiệm\t:\t27/06/2018\nBác sĩ chỉ định\t:\t\tĐiện thoại\t:\t\nTrạng thái\t:\tĐủ kết quả\tChẩn đoán\t:\tKIỂM TRA\nDanh mục khám\tKết quả\tĐơn vị\tChỉ số bình thường\tGhi chú\tĐơn giá\nTổng phân tích máu 32 chỉ số :\t\t\tĐT >16 tuổi \t\t116.100\nSố lượng bạch cầu (WBC)\t8.8\tG/L \t3.5-10.5 \t\nSố lượng hồng cầu (RBC) \t3.95\tT/L \t3.9-5.03 \t\nLượng huyết sắc tố (Hb) \t11.7\tg/dL \t12.0-15.5 \tGiảm (Xem chi tiết)\nThể tích khối hồng cầu (HCT)\t34.2\t% \t37-42 \tGiảm (Xem chi tiết)\nThể tích trung bình HC (MCV)\t86\tfL \t85-95 \t\nLượng Hb trung bình HC( MCH)\t29.5\tpg \t28-32 \t\nNồng độ Hb trung bình HC (MCHC)\t34.1\tg/dL \t32-36 \t\nĐộ phân bố HC (RDW- CV)\t13.5\t% \t10-16.5 \t\nSố lượng tiểu cầu (PLT)\t265\tG/L \t150-450 \t\nThể tích trung bình tiểu cầu( MPV)\t8.8\tfL \t04-11.0 \t\nThể tích khối tiểu cầu (PCT)\t0.234\t% \t0.1-1.0 \t\nĐộ phân bố TC (PDW)\t16.0\t% \t10-16.5 \t\nTỷ lệ % bạch cầu trung tính\t68.4\t% \t43-76 \t\nTỷ lệ % bạch cầu Lympho\t18.9\t% \t17-48 \t\nTỷ lệ % bạch cầu Mono\t9.5\t% \t4.0-8.0 \tTăng (Xem chi tiết)\nTỷ lệ % bạch cầu ái toan\t2.5\t% \t0-7.0 \t\nTỷ lệ % bạch cầu ái kiềm\t0.7\t% \t0-2.5 \t\n% Lympho không điển hình\t0.4\t% \t0-2.5 \t\n% TB non lớn\t0.9\t% \t0-3.0 \t\nSố lượng bạch cầu trung tính\t6.00\tG/L \t2-6.9 \t\nSố lượng bạch cầu Lympho\t1.66\tG/L \t0.6-3.4 \t\nSố lượng bạch cầu Mono\t0.83\tG/L \t0-0.9 \t\nSố lượng bạch cầu ái toan\t0.22\tG/L \t0-0.7 \t\nSố lượng bạch cầu ái kiềm\t0.06\tG/L \t0-0.2 \t\nSL Lympho không điển hình\t0.04\tG/L \t0-0.25 \t\nSL TB non lớn\t0.08\tG/L \t0-0.3 \t\n% BC đa nhân non\t0.6\t% \t0-2.5 \t\n% Lympho non\t0.1\t% \t0-2.5 \t\n% BC Mono non\t0.2\t% \t0-1.1 \t\nSL BC đa nhân non\t0.05\tG/L \t0-0.25 \t\nSL BC Lympho non\t0.01\tG/L \t\nSL BC Lympho non\t0.01\tG/L \t0-0.25 \t\nSL BC Mono non\t0.02\tG/L \t0-0.11 \t\nAST (Architect)\t19.80\tU/L \t(< 34.0) \t\t35.100\nALT (Architect)\t16.70\tU/L \t(< 55.0) \t\t35.100\nBilirubin toàn phần (Cobas)\t5.7\tµmol/L \t(0 - 21.0) \t\t26.100\nBilirubin trực tiếp (Cobas)\t2.3\tµmol/L \t(0 - 5.0) \t\t26.100\nGamma GT(Architect)\t22.10\tU/L \t(5.0 - 36.0) \t\t44.100\nProtein máu (Architect)\t69.70\tg/L \t(60 - 87) \t\t35.100\nGlucose máu (Cobas)\t4.81\tmmol/L \t(3.88 - 6.38) \t\t35.100\nHbA1c\t5.6\t% \t(4.2 - 6.4) \t\t134.100\nUre máu (Architect)\t4.60\tmmol/L \t(2.50 - 8.07)\t\t35.100\nCreatinin máu (Architect)\t50.00\tµmol/L \t(44-106) \t\t35.100\nUric acid máu (Cobas)\t336.5\tµmol/L \t(120-380) \t\t44.100\nTriglyceride (Architect)\t2.36\tmmol/L \t(0.46 - 2.25) \tTăng (Xem chi tiết)\t35.100\nCholesterol (Architect)\t4.31\tmmol/L \t(2.8 - 5.2) \t\t35.100\nHDL-Cholesterol (Architect)\t0.73\tmmol/L \t(0.9 - 2.0) \tGiảm (Xem chi tiết)\t44.100\nLDL-Cholesterol (Architect)\t2.52\tmmol/L \t(<3.4) \t\t49.500\nĐiện giải đồ (Na, K, CL)\t\t\t\t\t62.100\nNatri máu (Architect)\t139.28\tmmol/L \t(136.0 - 150.0) \t\nKali máu (Architect)\t4.2\tmmol/L \t(3.5 - 5.1) \t\nClo máu (Architect)\t103.83\tmmol/L \t(97.0 - 111.0) \t\nCalci máu (Architect)\t2.32\tmmol/L \t(2.2 - 2.6) \t\t44.100\nCalci Ion (Architect)\t1.22\tmmol/L \t(1.10 - 1.35) \t\t44.100\nHBsAg (Cobas)\t0.382\tCOI \t(<1) \tÂm tính (Xem chi tiết)\t89.100\nAFP (Architect)\t3.44\tng/mL \t(0-8.78) \t\t161.100\nCA 15-3 (Cobas)\t5.62\tU/mL \t(0-25) \t\t224.100\nCA 19-9 (Cobas)\t< 2\tU/mL \t(0-37) \t\t224.100\nCA 125 (Architect) \t9.50\tU/mL \t(0-35) \t\t224.100\nCEA (Architect)\t1.43\tng/mL \t(< 5) \t\t224.100\nFT4 (Cobas)\t16.00\tpmol/L \t(12-22) \t\t89.100\nTSH (Cobas)\t1.450\tµU/mL \t(0.27 - 4.2) \t\t116.100\nTổng phân tích nước tiểu\t\t\t\t\t36.000\nTỉ trọng\t1.010\t\t(1.005 - 1.025) \t\npH\t7.0\t\t(5.5 - 7.5) \t\nBạch cầu\tÂm tính\tBC/µL \t(Âm tính) \t\nNitrite\tÂm tính\t\t(Âm tính) \t\nProtein nước tiểu\tÂm tính\tmg/dL \t(Âm tính) \t\nGlucose nước tiểu\tÂm tính\tmg/dL \t(Âm tính) \t\nKetone\tÂm tính\tmg/dL \t(Âm tính) \t\nUrobilinogen\tÂm tính\tmg/dL \t(Âm tính) \t\nBilirubin nước tiểu\tÂm tính\tmg/dL \t(Âm tính) \t\nHồng cầu\t25Ery/uL 1+\tHC/µL \t(Âm tính) \tCao (Xem chi tiết)\nAxit Ascorbic\tÂm tính\tmg/dL \t(Âm tính) \t\nCặn nước tiểu\tTb biểu mô (+)\t\t\t\t35.100\nHồng cầu (+)\t\t\t\n",
+    "q_id": "q28899",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Nhờ bác sĩ tư vấn kết quả xét nghiệm"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75382",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-te-nua-nguoi-c16-q26895#traloi",
+    "created_at": "2020-08-24T06:42:41.719Z",
+    "updated_at": "2020-08-24T06:52:56.922Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Như hiện tại tôi đã đi chụp cộng hưởng từ thì bác sỹ ở Đại học kết luận tôi bị thái hóa não và có hiện tượng của chảy máu não và kê dơn thuốc cho tôi sau 1 tháng uống thuốc theo đơn thì tình trạng của bệnh k thuyên giảm mà chiệu chứng tê chân và nóng nửa nguwoif càng tăng vậy tôi đang bị bệnh gì?\nXin cảm ơn",
+    "q_id": "q26895",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Bệnh tê nửa người"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75383",
+    "status": 2,
+    "question_link": "/hoi-dap/xin-tu-van-ve-hien-tuong-mat-ngu-chong-mat-dau-dau-ngu-khong-sau-hay-mo-c16-q26508#traloi",
+    "created_at": "2020-08-24T06:42:41.720Z",
+    "updated_at": "2020-08-24T06:52:56.950Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Tôi có hiện tượng như: ngủ không sâu, hay mơ màng, chóng mặt , đau đầu. Hôm nay 5.8 lấy máu xét nghiệm có kết quả : Nồng độ Hb trung bình 31.7(32-36)/thấp..Số lượng bạch cầu trung tính 1.87(2-6.9)/giảm. Tỷ lệ bạch cầu trung tính 41.6%/giảm\nxin Bác sỹ tư vấn có phải tôi bị thiếu máu  mà có các hiện tượng kia không. Hàng ngày tôi có dùng một số thực phẩm chức năng như viên Hoạt huyết dưỡng não,viên mát gan/ Hoa ké ngựa, viên Lutein/bổ mắt và tảo soắn\nCám ơn Bác sỹ\n",
+    "q_id": "q26508",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Xin tư vấn về hiện tượng: mất ngủ, chóng mặt, đau đầu, ngủ không sâu, hay mơ"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75384",
+    "status": 2,
+    "question_link": "/hoi-dap/nguyen-nhan-sut-can-an-kem-c16-q26031#traloi",
+    "created_at": "2020-08-24T06:42:41.721Z",
+    "updated_at": "2020-08-24T06:52:56.757Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "một tháng trở lại đây tôi thấy ăn uống kém, kèm theo gày sút cân, vậy xin bác sỹ tư vấn cho tôi cần thăm khám như thế nào?",
+    "q_id": "q26031",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Nguyên nhân sút cân, ăn kém"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75574",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-noi-thi-thao-khi-ngu-c16-q26006#traloi",
+    "created_at": "2020-08-24T06:42:42.296Z",
+    "updated_at": "2020-08-24T06:57:06.778Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Chào bác sĩ, tôi muốn nhờ bác sĩ tư vấn hộ trường hợp của bố tôi. Bố tôi năm nay 83 tuổi, bị lẫn nhẹ nhưng vẫn tỉnh táo, sinh hoạt bình thường, cụ vẫn làm các công việc nhà như nấu cơm, đi chợ, dọn dẹp vườn tược, nhà cửa... Tuy nhiên thời gian gần đây tôi phát hiện cụ cứ ngủ là nói thì thào một mình. Cụ nói thì thào suốt cả đêm, cứ đặt lưng xuống là cụ thì thào, thậm chí khi xem tivi cụ mệt nên nhắm mắt lơ mơ là lại nói thì thào. Ban đêm cụ dậy đi vệ sinh vẫn tỉnh táo bình thường nhưng quay về giường đặt lưng xuống là lại thấy cụ thì thào.  Ghé sát vào vẫn nghe rõ câu chữ cụ nói như đang nói chuyện với một người khác. Sáng ra tôi hỏi cụ có mơ gì không nhưng cụ nói không mơ gì, vẫn ngủ ngon. Cụ bị như thế một thời gian rồi, đêm nào cũng nói suốt đêm như vậy. Tôi rất lo cho sức khỏe của bố tôi vì nói thì thào suốt đêm như vậy sẽ rất mệt. Tôi nhờ bác sĩ tư vấn xem bố tôi bị bệnh gì và chữa trị như thế nào? Xin cảm ơn bác sĩ.",
+    "q_id": "q26006",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Bệnh nói thì thào khi ngủ"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75575",
+    "status": 2,
+    "question_link": "/hoi-dap/chung-dau-nua-dau-c16-q25752#traloi",
+    "created_at": "2020-08-24T06:42:42.297Z",
+    "updated_at": "2020-08-24T06:57:06.828Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Đầu tôi thường xuyên bị nặng, nửa đầu bên phải. Bác sĩ tư vấn giúp tôi ạ",
+    "q_id": "q25752",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Chứng đau nửa đầu"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75576",
+    "status": 2,
+    "question_link": "/hoi-dap/kham-benh-cho-nguoi-gia-c16-q23755#traloi",
+    "created_at": "2020-08-24T06:42:42.298Z",
+    "updated_at": "2020-08-24T06:57:06.661Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Bố tôi năm nay đã 90 tuổi, trước Tết bố tôi có bị ngã và gãy 3 đốt ngón tay phải, đã bó bột tại bệnh viện Việt Đức, chụp lại xương có tiến triển tốt. Bình thường bố tôi cũng có những đợt đau và choáng đầu, chỉ loanh quanh trong nhà một lúc lại nằm nghỉ. Ông vấn uống hoạt huyết dưỡng não. Hiện tại bố tôi đang cảm thấy hay đau đầu, khó chịu, đầy bụng chán ăn. Gia đình định đưa ông đi khám ở bệnh viện nhưng sợ ông mệt vì ông không ngồi và đi lại được lâu. Cách đây khoảng 3 tháng bố tôi cũng đã xét nghiệm các chỉ số máu, chỉ bị mỡ máu hơi cao một chút. Huyết áp hàng ngày của bố tôi cao nhất thường từ 130 - 147, 85-95, nhịp tim 80 - 90, mấy hôm gần đây có hôm lên 101. Theo bác sĩ thì gia đình tôi nên đưa bố tôi vào viện hay nhờ bác sĩ về khám tại nhà. ",
+    "q_id": "q23755",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "khám bệnh cho người già"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75577",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-kham-va-chua-benh-c16-q23680#traloi",
+    "created_at": "2020-08-24T06:42:42.299Z",
+    "updated_at": "2020-08-24T06:57:06.640Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "kính gửi bác sỹ. Tôi có một nội dung muốn BS tư vấn như sau:  Bố tôi năm nay 65 tuổi, từ ngày 29 đến hôm này ( mùng 3 tết), bố tôi thấy trong người mệt mỏi, chỉ muốn nằm, không muốn ăn uống gì, tôi rất lo lắng. Muốn đưa ông đi khám tại bệnh viện. Biểu hiện của bố tôi là, người mệt mỏi hơn mức bình thường, sắc da không tốt (hơi xanh), bố tôi đang bị bệnh viêm khớp, trước đây khi đi bộ đội có bị sốt rét.  Vậy theo BS, với các biểu hiện trên thì tình hình sức khỏe của bố tôi như thế nào, có thể bị bênh gì và kế hoạch khám, xét nghiệm ở đâu để có pháp đồ điều trị tốt nhất. Qua giới thiêu của anh em bạn bè, thấy Medlatec có nhiều kinh nghiệm trong vấn đề khám bệnh.   Mong BS cho gia đình tôi một lời khuyên  Trân trọng cảm ơn.",
+    "q_id": "q23680",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Tư vấn khám và chữa bệnh"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75578",
+    "status": 2,
+    "question_link": "/hoi-dap/tien-liet-tuen-c16-q23275#traloi",
+    "created_at": "2020-08-24T06:42:42.300Z",
+    "updated_at": "2020-08-24T06:57:07.255Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Tôi hay bị đi tiểu đêm, đi siêu âm bác sỹ bảo có phì đại tiền liệt tuyến, xin bác sỹ tư vấn cần điều trị như thế nào.",
+    "q_id": "q23275",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "tiền liệt tuến"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75579",
+    "status": 2,
+    "question_link": "/hoi-dap/phi-dai-tien-liet-tuyen-c16-q22129#traloi",
+    "created_at": "2020-08-24T06:42:42.302Z",
+    "updated_at": "2020-08-24T06:57:06.845Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Tôi gần đây hay bị đi tiểu đêm, tôi mới đi khám và trong đó có siêu âm thì được kết luận phì đại tiền liệt tuyến, vậy xin bác sỹ tư vấn về điều trị.",
+    "q_id": "q22129",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Phì đại tiền liệt tuyến"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7557a",
+    "status": 2,
+    "question_link": "/hoi-dap/xin-tu-van-ve-lao-khoa-c16-q21964#traloi",
+    "created_at": "2020-08-24T06:42:42.304Z",
+    "updated_at": "2020-08-24T06:57:18.613Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Chào B.Sỹ. Tôi mấy hôm nay có hiện tượng đầu cứ bí bí, đi lại cứ chòng chành như say sóng, mất thăng bằng.  Xin B.Sỹ tư vấn tôi bệnh gì và cách điều trị thế nào.  Xin cảm ơn.",
+    "q_id": "q21964",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "xin tư vân về lão khoa"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7557b",
+    "status": 2,
+    "question_link": "/hoi-dap/da-thịt-dỉnh-dàu-nhun-c16-q21888#traloi",
+    "created_at": "2020-08-24T06:42:42.305Z",
+    "updated_at": "2020-08-24T06:57:18.605Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Tôi hay bị nhũn lùng bùng trên đỉnh đầu, màu sắc da bình thường, thời trẻ có lúc đau đầu, sau đó tự khỏi.bây giờ không đau đầu.Xin được tư vấn..!",
+    "q_id": "q21888",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Da thịt đỉnh đầu nhũn"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7557c",
+    "status": 2,
+    "question_link": "/hoi-dap/tien-liet-tuyen-c16-q21797#traloi",
+    "created_at": "2020-08-24T06:42:42.306Z",
+    "updated_at": "2020-08-24T06:57:18.595Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Tôi đi siêu âm, bác sỹ nói bị phì đại tiền liệt tuyến, xin bác sỹ tư vấn tôi có cần điều trị gì không?",
+    "q_id": "q21797",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Tiền liệt tuyến"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7557d",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-cao-huyet-ap-c16-q15191#traloi",
+    "created_at": "2020-08-24T06:42:42.307Z",
+    "updated_at": "2020-08-24T06:57:14.769Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Bệnh này nguyên nhân do đâu? và chế độ ăn uống hợp lý như thế nào? cách phòng tránh như thế nào khi huyết áp tăng dột biến trước khi đưa đến bệnh viện.",
+    "q_id": "q15191",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Bệnh cao huyết áp"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7557e",
+    "status": 2,
+    "question_link": "/hoi-dap/sut-ky--ngua-c16-q12433#traloi",
+    "created_at": "2020-08-24T06:42:42.308Z",
+    "updated_at": "2020-08-24T06:57:18.731Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "Chào bác sĩ !    Mấy năm nay tôi bị cao huyết áp, thoái hoá khớp và thường xuyên bị mất ngủ. Gần 2 năm nay tôi có triệu chứng sụt ký nhanh và ngứa ngái ( lúc trước ngứa trên đầu giờ ngứa luôn cả lưng và bụng). Tôi rất lo lắng nên đi BV 115 xét nghiệm tổng quát đường thì bình thường, men gan cũng không cao, nước tiểu và thận cũng rất tốt, có điều tôi bị mỡ trong máu và năng lượng tích trữ ( lần trước hơi cao nhưng lần xét nghiệm này cũng gỉam được đôi chút), ở nhà tôi rất hạn chế ăn đồ ngọt và tinh bột. Tôi cũng đã đi da liễu uống thuốc rất nhiều lần không hết. Tôi rất lo lắng cho chứng mất ngủ, sụt cân và ngứa của tôi.",
+    "q_id": "q12433",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Sụt ký - ngứa"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7557f",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-cac-cong-so-xet-nghiem-mau-c16-q8525#traloi",
+    "created_at": "2020-08-24T06:42:42.309Z",
+    "updated_at": "2020-08-24T06:57:18.662Z",
+    "__v": 0,
+    "c_id": "c16",
+    "q_content": "chào anh/ chị  tôi vừa xét nghiệm máu tại bệnh viện ngày hôm nay. kết quà tôi thấy có mấy thông số cao hoặc giảm hơn mức bình thường, cụ thể là:  Số lượng huyết sắc tố (Hb) 11.8 Giảm  Tỷ lệ % bạch cầu Mono 8.9% tăng  Triglyceride  4.21 mmol/l tăng.  Vậy các thông số trên tăng hoặc giảm có đắng lo lắm không, và chỉ cho tôi cách để các thông số đó nằm trong mức cho phép.  Trân trọng cám ơn",
+    "q_id": "q8525",
+    "q_related": [
+      {
+        "text": "Da đầu bị mềm",
+        "href": "/hoi-dap/da-dàu-bị-mèm-c16-q55046"
+      },
+      {
+        "text": "Hỏi thuốc ",
+        "href": "/hoi-dap/hoi-thuoc--c16-q40307"
+      },
+      {
+        "text": "giải đáp thắc mắc",
+        "href": "/hoi-dap/giai-dap-thac-mac-c16-q33023"
+      },
+      {
+        "text": "Nhờ bác sĩ chuyên dinh dưỡng Nhi đọc & tư vấn kết quả xét nghiệm máu của bé có được không",
+        "href": "/hoi-dap/nho-bac-si-chuyen-dinh-duong-nhi-doc--tu-van-ket-qua-xet-nghiem-mau-cua-be-co-duoc-khong-c16-q30989"
+      },
+      {
+        "text": "Xét nghiệm Vitamin D",
+        "href": "/hoi-dap/xet-nghiem-vitamin-d-c16-q30472"
+      }
+    ],
+    "q_title": "Hỏi về các công số xét nghiệm máu"
+  }
+]

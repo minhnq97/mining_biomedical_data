@@ -1,0 +1,1022 @@
+[
+  {
+    "_id": "5f4361618f60cf559ab75246",
+    "status": 2,
+    "question_link": "/hoi-dap/dich-vu-c64-q55574#traloi",
+    "created_at": "2020-08-24T06:42:41.288Z",
+    "updated_at": "2020-08-24T06:49:48.264Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Bsi cho e hỏi trẻ dưới 6tuổi mà khám ở pk mình có đc hưởng chế độ bhyt cho trẻ em k ạ?",
+    "q_id": "q55574",
+    "q_related": [
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      },
+      {
+        "text": "Hỏi giá xét nghiệm",
+        "href": "/hoi-dap/hoi-gia-xet-nghiem-c64-q49276"
+      }
+    ],
+    "q_title": "Dịch vụ"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75247",
+    "status": 2,
+    "question_link": "/hoi-dap/health-check-up--c64-q55419#traloi",
+    "created_at": "2020-08-24T06:42:41.289Z",
+    "updated_at": "2020-08-24T06:49:48.161Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Good day\nI would like to ask if it's possible to have a health check up for a foreigner that includes tests like HIV, STDs and pregnancy .. If possible how much does it cost?\nThank you! ",
+    "q_id": "q55419",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      },
+      {
+        "text": "Hỏi giá xét nghiệm",
+        "href": "/hoi-dap/hoi-gia-xet-nghiem-c64-q49276"
+      }
+    ],
+    "q_title": "Health Check up "
+  },
+  {
+    "_id": "5f4361618f60cf559ab75248",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359#traloi",
+    "created_at": "2020-08-24T06:42:41.291Z",
+    "updated_at": "2020-08-24T06:49:48.110Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Thưa bác sĩ \nSáng nay thì mẹ cháu có cắm hoa hồng có gai nhỏ. Chẳng may bị gai đâm vào tay. Lúc tối thì vẫn nhìn thấy đầu dằm nhưng mà lúc lấy ra thì vô tình làm dằm đâm sâu hơn. Hiện tại thì mẹ cháu vẫn có cảm giác dằm ở bên trong . Bệnh viện mình có dịch vụ nào giúp lấy dằm ra không ạ ?",
+    "q_id": "q55359",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      },
+      {
+        "text": "Hỏi giá xét nghiệm",
+        "href": "/hoi-dap/hoi-gia-xet-nghiem-c64-q49276"
+      }
+    ],
+    "q_title": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75249",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889#traloi",
+    "created_at": "2020-08-24T06:42:41.292Z",
+    "updated_at": "2020-08-24T06:49:48.470Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Cháu xin hỏi bác sỹ, bên mình có làm xét nghiệm giới tính thai nhi ko ạ? ",
+    "q_id": "q54889",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      },
+      {
+        "text": "Hỏi giá xét nghiệm",
+        "href": "/hoi-dap/hoi-gia-xet-nghiem-c64-q49276"
+      }
+    ],
+    "q_title": "Xét nghiệm giới tính thai nhi"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7524a",
+    "status": 2,
+    "question_link": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419#traloi",
+    "created_at": "2020-08-24T06:42:41.293Z",
+    "updated_at": "2020-08-24T06:49:48.297Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Dear Melatec.\nCho mình xin giá dịch vụ lấy máu xét nghiệm. Hiện tại mình đang bầu 24w, muốn biết các chỉ số hiện tại của cơ thể: tiểu đường, sắt, canxi,...\nTrân trọng.",
+    "q_id": "q49419",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Hỏi giá xét nghiệm",
+        "href": "/hoi-dap/hoi-gia-xet-nghiem-c64-q49276"
+      }
+    ],
+    "q_title": "Giá dịch vụ lấy máu xét nghiệm."
+  },
+  {
+    "_id": "5f4361618f60cf559ab7524b",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-gia-xet-nghiem-c64-q49276#traloi",
+    "created_at": "2020-08-24T06:42:41.296Z",
+    "updated_at": "2020-08-24T06:49:48.060Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Cho e xin báo giá xét nghiệm gen gây sảy thai với ạ",
+    "q_id": "q49276",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Hỏi giá xét nghiệm"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7524c",
+    "status": 2,
+    "question_link": "/hoi-dap/be-bi-tieu-chay-c64-q48609#traloi",
+    "created_at": "2020-08-24T06:42:41.297Z",
+    "updated_at": "2020-08-24T06:49:48.281Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Cho e hỏi bệnh viện mình có xét nghiệm phân cho bé k ah",
+    "q_id": "q48609",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Bé bị tiêu chảy"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7524d",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-mau-c64-q48509#traloi",
+    "created_at": "2020-08-24T06:42:41.299Z",
+    "updated_at": "2020-08-24T06:49:48.348Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Mình được biết là hiện nay bv không đến nhà lấy máu xét nghiệm. Cho mình hỏi ở gần bưu điện hà đông thì đến địa chỉ nào gần nhất để xét nghiệm máu? Xin cảm ơn!",
+    "q_id": "q48509",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Xét nghiệm máu"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7524e",
+    "status": 2,
+    "question_link": "/hoi-dap/bac-si-tu-van-giup-e-a-c64-q48468#traloi",
+    "created_at": "2020-08-24T06:42:41.300Z",
+    "updated_at": "2020-08-24T06:49:48.203Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Hai hôm nay em tự nhiên nổi lên 1cuc như hạch bên má trái ạ.ban đầu e thấy ngứa tưởng bị muỗi đốt .nhưng đến ngày thứ hai rồi e sờ vào vẫn thấy cục to khoảng 1cm và luôn luôn ngứa như vậy ạ..bác sĩ tư vấn giúp e với ạ..e cảm ơn ạ",
+    "q_id": "q48468",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Bác sĩ tư vấn giúp e ạ"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7524f",
+    "status": 2,
+    "question_link": "/hoi-dap/vang-da--c64-q48457#traloi",
+    "created_at": "2020-08-24T06:42:41.302Z",
+    "updated_at": "2020-08-24T06:49:50.508Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Bé bị vàng da rõ rệt,không vàng mắt mình muốn kiểm tra gan mật và bé có thiếu máu không thì làm thế nào",
+    "q_id": "q48457",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Vàng da "
+  },
+  {
+    "_id": "5f4361618f60cf559ab75250",
+    "status": 2,
+    "question_link": "/hoi-dap/be-co-thieu-canxi-va-kem-khong-c64-q47873#traloi",
+    "created_at": "2020-08-24T06:42:41.303Z",
+    "updated_at": "2020-08-24T06:49:50.281Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Bé nhà mình muốn kiểm tra xem có thiếu canxi và kẽm không thì cần làm những xét nghiệm gì? Meldatec có nhận mẫu xét nghiệm tại nhà ở thành phố Hưng Yên không?",
+    "q_id": "q47873",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Bé có thiếu canxi và kẽm không"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75251",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-c64-q45419#traloi",
+    "created_at": "2020-08-24T06:42:41.305Z",
+    "updated_at": "2020-08-24T06:49:50.245Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Các bác sĩ cho em hỏi bên medlatec có làm xét nghiệm hạch k ạ\nE bị nổi hạch bẹn tầm 2cm bên phải và 3 hôm nay thấy đau và xưng đỏ ạ. \n",
+    "q_id": "q45419",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Xét nghiệm"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75252",
+    "status": 2,
+    "question_link": "/hoi-dap/co-thai-hay-khong-c64-q44835#traloi",
+    "created_at": "2020-08-24T06:42:41.306Z",
+    "updated_at": "2020-08-24T06:49:50.318Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Chu kì của em bình thường kéo dài 28 ngày nhưng lần này kéo dài 31 ngày ( chậm 2 ngày) . Đến ngày chậm thứ 2 thì em ra máu báo thai. Máu màu nâu, ra ít rồi hết. Ngay lúc đó em mua que thử thì thấy hiện 1 vạch, em thử buổi tối. Liệu em có phải có thai không hay gặp vấn đề khác ạ?",
+    "q_id": "q44835",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Có thai hay không"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75253",
+    "status": 2,
+    "question_link": "/hoi-dap/que-tranh-thai-c64-q42562#traloi",
+    "created_at": "2020-08-24T06:42:41.307Z",
+    "updated_at": "2020-08-24T06:49:50.268Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "20 tuổi thì có cấy que tránh thai được không a?",
+    "q_id": "q42562",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Que Tránh Thai"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75254",
+    "status": 2,
+    "question_link": "/hoi-dap/ket-qua-trip-test-c64-q42362#traloi",
+    "created_at": "2020-08-24T06:42:41.309Z",
+    "updated_at": "2020-08-24T06:49:50.227Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Nhờ anh/chi tra giúp e kết quả sàng lọc trước sinh trip test BV MEDLATEC xin TB: KH Nguyen Thi Hong Tham (Ma tra cuu:1745903370, ngay: 18-11-2019, mat khau:557321) da co KQ. Xem tai: https://medlatec.vn/s/45IH8IQ5",
+    "q_id": "q42362",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Kết quả trip test"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75493",
+    "status": 2,
+    "question_link": "/hoi-dap/chi-phi-kham-tieu-hoa-gan-mat-va-tim-c64-q41848#traloi",
+    "created_at": "2020-08-24T06:42:42.038Z",
+    "updated_at": "2020-08-24T06:55:04.454Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Bệnh viện vui lòng cho em hỏi chi phí khám tiêu hoá -gan mật và tim giá bao nhiêu ạ?",
+    "q_id": "q41848",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Chi phí khám tiêu hoá- gan mật và tim"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75494",
+    "status": 2,
+    "question_link": "/hoi-dap/gop-y-cho-nhan-vien-xet-nghiem-o-medlatec-c64-q41847#traloi",
+    "created_at": "2020-08-24T06:42:42.040Z",
+    "updated_at": "2020-08-24T06:55:04.557Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Em chào bác sĩ ạ\nLần trước em có đi xét nghiệm tại bệnh viện Medlatec 44 Nghĩ Dũng. Dịch vụ ở đây cũng khá tốt. Các y tá, bác sĩ rất niềm nở. Nhưng có 1 vấn đề em muốn góp ý ạ\nLúc em đợi xét nghiệm viêm gan B và combi PT, thấy nhân viên xét nghiệm không thay găng tay, mấy người mới thay 1 lần. Em thấy như vậy là chưa thật sự an toàn, khiến nhiều người thấy lo lắng lây bệnh truyền nhiễm.\nEm mong ban quan trị cũng như các bác sĩ, nhận lời góp ý của em, và nhắc nhở các nhân viên xét nghiệm quan tâm hơn về vấn đề này. Vì em cũng hay chọn Medlatec làm nơi xét nghiệm nên em mới góp ý ạ. Em xin cảm ơn. ",
+    "q_id": "q41847",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Góp ý cho nhân viên xét nghiệm ở Medlatec"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75495",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q41243#traloi",
+    "created_at": "2020-08-24T06:42:42.041Z",
+    "updated_at": "2020-08-24T06:55:08.660Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Cho em hỏi bên mình có xét nghiệm giới tính thai nhi không ạ và giá bao nhiêu ạ. Bao lâu có kết quả a",
+    "q_id": "q41243",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Xét nghiệm giới tính thai nhi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75496",
+    "status": 2,
+    "question_link": "/hoi-dap/ho-tro-in-hoa-don-chuyen-doi-c64-q41175#traloi",
+    "created_at": "2020-08-24T06:42:42.042Z",
+    "updated_at": "2020-08-24T06:55:04.442Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Kính gửi: Quí Bệnh Viện\nNgày 02/10/2019 tôi có thực hiện dịch vụ xét nghiệm của Bệnh viện (mã xét nghiệm 021019-1000124155). \nNgày 03/10/2019, Quí Bệnh viện có xuất hóa đơn điện tử số 0156265 cho tôi\nTuy nhiên khi gửi hồ sơ để thanh toán bảo hiểm thì bên bảo hiểm tôi phải có hóa đơn chuyển đổi (bản giấy) thì mới được thanh toán.\nVậy kính đề nghị Qui Bệnh viện hỗ trợ cấp cho tôi hóa đơn chuyển đổi có dấu và xác nhận.\nNếu có thể được thì nhờ Quí Bệnh viện chuyển thư giúp đến Ngân hàng TMCP Ngoại thương Việt Nam - chi nhánh Chương Dương địa chỉ 564 Nguyễn Văn Cừ, Long Biên, Hà Nội hoặc thông báo giúp địa chỉ đến lấy hóa đơn chuyển đổi.\nRất mong nhận được phản hồi của Quí Bệnh viện\nTrân trọng!",
+    "q_id": "q41175",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Hỗ trợ in hóa đơn chuyển đổi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75497",
+    "status": 2,
+    "question_link": "/hoi-dap/ket-qua-xet-nghiem-mau-kiem-tra-nong-do-beta-hcg-c64-q40319#traloi",
+    "created_at": "2020-08-24T06:42:42.044Z",
+    "updated_at": "2020-08-24T06:55:06.547Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Tôi có đưa vợ đi xét nghiệm máu để kiểm tra nồng độ beta Hcg thì nhận được kết quả là 90006.5 thì ý nghĩa của con số đó là gì, nhờ bác sĩ giải thích giúp ạ, như thế là có thai hay là không ạ?",
+    "q_id": "q40319",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Kết quả xét nghiệm máu kiểm tra nồng độ beta Hcg"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75498",
+    "status": 2,
+    "question_link": "/hoi-dap/nhò-bac-si-dọc-họ-ket-quả-c64-q39503#traloi",
+    "created_at": "2020-08-24T06:42:42.045Z",
+    "updated_at": "2020-08-24T06:55:08.695Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Nhờ bác sĩ đọc giúp kết quả. Xin cảm ơn nhiều! Mã tra cứu: 1110920852 https://medlatec.vn/tra-cuu-ket-qua/sid?",
+    "q_id": "q39503",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Nhờ bác sĩ đọc hộ kết quả"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75499",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-dam-nho-dam-sau-vao-ngon-tay-khong-the-lay-ra-duoc-c64-q34659#traloi",
+    "created_at": "2020-08-24T06:42:42.046Z",
+    "updated_at": "2020-08-24T06:55:06.584Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Cho em hỏi em bị dằm đâm vào ngón tay, lúc đầu còn nhú ra ngoài 1 chút nên e đã nhờ người khác lấy kim khều ra, nhưng k may là khều không khéo nên giờ mảnh dằm đã lặn sâu vào bên trong tay e rồi và không nhìn thấy để lấy ra được nữa. Cho em hỏi bệnh viên mình có dịch vụ nào có thể giải quyết trường hợp này của em k ạ?",
+    "q_id": "q34659",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Bị dằm nhỏ đâm sâu vào ngón tay không thể lấy ra được"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7549a",
+    "status": 2,
+    "question_link": "/hoi-dap/triple-test-c64-q34549#traloi",
+    "created_at": "2020-08-24T06:42:42.048Z",
+    "updated_at": "2020-08-24T06:55:08.819Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "bác sĩ cho e hỏi chi phí lấy mẫu làm triple test tai nhà là bao nhiêu ak? e cảm ơn!",
+    "q_id": "q34549",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "triple test"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7549b",
+    "status": 2,
+    "question_link": "/hoi-dap/em-muon-hoi-ve-ket-qua-xet-nghiem-nhiem-sac-the-c64-q33768#traloi",
+    "created_at": "2020-08-24T06:42:42.049Z",
+    "updated_at": "2020-08-24T06:55:08.756Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Bác sỹ cho e hỏi là e có làm xét nghiệm nhiễm sắc thể vào ngày 18/04/2019, mã tra cứu : 1109708662 , mã bảo mật la: 197161. Và của chồng e nữa,mã tra cứu của chồng e là 1109708663 , mã bảo mat : 969068, mong bac sỹ đọc kết quả giúp em với ạ,mong sớm nhận được hồi âm của bác sỹ ạ",
+    "q_id": "q33768",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Em muốn hỏi về kết quả xét nghiệm nhiễm sắc thể"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7549c",
+    "status": 2,
+    "question_link": "/hoi-dap/vacxin-6in1-c64-q33032#traloi",
+    "created_at": "2020-08-24T06:42:42.050Z",
+    "updated_at": "2020-08-24T06:55:08.679Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "bệnh viện có vacxxin 6in1 của pháp không , giá bao nhiêu a",
+    "q_id": "q33032",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "vacxin 6in1"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7549d",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-xet-nghiem-c64-q32924#traloi",
+    "created_at": "2020-08-24T06:42:42.051Z",
+    "updated_at": "2020-08-24T06:55:08.669Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "tôi có thể đặt lịch lấy máu xét nghiệm tại nhà không ạ.cam on quý bv",
+    "q_id": "q32924",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "hỏi xét nghiệm"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7549e",
+    "status": 2,
+    "question_link": "/hoi-dap/noi-soi-c64-q32685#traloi",
+    "created_at": "2020-08-24T06:42:42.052Z",
+    "updated_at": "2020-08-24T06:55:15.107Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Tôi có bảo hiểm tự nguyện tại đây, bây giờ tôi muốn nội soi dạ dày thì có được thanh toán không?",
+    "q_id": "q32685",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "nội soi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7549f",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-beta-hcg-c64-q32651#traloi",
+    "created_at": "2020-08-24T06:42:42.055Z",
+    "updated_at": "2020-08-24T06:55:16.643Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "bác sĩ cho em hỏi ạ. e muốn láy máu tại nhà để xét nghiệm beta hcg. e ở ngoại thành hà nội. như vậy có đc ko ạ? và chi phí tất cả là bao nhiêu ạ? làm thế nào để e đăng ký đc để xét nghiệm ạ? e cảm ơn bác sĩ",
+    "q_id": "q32651",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "xét nghiệm beta hcg"
+  },
+  {
+    "_id": "5f4361628f60cf559ab754a0",
+    "status": 2,
+    "question_link": "/hoi-dap/sang-loc-so-sinh-c64-q31511#traloi",
+    "created_at": "2020-08-24T06:42:42.056Z",
+    "updated_at": "2020-08-24T06:55:18.794Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Bác sĩ cho em hỏi là bên Medlatec có các gói sàng lọc như thế nào ạ: các bệnh và giá ạ. Bé nhà em sinh mổ hôm 23/1 thì bao giờ có thể lấy máu được",
+    "q_id": "q31511",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Sàng lọc sơ sinh"
+  },
+  {
+    "_id": "5f4361628f60cf559ab754a1",
+    "status": 2,
+    "question_link": "/hoi-dap/thong-tin-tat-ca-chi-nhanh-cua-benh-vien-medlatec-c64-q31213#traloi",
+    "created_at": "2020-08-24T06:42:42.057Z",
+    "updated_at": "2020-08-24T06:55:18.807Z",
+    "__v": 0,
+    "c_id": "c64",
+    "q_content": "Địa chỉ chi tiết tất cả các chi nhánh của bệnh viện medlatec trong khu vực TP.HCM",
+    "q_id": "q31213",
+    "q_related": [
+      {
+        "text": "Dịch vụ",
+        "href": "/hoi-dap/dich-vu-c64-q55574"
+      },
+      {
+        "text": "Health Check up ",
+        "href": "/hoi-dap/health-check-up--c64-q55419"
+      },
+      {
+        "text": "Bị dằm nhỏ đâm sâu vào tay . Lấy ra không cẩn thận nên dằm đâm sâu",
+        "href": "/hoi-dap/bi-dam-nho-dam-sau-vao-tay--lay-ra-khong-can-than-nen-dam-dam-sau-c64-q55359"
+      },
+      {
+        "text": "Xét nghiệm giới tính thai nhi",
+        "href": "/hoi-dap/xet-nghiem-gioi-tinh-thai-nhi-c64-q54889"
+      },
+      {
+        "text": "Giá dịch vụ lấy máu xét nghiệm.",
+        "href": "/hoi-dap/gia-dich-vu-lay-mau-xet-nghiem-c64-q49419"
+      }
+    ],
+    "q_title": "Thông tin tất cả chi nhánh của bệnh viện medlatec"
+  }
+]

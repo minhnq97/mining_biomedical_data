@@ -1,0 +1,1158 @@
+[
+  {
+    "_id": "5f4361618f60cf559ab75318",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-lao-c31-q54994#traloi",
+    "created_at": "2020-08-24T06:42:41.581Z",
+    "updated_at": "2020-08-24T06:52:08.540Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chào Bác Sỹ. tháng trước em có đi khám tổng quát. khi chụp xquang và CT thì bác sỹ kết luận e bị lao phổi. rồi e qua BV phạm ngọc thạch để làm xét nghiêm lao bao gồm lấy mẫu đờm, mẫu máu và cả nội soi lấy mẫu để xét nghiệm đều ko tìm thấy vi khuẩn lao nhưng cuối cùng các bác sỹ cũng kết luận là bị lao thì vậy có đúng ko bác sỹ. ngoài các phương pháp trên thì còn phương pháp nào cho kết quả tin cậy hơn không. em nhờ bác sỹ tư vấn giúp",
+    "q_id": "q54994",
+    "q_related": [
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c31-q53560"
+      }
+    ],
+    "q_title": "xét nghiệm lao"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75319",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-hach-c31-q54866#traloi",
+    "created_at": "2020-08-24T06:42:41.583Z",
+    "updated_at": "2020-08-24T06:52:11.091Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Dạ chào bác sĩ ạ \nCháu bị lao hạch cổ trái \nCháu đang trong quá trình uống thuốc để tan hạch và đã uống đc 7 tháng \nNhưng tháng này cháu sờ lại thấy bị nổi thêm  hạch ở cổ bên phải như vậy thì có làm sao không ạ. \nCháu cảm ơn ạ ",
+    "q_id": "q54866",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c31-q53560"
+      }
+    ],
+    "q_title": "Lao Hạch"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7531a",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-ho-hap-c31-q54642#traloi",
+    "created_at": "2020-08-24T06:42:41.584Z",
+    "updated_at": "2020-08-24T06:51:59.143Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chào bác sĩ ạ. Tôi có tiền sử bị giãn phế quản đã nhiều năm bệnh cứ tái đi tái lại nhiều lần trong 1  năm.  Năm 2019 tôi có đi khám ở viên lao phổi tw và phát hiện mình bị lao tôi đã điều trị theo đúng phác đồ đến cuối 2019 tôi đã đi kiểm tra lại và hết bệnh lao. Nhưng bệnh giãn phế quản cứ tái phát viêm nhiễm thường xuyên. Đến t6.2020 tôi có về viện bạch mai khám và dc chuẩn đoán lại giãn phế quản thủy phổi phải. Và đã làm các xét nghiệm để hội chuẩn phẫu thuật. Trong đó có nội soi phế quản và gửi mẫu dich sang viện phổi hà nội để tìm vi nấm và vi trùng lao(22.7). Nhưng kết quả âm tính. Đến t7 tôi có sôt và thấy đau tức ngực đàm nhiều tôi có về viện bạch mai để khám bs cho nhập viện điều trị viêm và kq tôi lại bị mắc lao tái phát( 29.7).Vậy xin bs cho tôi hỏi trong khoảng tg là 1 tháng như vậy mà  có 2 quả khác nhau. Thì qk  có đảm bảo ko và tôi có cần yêu cầu làm lại xn ko. ",
+    "q_id": "q54642",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c31-q53560"
+      }
+    ],
+    "q_title": "Lao, hô hấp"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7531b",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-da-khang-c31-q54242#traloi",
+    "created_at": "2020-08-24T06:42:41.585Z",
+    "updated_at": "2020-08-24T06:52:14.729Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chuyên gia cho e hoi , e đc chuẩn đoán lao hạch đa kháng phác đồ điều trị 20 tháng , điều tri đến tháng thứ 5 thì e phát hiện thêm cục hạch ở cổ phải gần hạch cũ . Như vậy là việc đtri có hiệu quả k ạ ? ( trước đấy e đã hoàn thành điệu trị lao phổi phác đồ 7 tháng )",
+    "q_id": "q54242",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c31-q53560"
+      }
+    ],
+    "q_title": "Lao Đa kháng"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7531c",
+    "status": 2,
+    "question_link": "/hoi-dap/-c31-q53843#traloi",
+    "created_at": "2020-08-24T06:42:41.586Z",
+    "updated_at": "2020-08-24T06:52:08.517Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chào bác sĩ , cháu bị lao hạch điều trị theo phác đồ 12 tháng, cháu đã dùng xong 2 tháng tấn công rồi ạ, thấy hạch xung quanh vùng cổ cũng giảm đi nhiều nhưng đến tháng thứ 3 thì cháu ko thấy hạch giảm đi nữa mà vẫn như cũ ,Có phải là bị kháng thuốc ko ạ  cháu uống thuốc đầy đủ và ko bỏ hôm nào bsi dặn uống lúc 8h nhưng do vấn đề sinh hoạt mà nhiều lúc cháu hay quên nên uống vào lúc 8 rưỡi 9h kém thì có sao ko ạ . ",
+    "q_id": "q53843",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c31-q53560"
+      }
+    ],
+    "q_title": "."
+  },
+  {
+    "_id": "5f4361618f60cf559ab7531d",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-lao-phoi-c31-q53560#traloi",
+    "created_at": "2020-08-24T06:42:41.588Z",
+    "updated_at": "2020-08-24T06:52:12.714Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chào bác sĩ, bác sĩ cho em hỏi uống thuốc lao tầm bao lâu thì khả năng lây bệnh cho người khác không còn nữa ah?",
+    "q_id": "q53560",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Bệnh lao phổi"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7531e",
+    "status": 2,
+    "question_link": "/hoi-dap/dieu-tri-lao-c31-q53260#traloi",
+    "created_at": "2020-08-24T06:42:41.590Z",
+    "updated_at": "2020-08-24T06:52:22.628Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chào bác sĩ, Em là nữ điều trị lao phổi đã được 1 năm, vậy bác sĩ cho e hỏi bây giờ e muốn có thai thì việc có thai có ảnh hưởng gì đến e bé không a, sau khi sinh ra thì e bé có được khoẻ mạnh bình thường không ạ",
+    "q_id": "q53260",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Điều trị lao"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7531f",
+    "status": 2,
+    "question_link": "/hoi-dap/bsi-cho-e-moi-nguoi-me-bi-mac-lao-hach-co-cho-con-bu-duoc-ko-c31-q52794#traloi",
+    "created_at": "2020-08-24T06:42:41.591Z",
+    "updated_at": "2020-08-24T06:52:18.370Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chao bs .e vua di kham o bv ubg buoc sieu bac si noi e bi lao hach can theo doi ve yeu cau mo .nhug e chua  lm vi dg cho con bu .vay neu that su e bi lao hach phai dieu tri thi co cho be bu bthuog dc k ak",
+    "q_id": "q52794",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Bsi cho e moi nguoi me bi mac lao hach co cho con bu duoc ko"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75320",
+    "status": 2,
+    "question_link": "/hoi-dap/noi-hach-ngay-nach-trai-c31-q52413#traloi",
+    "created_at": "2020-08-24T06:42:41.592Z",
+    "updated_at": "2020-08-24T06:52:22.745Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Be 3thang hach ngay nach co gi dieu tri khong",
+    "q_id": "q52413",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Noi hach ngay nach trai"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75321",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-hach-c31-q52096#traloi",
+    "created_at": "2020-08-24T06:42:41.594Z",
+    "updated_at": "2020-08-24T06:52:22.771Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Tôi bị hạch lao đã điều trị 1 năm rồi bác cho hỏi uống hết thuốc có cần khám lại k? Và nên khám ở bệnh viện phạm ngọc thạch đúng k ạ?",
+    "q_id": "q52096",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Lao hạch"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75322",
+    "status": 2,
+    "question_link": "/hoi-dap/e-bi-lao-hach-c31-q51372#traloi",
+    "created_at": "2020-08-24T06:42:41.595Z",
+    "updated_at": "2020-08-24T06:52:16.754Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chào bác sĩ...e bị lao hạch và điều trị được 6 tháng rồi nhưng phác đồ điều trị là 12tháng...và vkck e muốn có e bé nhung thả hoài vẫn ko có zay e muốn hỏi bs là trong quá trình uống thuốc trị lao có ảnh hưởng đến việc thu thai ko ak",
+    "q_id": "q51372",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "E bị lao hạch"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75323",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-phoi-boi-nhiem-c31-q51216#traloi",
+    "created_at": "2020-08-24T06:42:41.597Z",
+    "updated_at": "2020-08-24T06:52:22.806Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chào BS\nEm bị lao phổi dương tính 1+ đang điều trị sang tháng thứ ba. Một tuần nay, em thấy ho lại, tần số ho tăng lên. Có đàm ở trong cổ nhưng không khạc ra được. Đi khám thì được chẩn đoán lao phổi bội nhiễm. Cho em hỏi về lao phổi bội nhiễm? cách điều trị và có phải là lao kháng thuốc hay lao tái phát không ạ? Có lây lại cho người khác không ạ?",
+    "q_id": "q51216",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Lao phổi bội nhiễm"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75324",
+    "status": 2,
+    "question_link": "/hoi-dap/tac-dung-phu-cua-thuoc-lao-c31-q51053#traloi",
+    "created_at": "2020-08-24T06:42:41.598Z",
+    "updated_at": "2020-08-24T06:52:22.673Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Em duoc chan doan mac lao phoi va dang uong thuoc duoc 2 tuan. Tu hom uong thuoc den bay gio luc cam thay khoe luc lai cam thay rat met va kho tho. Em muon hoi trieu chung nhu vay co phai do thuoc lao gay ra khong va van de kho tho do ton thuong lao gay ra thi thuong dieu tri den giai doan nao se hoi phuc?",
+    "q_id": "q51053",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Tac dung phu cua thuoc Lao"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75325",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-lao-phoi-c31-q50771#traloi",
+    "created_at": "2020-08-24T06:42:41.599Z",
+    "updated_at": "2020-08-24T06:52:17.609Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Tôi có đi khám định kỳ bác sỹ khuyên theo dõi bệnh lao phổi.sau khi dùng thuốc 2 tháng t có đi khám lại và kết quả là 2 trường phổi sáng. Bóng tim không to. Như vậy là tôi đã khỏi bệnh chưa. Và bệnh này có tái phát không ạ. Có ảnh hưởng gì đến việc sinh e bé không ạ. Rất mong bác sỹ tư vấn tốt nhất cho tôi.rất cảm ơn",
+    "q_id": "q50771",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Bệnh lao phổi"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75326",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-khang-thuoc--c31-q49812#traloi",
+    "created_at": "2020-08-24T06:42:41.600Z",
+    "updated_at": "2020-08-24T06:52:22.389Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Tôi điều trị lao đả xong phác đồ 06 tháng mà không khám lại sau đó 01 tháng đi khám thì bs nói chưa lành và cho uống thuốc thêm 02 tháng nữa bây giờ đang uống thuốc   Bệnh tôi có nghiêm trọng ko có kháng thuốc không ",
+    "q_id": "q49812",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Lao kháng thuốc "
+  },
+  {
+    "_id": "5f4361628f60cf559ab75556",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-phoi-c31-q49416#traloi",
+    "created_at": "2020-08-24T06:42:42.266Z",
+    "updated_at": "2020-08-24T06:57:02.848Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "bs cho cháu hỏi cháu dùng thuốc lao phổi theo phát đồ được 3 tháng rồi mà tình trạng mệt không hết làm gì cũng mệt đi vài bước là ngồi thở nói chung cử động là mệt mong bs tư vấn giúp cháu ạ",
+    "q_id": "q49416",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "lao phổi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75557",
+    "status": 2,
+    "question_link": "/hoi-dap/tac-dung-phu-cua-thuoc-lao-c31-q49285#traloi",
+    "created_at": "2020-08-24T06:42:42.267Z",
+    "updated_at": "2020-08-24T06:57:02.667Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Em vừa điều trị xong 6 tháng bệnh lao nhưng khi điều trị xong có cảm thấy có triệu chứng loạng choạng mất thăng bằng. Như vậy có nguy hiểm không ạ và có thể phục hồi không ạ\nE cảm ơn",
+    "q_id": "q49285",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Tác dụng phụ của thuốc lao"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75558",
+    "status": 2,
+    "question_link": "/hoi-dap/chuan-dians-nghi--lao-phoi-c31-q48507#traloi",
+    "created_at": "2020-08-24T06:42:42.268Z",
+    "updated_at": "2020-08-24T06:57:02.884Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chào bác si\nEm làm xét nghiệm công thức máu chỉ số GRA hơi cao 75.2\nChụp quang và Ct phổi thấy có đám mờ nhu mô hạ đòn hai bên.  Nốt mờ.  Kích thước lớn nhất là 28*23mm\n",
+    "q_id": "q48507",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Chuẩn đians nghi  lao phổi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75559",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-khang-thuoc-c31-q48252#traloi",
+    "created_at": "2020-08-24T06:42:42.269Z",
+    "updated_at": "2020-08-24T06:57:02.684Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Xin chào bác sĩ. Cháu bị lao, điều trị đến tháng thứ 5. Trong khoảng thời gian từ tháng thứ 2 đến tháng thứ 4, cháu uống thuốc không đúng giờ (bác sĩ dặn là 9h sáng uống, nhưng cháu dậy muộn nên thường uống quanh 10h). Gần đây cháu hay ho và tức ngực. Vậy có phải cháu bị kháng thuốc rồi không? Và khi điều trị đến tháng thứ 5 thì phải xét nghiệm đờm một lần nữa, nhưng mọi lần xét nghiệm đờm của cháu thì đều âm tính vì không lấy được đờm. Về việc này cháu muốn hỏi là có phương pháp xét nghiệm nào khác ngoài đờm không, hoặc uống thuốc long đờm có được không? Cháu xin cảm ơn.",
+    "q_id": "q48252",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Lao kháng thuốc."
+  },
+  {
+    "_id": "5f4361628f60cf559ab7555a",
+    "status": 2,
+    "question_link": "/hoi-dap/dau-phoi-phai-c31-q47680#traloi",
+    "created_at": "2020-08-24T06:42:42.270Z",
+    "updated_at": "2020-08-24T06:57:03.029Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chào chuyên gia.\nE bị lao phổi năm 2015, đã điều trị theo phác đồ và hết bệnh. Nhưng dạo gần đây e bị đau phía sau lưng khu vực phổi phải. Do dịch CoVid nên e chưa đi khám lại được.\nMong chuyên gia tư vấn giúp e có phải di chứng lao phổi gây ra hay e bị phát lại ạ.\nCông việc của e là nhân viên vp, thời gian ngồi rất nhiều và rất lâu. \nE mong nhận được câu lời khuyên từ chuyên gia j",
+    "q_id": "q47680",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Đau phổi phải"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7555b",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-phoi-c31-q47188#traloi",
+    "created_at": "2020-08-24T06:42:42.271Z",
+    "updated_at": "2020-08-24T06:57:03.107Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Em năm nay 23t . em ho có đờm đc 2 tháng rồi ạ . em đi khám và chụp xquang thì phát hiện bị lao . xong em đang uống thuốc ở bệnh viện lao ạ . cho em hỏi khi em ngồi 1 mình k có người kế bên thì em có cần đeo khẩu trang k ạ . và tối khi ngủ em ngủ cùng gia đình nhưng k nằm chung . mỗi ng nằm riêng 1 nệm cách nhau tầm 1.5-2m . khi đeo khẩu trang khi ngủ thì có khó thở vậy lâu lâu em kéo khẩu trang xuống để hở mũi để cho dễ thở đc k ạ. Và đường thở từ mũi em có lây lan virus k ạ ?",
+    "q_id": "q47188",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Lao phổi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7555c",
+    "status": 2,
+    "question_link": "/hoi-dap/uong-thuoc-lao-6-thang-xong-thi-phai-doi-bao-lau-cho-thuoc-dao-thai-het-de-co-thai-c31-q47149#traloi",
+    "created_at": "2020-08-24T06:42:42.272Z",
+    "updated_at": "2020-08-24T06:57:03.042Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chồng em uống thuốc lao điều trị đc 6 tháng r. Sau khi uống hết thuốc sẽ đi xét nghiệm lại. Nếu bệnh đã khỏi thì phải kiêng bao lâu để thuốc lao đào thải hết mới được có em bé ạ?",
+    "q_id": "q47149",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Uống thuốc lao 6 tháng xong thì phải đợi bao lâu cho thuốc đào thải hết để có thai?"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7555d",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-phoi-c31-q45376#traloi",
+    "created_at": "2020-08-24T06:42:42.273Z",
+    "updated_at": "2020-08-24T06:57:03.016Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": " Mình là cảnh. Mẹ bé hải đăng. Mùng 2 tết bé lên nhà ngoại vô tình cầm chai nước uống của ông cố ( bị lao). Mình rất lo lắng không biết bé có bị sao không. Rất mong chương trình giúp đỡ. Cảm ơn nhiều ạ.",
+    "q_id": "q45376",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Lao phổi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7555e",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-dau-nguc-c31-q44089#traloi",
+    "created_at": "2020-08-24T06:42:42.273Z",
+    "updated_at": "2020-08-24T06:57:02.897Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Em bị bệnh lao màng phổi và lao phổi afb âm \nEm đã uống thuốc lao được 1 tháng nhưng gần đây em lại bị đau ngực. Cơn đau giống hồi trước khi e phát hiện bệnh nhưng đau ít hơn. Em vẫn đang uống thuốc lao đều đặn và đúng giờ không biết em đau như thế có làm sao không ạ?",
+    "q_id": "q44089",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Bị đau ngực"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7555f",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-pcr-c31-q38366#traloi",
+    "created_at": "2020-08-24T06:42:42.274Z",
+    "updated_at": "2020-08-24T06:57:03.065Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Cho e hỏi với ạ.\n- E có xét nghiệm PCR ở medlatec có kết quả là âm tính. Kết quả đó tỉ lệ chính xác có cao không ạ\n- E đang có ý định đi xuất khẩu lao động kết quả có được chấp nhận không ạ hay phải qua bệnh viện phổi trung ương hà nội mới có hiệu lực ạ",
+    "q_id": "q38366",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Xét nghiệm PCR"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75560",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-hach-c31-q32521#traloi",
+    "created_at": "2020-08-24T06:42:42.275Z",
+    "updated_at": "2020-08-24T06:57:02.992Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Người bệnh đang điều trị lao hạch cần ăn kiêng thức ăn gì ?",
+    "q_id": "q32521",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Lao hạch"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75561",
+    "status": 2,
+    "question_link": "/hoi-dap/tiep-xuc-benh-nhan-lao-c31-q31459#traloi",
+    "created_at": "2020-08-24T06:42:42.276Z",
+    "updated_at": "2020-08-24T06:57:02.870Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Xin hỏi tiếp xúc nói chuyện, không che chắn khi bệnh nhân lao thâm nhiễm ho, hắt hơi có thể nhiễm bệnh không a? Tôi phải xét nghiệm gì để chắc chắn không mắc? Xin cám ơn a",
+    "q_id": "q31459",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Tiếp xúc bệnh nhân lao"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75562",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-mau-chan-doan-lao-c31-q31235#traloi",
+    "created_at": "2020-08-24T06:42:42.277Z",
+    "updated_at": "2020-08-24T06:57:03.080Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "cho e hỏi xét nghiệm máu chẩn đoán lao quý viện có làm ko ạ, tên xét nghiệm là gì ạ",
+    "q_id": "q31235",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "xét nghiệm máu chẩn đoán Lao"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75563",
+    "status": 2,
+    "question_link": "/hoi-dap/phan-van-ve-ket-qua-xet-nghiem-gene-xpert-c31-q30625#traloi",
+    "created_at": "2020-08-24T06:42:42.278Z",
+    "updated_at": "2020-08-24T06:57:03.129Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Tôi có làm xét nghiệm Gene Xpert ngày 24/11/2018, tại 42 Nghĩa Dũng, theo chỉ định của Giáo sư Nguyễn Việt Cồ.\n\nTheo kết quả trả về, tôi \"không phát hiện\" tất cả với Rifampincin, trong khi hơn 9 năm về trước khi làm Kháng sinh đồ tại bệnh viện Lao phổi trung ương tôi được chuẩn đoán kháng Rifampincin 40.\n\nHay không tiêu phẩm xét nghiệm của tôi không đạt? Tôi có nên làm lại xét nghiệm này với tiêu phẩm khác? Hay làm một xét nghiệm khác?\n\nMong được tư vấn của bác sỹ!\nTrân trọng",
+    "q_id": "q30625",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Phân vân về kết quả xét nghiệm Gene Xpert"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75564",
+    "status": 2,
+    "question_link": "/hoi-dap/giai-dap-ket-qua-xet-nghiem-mau-va-xin-hinh-anh-chup-gay-xuong-suon-c31-q30605#traloi",
+    "created_at": "2020-08-24T06:42:42.279Z",
+    "updated_at": "2020-08-24T06:57:02.920Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "em chào bác sỹ!\nngày 15/11/2018 em có đi kiểm tra sức khỏe định kỳ sau thời gian tai nạn xe máy em thấy các chỉ số sau bất thường \n+ Lượng huyết sắc tố (Hb)          GIẢM =\t11.3g/dL\tbình thường  là :12.0-15.5\t\n+Thể tích khối hồng cầu (HCT)\tGIẢM = 33.1\t%\t        bình thường  là  37.0-42.0\t\n+Tỷ lệ % bạch cầu Mono\t        TĂNG  9.15\t%\t        Bình thường là  4.00-8.00\n+ Triglyceride (Architect)*\t        TĂNG  6.55 mmol/L\tBình thường là (0.46 - 2.25)\nbác sĩ cho e hỏi e đang gặp vấn đề về bệnh lý gì ạ? cách điều trị và thay đổi chế độ ăn uống như thế nào là hợp lý ạ\ncho e xin file \nHình ảnh gãy cũ vài cung xương sườn bên trái.\nEm cảm ơn các bác sỹ !\n\n",
+    "q_id": "q30605",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "giải đáp kết quả xét nghiệm máu và xin hình ảnh chụp gãy xương sườn"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75718",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-c31-q30530#traloi",
+    "created_at": "2020-08-24T06:42:42.760Z",
+    "updated_at": "2020-08-24T07:01:13.556Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Bác sĩ cho tôi hỏi theo xét nghiệm trên của tôi thì có vấn đề gì không ạ",
+    "q_id": "q30530",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Bệnh"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75719",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-phoi-c31-q30453#traloi",
+    "created_at": "2020-08-24T06:42:42.761Z",
+    "updated_at": "2020-08-24T07:01:11.293Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Bac sy cho em hoi nguoi lon co thuoc tiềm phong benh lao phoi hay ko mong bac sy tu van a",
+    "q_id": "q30453",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Lao phổi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7571a",
+    "status": 2,
+    "question_link": "/hoi-dap/chup-x-quang-phoi-co-ron-phoi-2-ben-tap-xo-dinh-phoi-va-ha-don-trai-c31-q30397#traloi",
+    "created_at": "2020-08-24T06:42:42.762Z",
+    "updated_at": "2020-08-24T07:01:11.154Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Chào bác sĩ. Cho cháu hỏi người 60t. mệt mỏi ho khan. Chụp x quang phổi có rốn phổi 2 bên tập xơ đỉnh phổi và hạ đòn trái. Như thế là bị sao và cần làm thêm xét nghiệm gì để chẩn đoán chính xác ạ ?? Cháu cám ơn. ",
+    "q_id": "q30397",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Chụp x quang phổi có rốn phổi 2 bên tập xơ đỉnh phổi và hạ đòn trái."
+  },
+  {
+    "_id": "5f4361628f60cf559ab7571b",
+    "status": 2,
+    "question_link": "/hoi-dap/blood-test-c31-q30084#traloi",
+    "created_at": "2020-08-24T06:42:42.763Z",
+    "updated_at": "2020-08-24T07:01:11.179Z",
+    "__v": 0,
+    "c_id": "c31",
+    "q_content": "Hello, I have been feeling a bit weak and tired lately and would like to have some blood test done. What would be the cost please?\n\nThank you,\n\nAlexis",
+    "q_id": "q30084",
+    "q_related": [
+      {
+        "text": "xét nghiệm lao",
+        "href": "/hoi-dap/xet-nghiem-lao-c31-q54994"
+      },
+      {
+        "text": "Lao Hạch",
+        "href": "/hoi-dap/lao-hach-c31-q54866"
+      },
+      {
+        "text": "Lao, hô hấp",
+        "href": "/hoi-dap/lao-ho-hap-c31-q54642"
+      },
+      {
+        "text": "Lao Đa kháng",
+        "href": "/hoi-dap/lao-da-khang-c31-q54242"
+      },
+      {
+        "text": ".",
+        "href": "/hoi-dap/-c31-q53843"
+      }
+    ],
+    "q_title": "Blood test"
+  }
+]

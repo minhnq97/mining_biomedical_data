@@ -1,0 +1,3300 @@
+[
+  {
+    "_id": "5f4361618f60cf559ab75439",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo-cao--c76-q55620#traloi",
+    "created_at": "2020-08-24T06:42:41.935Z",
+    "updated_at": "2020-08-24T06:54:16.758Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "E chào bác sĩ , e muốn hỏi bác sĩ là hơn 1 năm trước e có bị mèo cào vào chân  ở nhà bạn nhưng đã được rửa vết thương khi đọc nhiều bài báo thì biết được mèo cào cũng có thể chết nên e lo quá . E muốn hỏi bác sĩ là bây giờ e muốn chích ngừa thì có hiệu quả không ạ ?",
+    "q_id": "q55620",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      },
+      {
+        "text": "..",
+        "href": "/hoi-dap/-c76-q55040"
+      }
+    ],
+    "q_title": "Bị mèo cào "
+  },
+  {
+    "_id": "5f4361618f60cf559ab7543a",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552#traloi",
+    "created_at": "2020-08-24T06:42:41.936Z",
+    "updated_at": "2020-08-24T06:54:28.860Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào BS \nBị chó cắn khoảng 2 năm trước có đi tiem ngừa đủ 5 muỗi , bây giờ bị cắn trầy nhẹ có chảy máu thì có cần đi tiêm lại không ",
+    "q_id": "q55552",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      },
+      {
+        "text": "..",
+        "href": "/hoi-dap/-c76-q55040"
+      }
+    ],
+    "q_title": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7543b",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495#traloi",
+    "created_at": "2020-08-24T06:42:41.937Z",
+    "updated_at": "2020-08-24T06:54:29.372Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Năm 2014 e sinh cháu đầu có tiêm 2 mũi uốn ván. Năm 2018 có cháu thứ 2. E cũng tiêm thêm 1 mũi. Tới năm 2020 e có đạp phải cây đinh bị gỉ. Liệu e có phải đi tiêm phòng lần nữa hay kg vậy? \nMong bác sĩ giải đáp giúp e. E cảm ơn ",
+    "q_id": "q55495",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      },
+      {
+        "text": "..",
+        "href": "/hoi-dap/-c76-q55040"
+      }
+    ],
+    "q_title": "Hỏi về tiêm phòng vaccin"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7543c",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-can-c76-q55339#traloi",
+    "created_at": "2020-08-24T06:42:41.938Z",
+    "updated_at": "2020-08-24T06:54:29.333Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ: em bị chó con khoảng 2 tháng tuổi cắn hơn 1 tháng,mà con chó đó đã chết, giờ em có biểu hiện đau đầu giữ dội mà từ trước nay em chưa hề bị như vậy, vậy bác sĩ cho em hỏi em có thể đi chích ngừa dại được không ạ",
+    "q_id": "q55339",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "..",
+        "href": "/hoi-dap/-c76-q55040"
+      }
+    ],
+    "q_title": "Chó cắn"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7543d",
+    "status": 2,
+    "question_link": "/hoi-dap/-c76-q55040#traloi",
+    "created_at": "2020-08-24T06:42:41.939Z",
+    "updated_at": "2020-08-24T06:54:28.839Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ. E đẻ mổ lần đầu đã tiêm đủ 2mũi tiêm uốn ván. Giờ e đang bầu ở giai đoạn tháng t7. Liệu giờ e đi tiêm uốn ván có muộn không ạ",
+    "q_id": "q55040",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": ".."
+  },
+  {
+    "_id": "5f4361618f60cf559ab7543e",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-phong-c76-q54812#traloi",
+    "created_at": "2020-08-24T06:42:41.940Z",
+    "updated_at": "2020-08-24T06:54:28.770Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Nhà em có nuôi một con chó mẹ đã tiêm phòng dịch,2 tháng trước con chó mẹ này đẻ con. Vào hôm thứ 7 con chó con bị hóc xương em có vô tình cho tay vào gỡ cho nó ko may bị xước một miếng da. Đến giờ con chó vẫn bình thường liệu em có phải đi tiêm phòng không bác sĩ",
+    "q_id": "q54812",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm phòng"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7543f",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-con-can-co-sao-khong-a-c76-q54787#traloi",
+    "created_at": "2020-08-24T06:42:41.941Z",
+    "updated_at": "2020-08-24T06:54:28.813Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Bs cho em hỏi?. em bị chó con nhỏ cắn nhẹ ngoài da trên mu bàn chân, có chảy máu. Em chưa đi chích. Cách đây khoảng 6 năm, em có bị cắn và đã chích 5 mũi. Như vậy em có phải chich nữa không ạ!?,  liệu chích có hại cho sức khỏe không ạ?",
+    "q_id": "q54787",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó con cắn có sao không ạ!?"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75440",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-becgie-gia-can-c76-q54782#traloi",
+    "created_at": "2020-08-24T06:42:41.942Z",
+    "updated_at": "2020-08-24T06:54:30.696Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "chào bác sĩ, hôm nay cháu có bị 1 con becgie già cắn, vết thương hơi xước nhẹ vì nó cắn qua quần cháu và sát đùi, bây giờ cháu thấy đau ê ẩm, hơi khó nhấc chân để đi lại, cháu có rửa qua bằng nước sạch. Cho cháu hỏi là có nguy hiểm lắm không ạ và có cần tiêm vaccine ngay không ạ? cháu cảm ơn",
+    "q_id": "q54782",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "bị chó becgie già cắn"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75441",
+    "status": 2,
+    "question_link": "/hoi-dap/chich-ngua-dai--c76-q54066#traloi",
+    "created_at": "2020-08-24T06:42:41.943Z",
+    "updated_at": "2020-08-24T06:54:29.351Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Tháng 12 năm ngoái e có tiên phòng dại được 3 mũi. Sau đó e thấy con chó vẫn bình thường khoẻ mạnh nên em ngưng không chích nữa. Hôm nay em bị chó ở nhà cắn vậy em có cần phải đi chích lại từ đầu theo phác đồ 5 mũi nữa ko ạ ",
+    "q_id": "q54066",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Chích ngừa dại "
+  },
+  {
+    "_id": "5f4361618f60cf559ab75442",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-chung--vaccin--c76-q54060#traloi",
+    "created_at": "2020-08-24T06:42:41.944Z",
+    "updated_at": "2020-08-24T06:54:30.656Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Bác sĩ ơi cho e hỏi !  Hồi tháng 4 này e có bị chó nhà cắn thì e có đi chích ngừa nhưng hôm nay e bị chó cắn nữa thì e có cần đi tiêm để phòng tránh k ạ ",
+    "q_id": "q54060",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm chủng ( vaccin) "
+  },
+  {
+    "_id": "5f4361618f60cf559ab75443",
+    "status": 2,
+    "question_link": "/hoi-dap/chich-ngua-dai-c76-q53369#traloi",
+    "created_at": "2020-08-24T06:42:41.945Z",
+    "updated_at": "2020-08-24T06:54:30.684Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Xin chào bác sĩ. Ngày 22/6 em bị một chú chó nhỏ cào ạ, vết thương không chảy máu, chỉ hồng hồng,  và chú chó có liếm lên vết thương. Em theo dõi chú chó thì chó vẫn bình thường, khỏe mạnh. 2 hôm trước thì chủ nhân chú chó cho chó tiêm ngừa dại cho chó. Cho em hỏi với trường hợp của em em cần đi tiêm ngừa không ạ?",
+    "q_id": "q53369",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Chích ngừa dại"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75444",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-ngua--c76-q53343#traloi",
+    "created_at": "2020-08-24T06:42:41.946Z",
+    "updated_at": "2020-08-24T06:54:30.711Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Bác sĩ cho hỏi, cách đây 2 tuần em giỡn với con chó nhỏ khoảng 3 tháng tuổi và có bị răng nó quẹt trúng tay 1 đường nhỏ ra máu vậy có nên chích ngừa không ạ ??",
+    "q_id": "q53343",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm ngừa "
+  },
+  {
+    "_id": "5f4361618f60cf559ab75445",
+    "status": 2,
+    "question_link": "/hoi-dap/uong-khang-sinh-sau-tiem-uon-van--c76-q53182#traloi",
+    "created_at": "2020-08-24T06:42:41.947Z",
+    "updated_at": "2020-08-24T06:54:30.735Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Bsi ơi em Đang bị viêm amidan và đang dùng thuốc kháng sinh và do bất cẩn bị dẫm đinh và Đã đi tiêm bsi cho em hỏi sau khi tiêm vacxin uốn ván xong uống kháng sinh có làm mất tác dụng của vacxin không em cám ơn ",
+    "q_id": "q53182",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "uống kháng sinh sau tiêm uốn ván "
+  },
+  {
+    "_id": "5f4361618f60cf559ab75446",
+    "status": 2,
+    "question_link": "/hoi-dap/chi-tiem-vat-uon-van--c76-q53181#traloi",
+    "created_at": "2020-08-24T06:42:41.948Z",
+    "updated_at": "2020-08-24T06:54:30.634Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Bác sĩ ơi em bị dẫm đinh Rỉ Sét ở chân chảy máu Do 7 tháng trước em bị thương có tiêm Test huyết thanh thì bị khó thở bồn chồn nên chỉ tiêm vacxin Rồi về và không tiêm đúng lịch nên hôm nay sau khi trao đổi thì bác sĩ cũng chỉ cho tiêm vacxin và nhắc em nên tiêm đúng lịch để bảo vệ lâu dài vậy bác sĩ cho em hỏi liệu trong thời gian vacxin có tác dụng thì mình bị uốn ván rồi không ạ và thời gian để vxin có tác dụng là Bao lâu sau khi tiêm ?giữa năm 2018 em có tiêm 2 mũi cách nhau 1 tháng và thuốc có còn tác dụng không cám ơn bác sĩ. ",
+    "q_id": "q53181",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "chỉ tiêm vat uốn ván "
+  },
+  {
+    "_id": "5f4361618f60cf559ab75447",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-uon-van-1-mui--c76-q53140#traloi",
+    "created_at": "2020-08-24T06:42:41.949Z",
+    "updated_at": "2020-08-24T06:54:30.779Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ  Em có bị dẫm đinh Và có tiêm 2mui tháng 7 và tháng 8 năm 2018 sau đó tháng 17/11 /2019 em có bị đứt chân sau đó bsi cho em tiêm thử phản ứng sat thì cơ thể bị khó thở bồn chồn sau đó em chỉ tiêm vat rồi \n Về em bỏ không tiêm đúng lịch  nữa đến bây giờ 27/6/2020 em lại bị thương ở chân bác sĩ cho em hỏi em có cần tiêm sat không em sợ như lúc trước cám ơn bác sĩ ",
+    "q_id": "q53140",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "tiêm uốn ván 1 mũi "
+  },
+  {
+    "_id": "5f4361628f60cf559ab75625",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-ngua-bi-meo-can--c76-q53062#traloi",
+    "created_at": "2020-08-24T06:42:42.489Z",
+    "updated_at": "2020-08-24T06:58:50.774Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Dạ thưa bác sĩ ! \nCách đây 4 , 5 năm E đã bị mèo cắn và đã tiêm vaccin , nay E lại bị mèo cắn vào ngón tay , vết xước dài 1cm nhẹ ngoài da nhưng gây chảy máy .vậy thưa bác sĩ E có cần tiêm ngừa dại nữa không, từ nhỏ đến giờ E tiêm ngừa dại chó mèo cắn không dưới 5 lần ",
+    "q_id": "q53062",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm ngừa bị mèo cắn "
+  },
+  {
+    "_id": "5f4361628f60cf559ab75626",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-can-c76-q52955#traloi",
+    "created_at": "2020-08-24T06:42:42.491Z",
+    "updated_at": "2020-08-24T06:58:51.385Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Dạ thưa bác sĩ, cháu bị chó cắn ở chỗ bắp chân, cách đây 1 năm rưỡi. Lúc mới bị cắn, cháu có rửa sạch sát khuẩn vết thương và con hỏi chủ nhà đó, con chó mang thai cũng đã được tiêm phòng dại. Đến bây giờ, vết thương cháu vẫn chưa lành hoàn toàn, nay rứa, đỏ, hơi đau và bị lồi. Không biết là cháu có bị sao không ạ. Cháu cảm ơn",
+    "q_id": "q52955",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Chó cắn"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75627",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-chung--c76-q52542#traloi",
+    "created_at": "2020-08-24T06:42:42.492Z",
+    "updated_at": "2020-08-24T06:58:50.865Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Dạ xin chào ạ. E bị chó cào và đã tiêm phòng đến mũi thứ 4. Hiện tại con chó đó vẫn bình thường nhưng e vẫn tiếp tục đợi đến ngày tiêm mũi thứ 5. Và E nghe nói khi tiêm vắc xin không được uống thuốc có thành phần codticoid và kháng sinh đúng k ạ. Do e đang dùng thuốc để trị nổi hạch và mờ mắt. Cụ thể là thuốc fenagi 50. Imexime 200. Agirenyl. Dotocom và thuốc bổ sung vitamin A và vitamin E ạ. Bác sĩ cho e hỏi dùng những loại thuốc này có ảnh hưởng đến vắc xin k ạ. E xin cảm ơn. ",
+    "q_id": "q52542",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm chủng "
+  },
+  {
+    "_id": "5f4361628f60cf559ab75628",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-chung-c76-q52524#traloi",
+    "created_at": "2020-08-24T06:42:42.493Z",
+    "updated_at": "2020-08-24T06:58:52.800Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Tiêm vac sin muỗi thứ 5 xong rồi\nMà lỡ uống rượu bia có bị gì ko ạ",
+    "q_id": "q52524",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm chủng"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75629",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-can-o-tay-c76-q51802#traloi",
+    "created_at": "2020-08-24T06:42:42.494Z",
+    "updated_at": "2020-08-24T06:58:50.849Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Cho em hỏi em bị chó nhà cắn đã tiêm ngừa đc 2 lần ở quê,em lên sg vì cv sếp k cho nghỉ,vậy em k tiêm ngừa nữa có sao k ạ,em còn 2 lần tiêm nữa ạ",
+    "q_id": "q51802",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Chó cắn ở tay"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7562a",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-dai-c76-q51755#traloi",
+    "created_at": "2020-08-24T06:42:42.495Z",
+    "updated_at": "2020-08-24T06:58:50.791Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Bác sĩ cho cháu hỏi cháu đi học trên xe bus trên xe có một cái giỏ đựng mấy con chó con tầm mấy tháng tuổi lúc xuống xe cháu đi qua cái giỏ đó và giẫm vào nước chỗ cái giỏ ấy khi cháu lên đến lớp cháu lấy tay  sờ vào dép nhưng hình như dép  khô rồi xong cháu lấy tay đó nặn mụn thì liệu cháu có phải tiêm phòng không",
+    "q_id": "q51755",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bệnh dại"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7562b",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-cao-xuoc-da-c76-q50527#traloi",
+    "created_at": "2020-08-24T06:42:42.496Z",
+    "updated_at": "2020-08-24T06:58:52.836Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Xin chào bác sĩ ạ, chó nhà em đùa vô tình làm cào xước ở chân em ạ. Vết xước dài hơn 1cm chỉ ở ngoài da và cũng không chảy máu mà nó chỉ động lại như vật gì đó làm xước da thôi ạ. Vậy thì em có cần tiêm ngừa không ạ? ",
+    "q_id": "q50527",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó cào xước da"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7562c",
+    "status": 2,
+    "question_link": "/hoi-dap/vaccin-c76-q50457#traloi",
+    "created_at": "2020-08-24T06:42:42.497Z",
+    "updated_at": "2020-08-24T06:58:50.748Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Em mới tim vác xin ngừa dại hồi tháng 11 năm ngoái nhưng hôm thứ 7 tuần rồi em bị 1 con mèo hoang cào nhẹ bằng vuốt k chảy máu thì em cần đi tim vaccin nữa k bác sĩ\nMong bác sĩ trả lời câu hỏi của em ạ \":",
+    "q_id": "q50457",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Vaccin"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7562d",
+    "status": 2,
+    "question_link": "/hoi-dap/co-can-tiem-vaccin-benh-dai-c76-q50415#traloi",
+    "created_at": "2020-08-24T06:42:42.498Z",
+    "updated_at": "2020-08-24T06:58:50.729Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ, em có một thắc mắc về việc tiêm vaccin bệnh dại như sau mong bác sĩ tư vấn giúp em. \nNhà em có nuôi 1 con chó nhỏ khoảng 2 tháng tuổi và chưa được tiêm vaccin dại, cách đây 1 ngày em bị chú chó cào vào chân gây trầy xước và có rớm máu nhẹ. Vết cào khoảng 2cm và ko sâu. Em muốn hỏi như vậy em có cần đi tiêm vaccin dại hay không? ",
+    "q_id": "q50415",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Có cần tiêm vaccin bệnh dại?"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7562e",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-can-theo-doi-cho-15-ngay-no-van-khoe-thi-co-nen-di-chich-ngua-khong-c76-q50401#traloi",
+    "created_at": "2020-08-24T06:42:42.498Z",
+    "updated_at": "2020-08-24T06:59:05.167Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "E bị chó nhà mừng làm xước da ở mắt cá chân e đã rữa bằng xà phòng nhưng chưa đi tiêm ngừa dại e theo dõi chó 15 ngày nó vẫn khỏe thì có nên đi tiêm hôm nay là ngày 18 nó vẫn khỏe ạ",
+    "q_id": "q50401",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó cắn theo dõi chó 15 ngày nó vẫn khỏe thì có nên đi chích ngừa không"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7562f",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo--can-c76-q50396#traloi",
+    "created_at": "2020-08-24T06:42:42.499Z",
+    "updated_at": "2020-08-24T06:59:05.147Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Em có bị mèo  cắn ở đầu ngón tay  chảy máu. Vậy em có phai tiêm  phòng dại  ko ạ. Và bệnh viện mình  có Tiêm phòng  dại ko ạ",
+    "q_id": "q50396",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị mèo  cắn"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75630",
+    "status": 2,
+    "question_link": "/hoi-dap/co-nen-di-chich-ngua-dai-vi-bi-cho-can-hon-2-thang-c76-q50135#traloi",
+    "created_at": "2020-08-24T06:42:42.500Z",
+    "updated_at": "2020-08-24T06:59:04.907Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Bác sĩ cho con hỏi mẹ con bị chó cắn vào chân vào lúc sáng nhưng không bị trầy xước hay chảy máu, vì lúc đó mẹ con có mang vớ. Nhưng đến tối mẹ con mới rửa vết thương sau đó thì có đi lấy nọc, người ta nặn máu ra rồi về đắp thuốc nam. Đến nay thì cũng hơn 2 tháng rồi. Vì lúc đó không tìm hiểu rõ và nghĩ là không sao nên không có đi chích ngừa. Mẹ con cũng không có biểu hiện gì nhưng mà con rất lo lắng. Liệu bây giờ mẹ con đi chích ngừa có được hay không ạ?Có bị ảnh hưởng gì hay không ạ?",
+    "q_id": "q50135",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Có nên đi chích ngừa dại vì bị chó cắn hơn 2 tháng"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75631",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo-can-c76-q50063#traloi",
+    "created_at": "2020-08-24T06:42:42.501Z",
+    "updated_at": "2020-08-24T06:59:04.873Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "dạ thưa bác sĩ . bố con bị mèo con cắn 1 lỗ nhỏ trên tay có chảy máu 1 ít và đã rửa sạch vết thương , hiện chỉ đau chỗ vết cắn ... và vẫn chưa có giấu hiệu gì khác thường .. trước đó 1 ngày có bố con có đi tiêm uốn vác . vậy không biết có nên tiêm thêm vác xin không ạ . \ncon cảm ơn.",
+    "q_id": "q50063",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "bị mèo cắn"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75632",
+    "status": 2,
+    "question_link": "/hoi-dap/phong-dai-c76-q50051#traloi",
+    "created_at": "2020-08-24T06:42:42.502Z",
+    "updated_at": "2020-08-24T06:59:04.924Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Thưa bác sĩ cho e hỏi , e bị chó cắn ngày 14 , ngày 15 e đi tiêm phòng dại 5 mũi liên tiếp cấp độ 3. \n10 ngày sau con chó chết. Như vậy thì e có bị sao ko ạ? ",
+    "q_id": "q50051",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Phòng dại"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75633",
+    "status": 2,
+    "question_link": "/hoi-dap/meo-cao-nguy-hiem-khong-c76-q49985#traloi",
+    "created_at": "2020-08-24T06:42:42.503Z",
+    "updated_at": "2020-08-24T06:59:04.976Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Em bị mèo quẹt móng trúng cổ. Chỉ rướm máu thôi em đã dùng oxi già nhỏ lên mà do trời tối không rửa xà phòng thì có sao không ạ",
+    "q_id": "q49985",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Mèo cào nguy hiểm không"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7589c",
+    "status": 2,
+    "question_link": "/hoi-dap/tre-lich-tiem-phong-dai-c76-q49904#traloi",
+    "created_at": "2020-08-24T06:42:43.206Z",
+    "updated_at": "2020-08-24T07:04:41.221Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Em bị mèo cắn, đã tiêm phòng vacxin dại 2 mũi, nhưng mũi thứ 3 thì quên ngày tiêm, e có thể tiêm bù vào ngày hôm sau được k ạ?",
+    "q_id": "q49904",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Trễ lịch tiêm phòng dại"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7589d",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo-can--c76-q49878#traloi",
+    "created_at": "2020-08-24T06:42:43.206Z",
+    "updated_at": "2020-08-24T07:04:37.892Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Mẹ con bị mèo hoang cắn ở 2 đầu ngón tay , các bác sĩ làm ơn cho con hỏi là mẹ con có bị làm sao kh ạ ? Chảy rất nhiều máu và mẹ con đã rửa sạch bằng nước và cồn 90 r ạ . Vậy thì mẹ con có bị gì kh ạ ? Con đang rất sợ ạ! ",
+    "q_id": "q49878",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị mèo cắn "
+  },
+  {
+    "_id": "5f4361638f60cf559ab7589e",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-nha-can-c76-q49835#traloi",
+    "created_at": "2020-08-24T06:42:43.207Z",
+    "updated_at": "2020-08-24T07:04:39.743Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "dạ em vừa bị chó cắn ngay đầu ngón tay cái gây ra vết tróc da và chảy máu, em đã sơ cứu qua nước, xà phòng và cồn 90. Chó nhà em đã tiêm vaccine dại, vậy em có phải đi chích ngừa dại không ạ? Em cám ơn",
+    "q_id": "q49835",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Chó nhà cắn"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7589f",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van--c76-q49665#traloi",
+    "created_at": "2020-08-24T06:42:43.208Z",
+    "updated_at": "2020-08-24T07:04:39.217Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Dạ chào bác sĩ. Bác sĩ cho cháu hỏi em gái cháu vô tình đạp trúng xương mà chó mới gặp xong ( có dính nước bọt chó), chảy máu và xưng mũ thì có cần đi chích thuốc ngừa không ạ? \nCháu cảm ơn bác sĩ ạ",
+    "q_id": "q49665",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tư vấn "
+  },
+  {
+    "_id": "5f4361638f60cf559ab758a0",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-phong-dai-c76-q49641#traloi",
+    "created_at": "2020-08-24T06:42:43.209Z",
+    "updated_at": "2020-08-24T07:04:39.175Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Toi bi cho can tem du 3 mui den ngay thu 15 con vat kg chet bac si cho ngung chich mui thi 4 ",
+    "q_id": "q49641",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiem phong dai"
+  },
+  {
+    "_id": "5f4361638f60cf559ab758a1",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-can-c76-q49639#traloi",
+    "created_at": "2020-08-24T06:42:43.211Z",
+    "updated_at": "2020-08-24T07:04:37.401Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chao bs, cho e hoi, e bi chó đẻ cắn vao bắp chân , ngay19/2/2020 e có dùng ớt xoa vao vet cắn , e củng theo giỏi nhung k thay chó bị j, chỉ biet nó đẻ nó phàm cắn thoi, nhưng ngay 6/4/2020 . Con chó đó bỏ an 2 ngay rồi chết, k thay no co biểu hiện chảy nuoc bọt, nhưng hom nay e moi biet tin dc con cho đo chet , e rat lo lang k biet ntn, e chua tiem phòng vac xin, ",
+    "q_id": "q49639",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bi cho cắn"
+  },
+  {
+    "_id": "5f4361638f60cf559ab758a2",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-ngua-c76-q49591#traloi",
+    "created_at": "2020-08-24T06:42:43.212Z",
+    "updated_at": "2020-08-24T07:04:41.348Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "thua bac si con e dc 5tuoi may hom truoc no bi cho nha ke ben can e co dua chau den bv nhiet doi tphcm de tiem ngua .. nhung vi duong xa di lai kho khan nen e dinh chich 1 lan thoi co duoc ko bac si",
+    "q_id": "q49591",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "tiem ngua"
+  },
+  {
+    "_id": "5f4361638f60cf559ab758a3",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-can-c76-q49463#traloi",
+    "created_at": "2020-08-24T06:42:43.214Z",
+    "updated_at": "2020-08-24T07:04:40.974Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Còn tôi 5 tuổi tháng 2 cháu bị chó cắn đã tiêm vắc xin phòng dại 3mũi và con chó cắn k vấn đề gì nên bác sĩ đình chỉ tiêm( ngày 27/2).trưa nay 18/4/2020 cháu bị chó đẻ nhà hàng xón cắn có chảy máu như vậy xin hỏi bác sĩ cháu có phải đi tiêm vắc xin nữa k ạ. Xin chân thành cảm ơn",
+    "q_id": "q49463",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó cắn"
+  },
+  {
+    "_id": "5f4361638f60cf559ab758a4",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-dai-c76-q49439#traloi",
+    "created_at": "2020-08-24T06:42:43.215Z",
+    "updated_at": "2020-08-24T07:04:41.243Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ con bị chuột đồng cắn và đã tiêm ngừa vắc xin mới 3 lần, mỗi lần 2 liều còn thiếu 1 lần. Sau lần thứ 3 cách 3 hay 4 ngày con bị chó con gần 3 tháng tuổi cắn hơi rách da chảy thấy máu, chỉ thấy hơi rát . Vậy con có phải đi tiêm thêm gì không bác sĩ?",
+    "q_id": "q49439",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bệnh dại"
+  },
+  {
+    "_id": "5f4361638f60cf559ab758a5",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo-con-can-c76-q49422#traloi",
+    "created_at": "2020-08-24T06:42:43.216Z",
+    "updated_at": "2020-08-24T07:04:41.235Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ,\nEm bị mèo con nhà nuôi cắn ở lỗ tai vị trí đeo bông tai vết nhỏ như đầu kim. Em đã sát khuẩn bằng cồn 90 độ.\nEm đang có thai tuần thứ 5-6 vậy có cần đi chích ngừa dại không ạ?",
+    "q_id": "q49422",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị mèo con cắn"
+  },
+  {
+    "_id": "5f4361638f60cf559ab758a6",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-cao-xuoc-da-c76-q49258#traloi",
+    "created_at": "2020-08-24T06:42:43.217Z",
+    "updated_at": "2020-08-24T07:04:37.424Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Nhà e có nuôi một con chó nhỏ chưa được 1 tháng tuổi . Hôm qua em cho nó ăn vì chó tăng động nên cào xước da ở ngón tay và ko chảy máu. Vậy có cần chích vắc-xin dại và theo dõi cún ko ạ. ",
+    "q_id": "q49258",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó cào xước da"
+  },
+  {
+    "_id": "5f4361638f60cf559ab758a7",
+    "status": 2,
+    "question_link": "/hoi-dap/ngua-cho-can--c76-q49126#traloi",
+    "created_at": "2020-08-24T06:42:43.220Z",
+    "updated_at": "2020-08-24T07:04:41.118Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ em có bị chó cắn bác sĩ chỉ định tiêm 2 mũi ngày 0-3  và 1 tuần sau Ngày 12/4 em lại bị chó cắn vậy em có cần phải tiêm nữa không ?",
+    "q_id": "q49126",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "ngừa chó cắn "
+  },
+  {
+    "_id": "5f4361638f60cf559ab758a8",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo-con-can-c76-q49105#traloi",
+    "created_at": "2020-08-24T06:42:43.221Z",
+    "updated_at": "2020-08-24T07:04:39.753Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Dạ cho em hỏi là bị mèo con cắn bị trầy ngòai da có sao hông dạ . Có cần đi tiêm hk \nEm bị mèo con cắn ở môi . Lúc mới cắn nó cũg có máu và e đi rửa. Vậy có sao hông ",
+    "q_id": "q49105",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị mèo con cắn"
+  },
+  {
+    "_id": "5f4361638f60cf559ab758a9",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo-cao-c76-q48924#traloi",
+    "created_at": "2020-08-24T06:42:43.222Z",
+    "updated_at": "2020-08-24T07:04:40.988Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Thưa bác sĩ, e bị mèo cào từ ngày 26/3 và đến ngày 29/3  đã đi tiêm mũi vacxin dại đầu tiên, tới bây giờ thì e đã tiêm phòng dại xog mũi thứ 3 rồi. Thì bây giờ e còn nguy cơ bị dại nữa k ạ? Vì e thấy đau nhức ở cánh tay mà con mèo cào vào, có phải đấy là biểu hiện bệnh dại k? E lo lắng quá thưa bác sĩ",
+    "q_id": "q48924",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị mèo cào"
+  },
+  {
+    "_id": "5f4361638f60cf559ab758aa",
+    "status": 2,
+    "question_link": "/hoi-dap/bac-si-tu-van-giup-em-c76-q48867#traloi",
+    "created_at": "2020-08-24T06:42:43.223Z",
+    "updated_at": "2020-08-24T07:04:37.297Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Ngày 28 tháng 3 lịch dương, hôm đó em bị xe quệt chúng và xước vết thương,không may con chó nhà hàng xóm nó liếm vào chúng về thương đó em liền về rùa dưới vòi nước máy cho đến khi ngày 8 tháng 4 em bắt đầu tiết ra nhiều nước bọt.em đá theo dói nó 10 ngày nó vẫn mạnh khỏe liệu em có sao không ạ",
+    "q_id": "q48867",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bác sĩ tư vấn giúp em"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a60",
+    "status": 2,
+    "question_link": "/hoi-dap/chich-phong-ngua-dai-c76-q48827#traloi",
+    "created_at": "2020-08-24T06:42:43.718Z",
+    "updated_at": "2020-08-24T07:09:25.502Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Xin hỏi bác sĩ. Một tháng trước em có bị chó nhà nuôi cào trầy da ( chó chưa được tim phòng dại ), đến nay chó nhà vẫn sống khỏe ăn uống bình thường vậy em có nên đi chích phòng ngừa dại không vậy bác sĩ",
+    "q_id": "q48827",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "chích phòng ngừa dại"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a61",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo-cao-c76-q48781#traloi",
+    "created_at": "2020-08-24T06:42:43.718Z",
+    "updated_at": "2020-08-24T07:09:25.713Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Dạ thưa bác sĩ vào tháng 11 năm ngoái còn bị mèo cắn ở chân đã đi tiêm phòng và mèo không bị gì. Giờ con bị mèo cào ở tay trái và con thấy mèo có ho nhẹ , con có nên đi tiêm phòng nữa không ạ . Cảm ơn bác sĩ.",
+    "q_id": "q48781",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị mèo cào"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a62",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-dai-c76-q48764#traloi",
+    "created_at": "2020-08-24T06:42:43.720Z",
+    "updated_at": "2020-08-24T07:09:25.698Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Con chó em bị con chó khác tự vô nhà cắn lúc buổi sáng ngày 28/03/2020 nhưng em ra em thấy con chó cắn ấy không có biểu hiện dại. Tới thời điểm hiện tại con chó có dấu hiệu mệt mỏi em không biết nó mệt mỏi do em cho nó ăn xương gà nhiều hay do bệnh dại phát tán trong người nó . Em dắt nó đi dạo hay cho nó ăn thì luôn thấy nó lắc đầu và em có bị nước bọt của nó văng lên người không biết nó có văng lên mắt mũi miệng em không . Em có hai trường hợp sau đây:\n1 ) Con chó bị bệnh dại vẩy nước bọt lên mắt mũi miệng \n2 ) Con chó không bị dại và không sao.\nMà bác sĩ ơi cho em hỏi  con chó mới bị mắc dại chưa phát bệnh nó vảy nước bọt lên mắt mũi miệng hoặc cắn chảy máu có sao không ạ ? Thời kì ủ bệnh của nó kéo dài bao lâu và triệu chứng. Và người mới bị nhiễm bệnh dại qua ngày hôm sau sẽ có các triệu chứng như thế nào .\nEm đang rất lo lắng vì nguy cơ mình có thể nhiễm bệnh dại bác sĩ mong giúp em để em an thần lại ạ .",
+    "q_id": "q48764",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bệnh dại"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a63",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-dai--c76-q48762#traloi",
+    "created_at": "2020-08-24T06:42:43.721Z",
+    "updated_at": "2020-08-24T07:09:27.374Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Bác sĩ cho tôi hỏi nếu tiêm phòng dại đủ 5 mũi, một tháng sau bị mèo cào thì có cần tiêm vacxin tiếp không ạ? Làm thế nào để xét nghiệm biết mình có bị nhiễm virus dại hay không hoặc có xét nghiệm nào để kiếm tra hiệu quả của việc tiêm vacxin phòng dại không ạ. Xin cảm ơn. ",
+    "q_id": "q48762",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bệnh dại "
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a64",
+    "status": 2,
+    "question_link": "/hoi-dap/phong-dai-c76-q48627#traloi",
+    "created_at": "2020-08-24T06:42:43.722Z",
+    "updated_at": "2020-08-24T07:09:27.933Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Tôi mua thịt chó ở chợ về khi chặt thịt thì có chặt vào ngón tay và bị chảy máu. xin hỏi Bác sĩ tôi có nên đi tiêm phòng bệnh dại không. Nếu tiêm thì tiêm bao nhiêu mũi?. Cảm ơn Bác sĩ!",
+    "q_id": "q48627",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Phòng dại"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a65",
+    "status": 2,
+    "question_link": "/hoi-dap/lam-the-nao-de-mot-con-cho-bi-benh-dai-va-luc-no-u-benh-c76-q48606#traloi",
+    "created_at": "2020-08-24T06:42:43.724Z",
+    "updated_at": "2020-08-24T07:09:27.922Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Dạ làm thế nào để biết một con chó mới bị nhiễm dại và lúc nó ủ bệnh nó cắn có sao hay không ?",
+    "q_id": "q48606",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Làm thể nào để một con chó bị bệnh dại và lúc nó ủ bệnh"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a66",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-phong-dai-c76-q48417#traloi",
+    "created_at": "2020-08-24T06:42:43.725Z",
+    "updated_at": "2020-08-24T07:09:25.733Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Em bị mèo cào ở mũi ,vết thương khoảng 2mm có chảy máu có sao không ạ",
+    "q_id": "q48417",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm phòng dại"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a67",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-can--c76-q48385#traloi",
+    "created_at": "2020-08-24T06:42:43.726Z",
+    "updated_at": "2020-08-24T07:09:31.610Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ trước tết em bị chó cắn và lịch tiêm là 5 mũi  và em đã tiêm được 4 mũi  mũi thứ 4 em tiêm vào ngày 29/9/2019 không may thứ sáu tuần trước em có bị chó cắn ở chân và chỉ bị xước em có đi tiêm phòng nhưng bác sĩ không cho tiêm mà về theo dõi 14 ngày đến hôm nay là được 4 ngày rồi mà con chó bỏ ăn 2 hôm và ủ rủ  vậy cho em hỏi là mình đi tiêm còn kịp không và khi tiêm có cần tiêm huyết thanh không hay chỉ tiêm vacxin em cám ơn ạ ",
+    "q_id": "q48385",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "chó cắn "
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a68",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-ngua-c76-q48375#traloi",
+    "created_at": "2020-08-24T06:42:43.726Z",
+    "updated_at": "2020-08-24T07:09:31.288Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Cho em hỏi em vừa tiêm ngừa dại và huyết thanh, bs có khuyên k uống bia rượu, chất kích thích, làm việc quá sức, vậy cho e hỏi e có thể chạy bộ, tập thể thao được không ạ, vs hút thuốc có ảnh hưởng gi k ạ? E cảm ơn",
+    "q_id": "q48375",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm ngừa"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a69",
+    "status": 2,
+    "question_link": "/hoi-dap/co-can-tiem-ngua-khong-c76-q48243#traloi",
+    "created_at": "2020-08-24T06:42:43.727Z",
+    "updated_at": "2020-08-24T07:09:37.516Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Như câu hỏi trước của em thì em có thể theo dõi mèo tới khi phát hiện mèo có chịu chứng dại mới tiêm được không ạ . Nếu người bị mèo cắn hoặc cào mà tử vong là do noc mèo hay bệnh dại ạ",
+    "q_id": "q48243",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Có cần tiêm ngừa không"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a6a",
+    "status": 2,
+    "question_link": "/hoi-dap/co-can-tiem-ngua-khong-c76-q48226#traloi",
+    "created_at": "2020-08-24T06:42:43.728Z",
+    "updated_at": "2020-08-24T07:09:37.438Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Mèo cào hoặc cắn rướm máu ở gần gân tay thì có sao không . Em đã rửa sà phòng vết thương nhưng chỉ vài phút. Hôm sau mới nhỏ oxi già . Mấy ngày nay con vật bình thường . Vậy có cần chích ngừa hay lấy nọc gì không ạ",
+    "q_id": "q48226",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Có cần tiêm ngừa không"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a6b",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-nha-da-tiem-ngua-dai-can-c76-q48190#traloi",
+    "created_at": "2020-08-24T06:42:43.729Z",
+    "updated_at": "2020-08-24T07:09:37.420Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Vài hôm trước, em bị chó nhà (đã tiêm ngừa dại) cắn ngay đầu núm vú ngay lúc đang chơi đùa. Sau đó e đã rửa bằng xà phòng nơi chó cắn và làm sạch bằng Povidone, xin hỏi là em có cần tiêm ngừa dại ngay ko ạ? Mong bs sớm trả lời ạ, em cám ơn bs nhiều. ",
+    "q_id": "q48190",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó nhà đã tiêm ngừa dại cắn"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a6c",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-can-c76-q48187#traloi",
+    "created_at": "2020-08-24T06:42:43.730Z",
+    "updated_at": "2020-08-24T07:09:37.448Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Thưa bác sĩ! Em của em có bế một chú chó con khoảng 3 tháng tuổi. Rồi em của em rút tay ra thấy có vết xước nhẹ ở ngón tay trỏ, hơi ươm máu mà không rõ là do chó cắn hay bị quào. Em của em không có rửa vết thương ngay sau đó. Đến chiều là vết thương hầu như lành lại và nếu dũi thẳng ngón tay ra thì cảm giác hơi nhức.Vậy cho em hỏi có cần tiêm vắcxin không ạ? Chú chó nhà em biếng ăn từ nhỏ, hay ngủ ngày và khi giỡn với chó khác thì có gầm gừ vậy có được coi là bệnh dại không ạ?",
+    "q_id": "q48187",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó cắn"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a6d",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-dai-c76-q48096#traloi",
+    "created_at": "2020-08-24T06:42:43.731Z",
+    "updated_at": "2020-08-24T07:09:35.271Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "24/3/2020\ncho con hỏi, hiên con đang trong thời gian tim ngừa chó cắn mũi thứ 3 rồi còn 6 ngày nửa là mũi cuối, mà bị con mèo căn vào ngón tay trỏ ( bàn tay trái) vậy con cần tim ngừa nửa không ạ?. xin được tư vấn sớm ạ ",
+    "q_id": "q48096",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "bệnh dại"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75a6e",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-nha-can-be-3-tuoi-c76-q48058#traloi",
+    "created_at": "2020-08-24T06:42:43.732Z",
+    "updated_at": "2020-08-24T07:09:37.481Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bs. Con e 3 tuổi vừa bị chó nhà đẻ 1 tháng cắn vào đuôi lông mày 1 vết không sâu nhưng có chảy máu. Gia đình e đã rửa vết cắn bằng xà phòng và nước muối sinh lý 0,9%. Gia đình e đang băn khoăn không biết có lên cho cháu đi tiêm phòng không vì cháu còn nhỏ ( cháu 3 tuổi 15kg). Có thể chờ theo dõi con chó trong vòng 10- 14 ngày không hay cho bé đi tiêm ngay ạ.",
+    "q_id": "q48058",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Chó nhà cắn bé 3 tuổi"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c17",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-dai-c76-q48031#traloi",
+    "created_at": "2020-08-24T06:42:44.182Z",
+    "updated_at": "2020-08-24T07:13:36.186Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ...e bị chó nghiệp vụ sử dụng trong quân đội cắn...e có theo dõi tình trạng sức khỏe của chó bình thường,vẫn ăn uống bình thường nhưng đến ngày thứ 14 thì chó bị chết, biểu hiện của chó bị đau chân phải phía trước đi cà nhắc và vùng sườn bên phải thì liệu e có phải đi tiêm phòng không ạ",
+    "q_id": "q48031",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bệnh dại"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c18",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-ngua-cho-meo-can-c76-q48030#traloi",
+    "created_at": "2020-08-24T06:42:44.183Z",
+    "updated_at": "2020-08-24T07:13:42.293Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Thưa bác sĩ, em từng đi tiêm ngừa vacxin phòng dại vì bị mèo cào chảy máu. Bây giờ em tiếp tục bị một con mèo lớn khác cắn trầy da chảy máu, mèo chưa tiêm phòng dại. Em muốn hỏi em có cần đi tiêm ngừa lại hay không ạ?",
+    "q_id": "q48030",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm ngừa chó mèo cắn."
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c19",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-phong-dai--c76-q47832#traloi",
+    "created_at": "2020-08-24T06:42:44.184Z",
+    "updated_at": "2020-08-24T07:13:41.687Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào quý Bác Sĩ.\nDạ bs cho em hỏi, nếu 1 người bị chó cắn, và chú chó đó đã chết sau 7 ngày, nhưng do không có thông tin cụ thể về tình hình của chú chó đó lúc đó, mà tận 20 ngày sau, tức là tổng cộng từ lúc bị cắn đến lúc chú chó đó chết và lúc biết được thông tin thì đã 20 ngày. Và sau đó liền đi tiêm phòng vắc xin, nhưng em thấy đọc báo nói trên nhất thì nữa tháng sau là phải đi chích rồi. Nếu vậy chích sau 20 ngày có còn có tác dụng không ạ. Vết cắn không chảy máu, chỉ bị hơi sưng lên lúc cắn ạ.",
+    "q_id": "q47832",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm phòng dại "
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c1a",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-ngua-hpv-c76-q47806#traloi",
+    "created_at": "2020-08-24T06:42:44.185Z",
+    "updated_at": "2020-08-24T07:13:37.669Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Em tiêm ngừa vaccin gardasil mũi 2 bị trễ 1 tháng (do hết thuốc). Vậy khi tiêm mũi 3 có cần dời lịch lại 1 tháng không hay tiêm như lịch cũ ạ",
+    "q_id": "q47806",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm ngừa HPV"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c1b",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-rang-cho-lam-tray-tay-c76-q47741#traloi",
+    "created_at": "2020-08-24T06:42:44.186Z",
+    "updated_at": "2020-08-24T07:13:38.350Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Trong lúc e cho chó ăn, e đút thịt cho chó mẹ (chó mẹ đã được tiêm chung) , cho con 3 tháng tuổi 3 vừa mới tiêm dạy được 10p thì nó chòm tới dành cục thịt, răng nó làm trầy tay e, e sợ có bị bệnh dại ko ạ? , mong bác sĩ giúp e ạ, cám ơn",
+    "q_id": "q47741",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị răng chó làm trầy tay"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c1c",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-nha-can-c76-q47688#traloi",
+    "created_at": "2020-08-24T06:42:44.187Z",
+    "updated_at": "2020-08-24T07:13:38.261Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Em chơi với cho nhà thì bị cắn chỉ xướt và không chảy máu, nên em k đi tiêm. Tối hôm sau thì em cảm thấy tay chân bủn rủn, tim đập nhanh, khó ngủ, em không biết vì mình lo lắng hay là triệu chứng của dại nữa. Hôm sau thì em đi tiêm ngừa về thì thấy hơi khó thở. Cho em hỏi như vậy có nguy hiểm không ạ",
+    "q_id": "q47688",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Chó nhà cắn"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c1d",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-cao-c76-q47603#traloi",
+    "created_at": "2020-08-24T06:42:44.187Z",
+    "updated_at": "2020-08-24T07:13:39.598Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Hôm nay em có bị chó nhà cào vết thương hở. E cảm thấy đau nhức không biết e có nguy cơ mắc bệnh dại k ạ? E cũng kb chó nhà được tiêm phòng hay chưa vì e đi học k hay ở nhà. E có nên đi tiêm phòng k ạ?",
+    "q_id": "q47603",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Chó cào"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c1e",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-meo-can-c76-q47602#traloi",
+    "created_at": "2020-08-24T06:42:44.188Z",
+    "updated_at": "2020-08-24T07:13:42.251Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "vào ngày 23/8/2019 e đã đi tiêm vắc xin và cả huyết thanh kháng dại vì bị mèo cào. Hôm nay ngày 13/3/2020 e lại bị mèo cào ở tay có chảy máu. Vậy có nên đi tiêm không và đi tiêm thế nào cho đúng. e xin cảm ơn",
+    "q_id": "q47602",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó mèo cắn"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c1f",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-can-c76-q47549#traloi",
+    "created_at": "2020-08-24T06:42:44.189Z",
+    "updated_at": "2020-08-24T07:13:46.558Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ, em bị chó nhà cắn vào tay tuần trước. Do em đã tiêm đủ 5 liều ngừa dại vào tháng 10 năm ngoái nên bác sĩ chỉ định em tiêm 2 liều vacxin vào ngày 0 và ngày 3. Hôm trước trong lúc đùa giỡn em bị nó cào xước chân. Cho hỏi em có cần tiêm ngừa tiếp không? Chó nhà em đang khỏe mạnh và đã được tiêm ngừa dại. Em cảm ơn.",
+    "q_id": "q47549",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó cắn"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c20",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-can--c76-q47473#traloi",
+    "created_at": "2020-08-24T06:42:44.190Z",
+    "updated_at": "2020-08-24T07:13:47.692Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào Bác sĩ. Con bị chó cắn vào cổ tay không bị trầy xước hay chảy máu, nhưng vì 1 đến hai hôm sau con chó bị chết con đã tiêm phòng dại. Con phải tiêm 5 mũi, con tiêm được 4 mũi thì con bị con chó khác cắn chảy máu ở đốt ngón tay. Con chó vẫn khỏe mạnh nhưng con sợ nó bị lây con chó khác. Sau khi bị chó cắn con đã tiêm mũi còn lại theo lịch. Bác sĩ cho con hỏi còn có phải tiêm phòng thêm hay tiêm huyết thành không ạ? Con cảm ơn ạ ",
+    "q_id": "q47473",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó cắn "
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c21",
+    "status": 2,
+    "question_link": "/hoi-dap/dap-trung-mong-meo-dang-tiem-ngua-dai-c76-q47271#traloi",
+    "created_at": "2020-08-24T06:42:44.191Z",
+    "updated_at": "2020-08-24T07:13:47.677Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ, lúc đang đi ngón chân em vô tình đạp trúng móng của mèo gây chảy máu vào buổi tối, em đã rửa vết thương với lifebuoy và cồn 70 độ. Sáng hôm sau em đi tiêm ngừa verobrab phác đồ tiêm trong da, đến ngày thứ 12 thì con mèo bệnh, đến ngày 20 thì con mèo chết, em không biết mèo có bị dại hay không. Em đã tiêm được 3 lần, còn 1 lần nữa chưa đến lịch tiêm. Cho em hỏi còn khả năng bị lây dại không ạ? Lúc em đi tiêm ngừa thì con mèo bình thường nên em không được chỉ định tiêm huyết thanh kháng dại, vậy bây giờ em cần làm những gì để bảo vệ ạ? Và có thể xét nghiệm kháng thể để chắc chắn cơ thể đáp ứng với vacxin không ạ? Từ nhỏ em đã tiêm ngừa dại 2 lần rồi, cách đây khoảng 15 năm và 10 năm. Em xin cám ơn ạ. Mong nhận được tư vấn từ bác sĩ.",
+    "q_id": "q47271",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Đạp trúng móng mèo đang tiêm ngừa dại"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c22",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo-can-vay-co-can-di-tiem-phong-khong-c76-q47148#traloi",
+    "created_at": "2020-08-24T06:42:44.192Z",
+    "updated_at": "2020-08-24T07:13:45.947Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Thưa bác sĩ con em nó bat mèo con không may bị nó cắn vào giữa ngón tay bị chầy da và bị cắn một lỗ nhỏ bị chảy máu vậy có cần đi tiêm phòng không ạ .Em cám ơn bác sĩ",
+    "q_id": "q47148",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị mèo cắn vậy có cần đi tiêm phòng không"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c23",
+    "status": 2,
+    "question_link": "/hoi-dap/muon-hoi-ve-tiem-ngua-benh-dai--c76-q46929#traloi",
+    "created_at": "2020-08-24T06:42:44.193Z",
+    "updated_at": "2020-08-24T07:13:47.472Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Dạ bác sĩ 1 năm trước con bị chó cắn và đã tiêm ngừa rồi ,bây giờ lại thêm 1 vết cắn vậy có cần đi tiêm nữa ko ạ",
+    "q_id": "q46929",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Muốn hỏi về tiêm ngừa bệnh dại "
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c24",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-phong-dai-c76-q46799#traloi",
+    "created_at": "2020-08-24T06:42:44.194Z",
+    "updated_at": "2020-08-24T07:13:47.550Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ! Chuyện là con chó nhà em nuôi hôm trước có giỡn với em và vô tình cắn trúng vào mí mắt bên phải, do chó được xin khi đã lớn nên em không biết đã tiêm phòng hay chưa, thời điểm cẳn thì chó vẫn bình thường không thấy dấu hiệu của bệnh dại. Bác sĩ cho em hỏi em có cần phải tiềm ngừa không hay chỉ theo dõi ạ. Nếu tiêm phòng thì sau 4 hôm mới tiêm có bị trễ không ạ, lúc nhỏ em cũng bị chó cắn và đã tiêm phòng, em cảm ơn bác sĩ!",
+    "q_id": "q46799",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm phòng dại"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75c25",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-can--c76-q46612#traloi",
+    "created_at": "2020-08-24T06:42:44.195Z",
+    "updated_at": "2020-08-24T07:13:46.568Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Cháu đã tiêm vacxin dai vù bị mèo cắn cách đây 6 tháng tim vào ngày 0 , 3 , 7 thì bá sĩ bão ngừng tiêm vì con mèo sau 14 ngày không bị gì và mới đây cách 10 hôm cháu bị cho con xích ở nhà cắn vì giỡ với nó có chảy máu nhưng ít .cháu có theo dõi nó đến nay là ngày thứ 9 nó vẫn khoẻ bình thường thì bị 1 con chó dại chạy tới cắn nó . Cho em hỏi là trường hợp của em đã tiêm vacxin dại trước đó h bị cắn em có cần tiêm nữa không ? ",
+    "q_id": "q46612",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó cắn "
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dca",
+    "status": 2,
+    "question_link": "/hoi-dap/chau-muon-hoi-ve-benh-dai-c76-q46586#traloi",
+    "created_at": "2020-08-24T06:42:44.617Z",
+    "updated_at": "2020-08-24T07:17:45.264Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Cháu chào bác sĩ. Thưa bác sĩ, khoảng Tết hai ba năm trước, cháu có giỡn với một con chó và bị nó cắn nhẹ vào ngón tay trỏ gây bầm, có dấu răng nhưng cháu không rõ có xước hay không. Cháu cũng không theo dõi con chó đó. Đến nay đọc được mấy bài báo nói về bệnh dại nên rất lo lắng. Không biết cháu có bị bệnh dại không và tiêm phòng bây giờ còn kịp không ạ ? Mong bác sĩ giúp đỡ cháu ạ.",
+    "q_id": "q46586",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "CHÁU MUỐN HỎI VỀ BỆNH DẠI"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dcb",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-quao-c76-q46271#traloi",
+    "created_at": "2020-08-24T06:42:44.618Z",
+    "updated_at": "2020-08-24T07:17:52.632Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bác sĩ ạ. Bác sĩ cho em hỏi . Em bị con chó nhà em nó quào ngoài da.... Nhưng ko chảy máu... Chỉ có thấy mấy đường quào và sau 1 đêm thì ko thấy dấu quào đó. Vậy em có cần tiêm ngừa ko ak",
+    "q_id": "q46271",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Chó quào"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dcc",
+    "status": 2,
+    "question_link": "/hoi-dap/meo-cao-c76-q45791#traloi",
+    "created_at": "2020-08-24T06:42:44.619Z",
+    "updated_at": "2020-08-24T07:17:52.797Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Em bị mèo cào cách đây 15 ngày, vết thương rướm máu. Mấy hôm nay em thấy cẳng chân tê như kim châm đụng mạnh thì không đau nữa, chân tê nhẹ và lan ra dần vết thương thì đã lành hẵn. Em vẫn khỏe vậy cho em hỏi đó phải biểu hiện dại không ạ ? Mèo nhà em bị tiêu chảy bệnh hôm qua em lo quá ạ",
+    "q_id": "q45791",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Mèo cào"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dcd",
+    "status": 2,
+    "question_link": "/hoi-dap/can-tu-van-ve-benh-dai-c76-q45680#traloi",
+    "created_at": "2020-08-24T06:42:44.620Z",
+    "updated_at": "2020-08-24T07:17:45.277Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Kính thưa bác sỹ. Năm 2017 vợ tôi đi qua đường bị chó nhà cạnh đường cắn có vết bầm tím nhưng chưa xước. Chủ chó bảo là các con chó ấy đều được tiêm chủng. Thế là vợ tôi không đi tiêm phòng và cũng không theo dõi mấy con chó ấy đã chết chưa. Đến nay năm 2020 vợ lại sợ về bệnh dại nên muốn hỏi các bác sỹ là liệu thời gian ủ bệnh tối đa là bao lâu ạ? Giờ có thể đi tiêm phòng được không ạ?",
+    "q_id": "q45680",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Cần tư vấn về bệnh dại"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dce",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-cao-c76-q45511#traloi",
+    "created_at": "2020-08-24T06:42:44.623Z",
+    "updated_at": "2020-08-24T07:17:48.539Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Con e bị cho cao hơn 2thag nay rồi cho van song bình thường không biết có sao không ah",
+    "q_id": "q45511",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Cho cao"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dcf",
+    "status": 2,
+    "question_link": "/hoi-dap/e-gion-bi-cho-cao-c76-q45506#traloi",
+    "created_at": "2020-08-24T06:42:44.624Z",
+    "updated_at": "2020-08-24T07:17:53.024Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "E coi trên video china cảnh giả xỉu coi chó nhà mình phản ứng ra sao. E bắt trc làm theo và nó tưởng e giỡn nó cào ửng đỏ hết vai . V có bị dại k ạ",
+    "q_id": "q45506",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "E giỡn bị chó cào"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dd0",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-dai-c76-q45466#traloi",
+    "created_at": "2020-08-24T06:42:44.625Z",
+    "updated_at": "2020-08-24T07:17:50.517Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "con chó nhà em nị đi ỉa mẹ em cho nó uống thuốc ko may bị nó cắn sau 2 hôm thì nó chết vậy cho em hỏi là mẹ em có phải tiêm vắc xin phòng dại ko ạ và có phải làm xét nghiệm để phát hiện mẹ em có mang virut dại ko ạ",
+    "q_id": "q45466",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "bệnh dại"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dd1",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-can-c76-q45371#traloi",
+    "created_at": "2020-08-24T06:42:44.626Z",
+    "updated_at": "2020-08-24T07:17:48.557Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Bị chó cắn qua lớp quần vải không bị rách có sao không. Khi đó trên cơ thể có vết gì",
+    "q_id": "q45371",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Chó cắn"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dd2",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-can-c76-q44832#traloi",
+    "created_at": "2020-08-24T06:42:44.627Z",
+    "updated_at": "2020-08-24T07:17:48.634Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "E Bị chó cắn mới tiem vaCcin có nhậu được ko ạ",
+    "q_id": "q44832",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó cắn"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dd3",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-phong-dai-c76-q44692#traloi",
+    "created_at": "2020-08-24T06:42:44.628Z",
+    "updated_at": "2020-08-24T07:17:52.643Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Cháu bị chó cắn ở tay , vết thương nhẹ , không chảy máu mà chỉ bị xước ra . Con chó sau 11 ngày cắn cháu thì bị ốm: đi ngoài , nôn ra nước bọn , không ăn , ốm được 3 ngày thì chó chết .Sau 14 ngày từ ngày bị cắn cháu mới đi tiêm phòng mũi 1 . Cho cháu hỏi với trường hợp của cháu có cần tiên thêm huyết thanh không ạ ?",
+    "q_id": "q44692",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm phòng dại"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dd4",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-phong-truoc-mang-thai-c76-q44251#traloi",
+    "created_at": "2020-08-24T06:42:44.629Z",
+    "updated_at": "2020-08-24T07:17:44.651Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Trung tập có dịch vụ tiêm phòng trước khi mang thai không ạ",
+    "q_id": "q44251",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm phòng trước mang thai"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dd5",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-cho-can-c76-q44081#traloi",
+    "created_at": "2020-08-24T06:42:44.629Z",
+    "updated_at": "2020-08-24T07:17:48.548Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Cháu bị chó nhà cắn trong quá trình chăm sóc cho chó ăn đã 2 tháng nay rồi. Vết cắn nhẹ và nông, chỉ xước da nhưng có chảy máu, cháu có rửa vết thương bằng nước và xà phòng. Chó nhà cháu đã được tiêm phòng dại tháng 4/2019. Cháu có đi tiêm thêm vacxin verorab nhưng do bác sỹ bảo chó nhà đã tiêm phòng nên tiêm 3 mũi thôi. Cháu theo dõi con chó đến ngày thứ 11 thì chó mất (do trước đó 1 tháng con chó bị đi ngoài và có nhờ bác sỹ thú y đến tiêm và điều trị nhưng bệnh không giảm). \nBác sỹ cho cháu hỏi liệu cháu có thể bị dại nữa không ạ? và nếu trong trường hợp cháu nhiễm virus dại thì liệu 3 mũi tiêm có đủ hiệu lực để kháng lại virus dại không ạ? Cháu cảm ơn bác sỹ!",
+    "q_id": "q44081",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị chó cắn"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dd6",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-meo-con-can-co-can-tiem-phong-dai-khong-c76-q44038#traloi",
+    "created_at": "2020-08-24T06:42:44.630Z",
+    "updated_at": "2020-08-24T07:17:52.763Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Thưa bác sĩ, trong lúc bắt mèo con em đã bị mèo con cào và cắn 1 lỗ ở ngón cái tay trái. Vết cào bị rách da không chảy máu, vết cắn chảy máu nhưng không sâu. Em đã rửa sạch bằng nước và xà phòng 15 phút, sau khi rửa thì gần như không nhìn thấy vết cắn. Bác sĩ cho em hỏi trường hợp của em có cần phải tiêm phòng dại liền không ạ ? Mèo không phải mèo nhà em, của nhà hàng xóm qua nhà em đẻ rồi ở luôn ạ.",
+    "q_id": "q44038",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Bị mèo con cắn có cần tiêm phòng dại không"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dd7",
+    "status": 2,
+    "question_link": "/hoi-dap/ve-vac-xin-viem-gan-b-c76-q43934#traloi",
+    "created_at": "2020-08-24T06:42:44.631Z",
+    "updated_at": "2020-08-24T07:17:53.577Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào bắc sỹ, tôi có nhan duoc kết quả xét nghiệm chỉ số hbsab ( ngày 21/12/2019) là 68.00 - sau khi tiêm nhắc lại ngày 29/11/2018. Vậy xin được giải thich và tư vấn tiếp- xin cám ơn",
+    "q_id": "q43934",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Về văc xin viêm gan B"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75dd8",
+    "status": 2,
+    "question_link": "/hoi-dap/muon--tiem--phong--c76-q43926#traloi",
+    "created_at": "2020-08-24T06:42:44.632Z",
+    "updated_at": "2020-08-24T07:17:54.966Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Dạ  e có  ý  định  muốn  sinh  cháu  và  h  e muốn  tiêm  phòng  mũi  cảm  cúm  luôn  dk  k  ạ",
+    "q_id": "q43926",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Muốn  tiêm  phòng "
+  },
+  {
+    "_id": "5f4361658f60cf559ab75f6e",
+    "status": 2,
+    "question_link": "/hoi-dap/vacxin--c76-q42955#traloi",
+    "created_at": "2020-08-24T06:42:45.028Z",
+    "updated_at": "2020-08-24T07:21:53.191Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Cho em hỏi con e được 9tháng tuổi rồi, vậy có cho uống rota được không ạ ",
+    "q_id": "q42955",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Vacxin "
+  },
+  {
+    "_id": "5f4361658f60cf559ab75f6f",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-dap-va-tu-van-tiem-phong-dai-c76-q42895#traloi",
+    "created_at": "2020-08-24T06:42:45.029Z",
+    "updated_at": "2020-08-24T07:21:53.500Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Em chào bác sĩ Medlatec. Nhà em nuôi con mèo gần 3 tuổi đã triệt sản khi 9 tháng tuổi. Sáng nay em bị mèo cào nhẹ vào mặt gần mép một vết nhỏ mỏng khoảng 1cm, vết cào không chảy máu nhưng đỏ như máu, hơi xót, quệt tay không dính máu ở tay. Em chưa tiêm ngừa dại bao giờ, con mèo nhà em chưa tiêm phòng dại. Nhà em ở chung cư cao tầng, gần tầng thượng, mèo nhà em hầu như ít ra ngoài. Hàng xóm cùng tầng nhà em có 2 nhà nuôi mèo nhưng mèo cũng ít ra ngoài. Mèo nhà em không biết bắt chuột và không ăn chuột, chỉ ăn thức ăn riêng dành cho mèo do nhà em ở chung cư. Cho em hỏi liệu em có nguy cơ bị dại không, con mèo nhà em có nguy cơ bị dại không? Nếu em phải tiêm phòng dại và tiêm mũi đầu ngày hôm nay (1/12) thì đến ngày thứ 7 (mũi 3) em lại đi du lịch nước ngoài (5/12-9/12) thì em có được dời lịch tiêm hay tiêm 2 mũi trước ngày đi xa được không ạ? Em cảm ơn MEDLATEC nhiều ạ!",
+    "q_id": "q42895",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Hỏi đáp và tư vấn tiêm phòng dại"
+  },
+  {
+    "_id": "5f4361658f60cf559ab75f70",
+    "status": 2,
+    "question_link": "/hoi-dap/ruou-bia-khi-tiem-vac-xin-dai--c76-q42662#traloi",
+    "created_at": "2020-08-24T06:42:45.030Z",
+    "updated_at": "2020-08-24T07:21:53.171Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Em tên Khanh nay đã 23 tuổi , e bị chó cắn và đã tiêm đầy đủ 4 mũi theo lịch trình . \nCho em hỏi sau khi tiêm 4 mũi thì sao bao lâu mới được uống rượu bia , vì trong giấy để thời gian 6 tháng mới được sử dụng ! \nEm mong nhận được câu trả lời của bác sĩ !!\nEm xin cảm ơn !!",
+    "q_id": "q42662",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Rượu bia khi tiêm vắc xin dại !!"
+  },
+  {
+    "_id": "5f4361658f60cf559ab75f71",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-benh-dai-c76-q41960#traloi",
+    "created_at": "2020-08-24T06:42:45.030Z",
+    "updated_at": "2020-08-24T07:21:53.648Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "dạ chào bác sĩ.\nEm đã bị chó nhà cắn,trầy chảy máu nhẹ.\nem đã đi tiêm ngừa dại 3 lần vào ngày 0 3 7\nlần 4 tiêm ngày 14 nhưng em trễ tiêm 4 ngày nên đã tim vào ngày 18,chỗ tiêm nói với em rằng trễ như vậy ít tác dụng.\nhôm nay là ngày thứ 22,thì chó nhà em phát bệnh có chảy dãi.\nem rất hoang mang,với trong giai đoạn tiêm phòng e đã uống bia 1 lần.\ntrường hợp của em có thể tiêm phòng dại lại từ đầu được không ạ hoặc tiêm thêm liều.\ntại đến ngày 28 e mới tiêm mũi 5 ạ.\nmong bác sĩ trả lời giúp em,em cảm ơn.",
+    "q_id": "q41960",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "hỏi về bệnh dại."
+  },
+  {
+    "_id": "5f4361658f60cf559ab75f72",
+    "status": 2,
+    "question_link": "/hoi-dap/tiem-phong-cum-c76-q37832#traloi",
+    "created_at": "2020-08-24T06:42:45.031Z",
+    "updated_at": "2020-08-24T07:21:52.461Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Bên mình có vacsin tiêm phòng Cúm cho người lớn không em? Và phí là bn/mũi?",
+    "q_id": "q37832",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Tiêm phòng Cúm"
+  },
+  {
+    "_id": "5f4361658f60cf559ab75f73",
+    "status": 2,
+    "question_link": "/hoi-dap/nho-tu-van-ve-viec-tiem-phong-truoc-mang-thai-c76-q37315#traloi",
+    "created_at": "2020-08-24T06:42:45.032Z",
+    "updated_at": "2020-08-24T07:22:01.101Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Thưa bác sĩ, bác sĩ cho em hỏi: Em tiêm phòng trước khi mang bầu mũi 3 trong 1 sởi-quai bị-rubella và mũi thủy đậu varivax ngày 1/4/2019, sau đó em tiêm tiếp mũi cúm và mũi varivax lần 2 ngày 06/6/2019, vậy sau bao lâu thì em được mang bầu ạ? Vừa rồi trong tháng 7 em bị chậm kinh 20 ngày và đến nay chưa thấy có biểu hiện gì lạ thì nếu như mang bầu giai đoạn này có đáng ngại không ạ? ",
+    "q_id": "q37315",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "Nhờ tư vấn về việc tiêm phòng trước mang thai"
+  },
+  {
+    "_id": "5f4361658f60cf559ab75f74",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-tiem-vacxin-dai-c76-q36879#traloi",
+    "created_at": "2020-08-24T06:42:45.033Z",
+    "updated_at": "2020-08-24T07:21:53.524Z",
+    "__v": 0,
+    "c_id": "c76",
+    "q_content": "Chào Bs! \nE vừa tiêm vacxin verorab 0.1ml liều đầu tiên 2 mũi ạ vì lý do e bị mèo cào ngay chân vet thương dài có chảy máu.. liều tiếp theo là 3 ngày sau rơi vào chủ nhật e lại có công việc gấp phải về quê vậy e có thể dời ngày tiêm vào hôm sau là thứ 2 duoc k ạ.. vậy có ảnh hưởng đến quá trình điều trị hay tác dụng của kháng sinh có mất hieu quả k ạ..  ",
+    "q_id": "q36879",
+    "q_related": [
+      {
+        "text": "vaccine",
+        "href": "/hoi-dap/vaccine-c76-q55656"
+      },
+      {
+        "text": "Bị mèo cào ",
+        "href": "/hoi-dap/bi-meo-cao--c76-q55620"
+      },
+      {
+        "text": "Bị chó cắn trích ngừa rồi bị cắn nữa có cần trích ngừa nữa không",
+        "href": "/hoi-dap/bi-cho-can-trich-ngua-roi-bi-can-nua-co-can-trich-ngua-nua-khong-c76-q55552"
+      },
+      {
+        "text": "Hỏi về tiêm phòng vaccin",
+        "href": "/hoi-dap/hoi-ve-tiem-phong-vaccin-c76-q55495"
+      },
+      {
+        "text": "Chó cắn",
+        "href": "/hoi-dap/cho-can-c76-q55339"
+      }
+    ],
+    "q_title": "tư vấn tiêm vacxin dại"
+  }
+]

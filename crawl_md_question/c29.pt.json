@@ -1,0 +1,1736 @@
+[
+  {
+    "_id": "5f4361628f60cf559ab754fc",
+    "status": 2,
+    "question_link": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325#traloi",
+    "created_at": "2020-08-24T06:42:42.168Z",
+    "updated_at": "2020-08-24T06:56:04.715Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Soi tươi: bạch cầu (++)\nNhuộm gram: trực khuẩn gram âm(++)\ne  cần đọc kết quả xét nghiệm vi sinh -ký sinh trùng này ạ?!",
+    "q_id": "q55325",
+    "q_related": [
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      },
+      {
+        "text": "Nhờ bác sỹ tư vấn ",
+        "href": "/hoi-dap/nho-bac-sy-tu-van--c29-q36522"
+      }
+    ],
+    "q_title": "Đọc kết quả soi tươi dịch âm đạo?!"
+  },
+  {
+    "_id": "5f4361628f60cf559ab754fd",
+    "status": 2,
+    "question_link": "/hoi-dap/tieu-phau-c29-q55175#traloi",
+    "created_at": "2020-08-24T06:42:42.169Z",
+    "updated_at": "2020-08-24T06:56:04.610Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Khoảng 2 tháng trước thì em có tới bệnh viện để tiểu phẩu mụn cóc lòng bàn chân, trong lúc tiểu phẩu thì bị dính băng keo hay j bác sỉ vô tình bị đâm kim tiêm gây mê vô tay bác sĩ chảy máu đau quá nên bác sĩ quăng suốt đất, sau đó lượm lên tiêm lại vào chân em, ko biết như z có bị nhiễm HIV ko ạ, dạo này em hay bị lỡ miệng, ho, mệt mõi trong ng ạ",
+    "q_id": "q55175",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      },
+      {
+        "text": "Nhờ bác sỹ tư vấn ",
+        "href": "/hoi-dap/nho-bac-sy-tu-van--c29-q36522"
+      }
+    ],
+    "q_title": "Tiểu phẩu"
+  },
+  {
+    "_id": "5f4361628f60cf559ab754fe",
+    "status": 2,
+    "question_link": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256#traloi",
+    "created_at": "2020-08-24T06:42:42.170Z",
+    "updated_at": "2020-08-24T06:56:04.700Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Cháu bị dính nước bọt chó vào đầu ngón chân( không có vết thương) đã được 1 tuần ,con chó đã được tiêm ngừa dại hơn 1 năm và đến nay con chó vẫn sinh hoạt bình thường. Xin hỏi cháu có cần tiêm vacxin ngừa dại không ạ?",
+    "q_id": "q48256",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      },
+      {
+        "text": "Nhờ bác sỹ tư vấn ",
+        "href": "/hoi-dap/nho-bac-sy-tu-van--c29-q36522"
+      }
+    ],
+    "q_title": "Dính nước bọt chó"
+  },
+  {
+    "_id": "5f4361628f60cf559ab754ff",
+    "status": 2,
+    "question_link": "/hoi-dap/cho-liem-c29-q43354#traloi",
+    "created_at": "2020-08-24T06:42:42.171Z",
+    "updated_at": "2020-08-24T06:56:04.753Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Cháu bị con chó liếm vào vết thương hở nhưng cách gần 4 tháng rồi bây giờ cháu thấy chỗ con chó liếm nó bị thâm thâm thỉnh thoảng lại có cảm giác khó chị liệu có bị dại ko ạ ???",
+    "q_id": "q43354",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      },
+      {
+        "text": "Nhờ bác sỹ tư vấn ",
+        "href": "/hoi-dap/nho-bac-sy-tu-van--c29-q36522"
+      }
+    ],
+    "q_title": "Chó liếm"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75500",
+    "status": 2,
+    "question_link": "/hoi-dap/xin-bao-gia-c29-q38837#traloi",
+    "created_at": "2020-08-24T06:42:42.172Z",
+    "updated_at": "2020-08-24T06:56:04.620Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Em liên hệ xin bảng báo giá xét nghiệm vi khuẩn Ecoli ạ!",
+    "q_id": "q38837",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "Nhờ bác sỹ tư vấn ",
+        "href": "/hoi-dap/nho-bac-sy-tu-van--c29-q36522"
+      }
+    ],
+    "q_title": "xin báo giá"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75501",
+    "status": 2,
+    "question_link": "/hoi-dap/nho-bac-sy-tu-van--c29-q36522#traloi",
+    "created_at": "2020-08-24T06:42:42.172Z",
+    "updated_at": "2020-08-24T06:56:04.676Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "E có xét nghiệm ngày 24/07/2019 mã xét nghiệm là 1201557753, nhờ bác sỹ đọc kết quả xét nghiệm mục Vi khuẩn - ký sinh trùng giúp em ạ! và trong mục huyết học, e đang thấy bị thiếu máu thì nên bổ sung như thế nào ạ? em đang có bầu 21w. em cám ơn Bác sỹ!",
+    "q_id": "q36522",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Nhờ bác sỹ tư vấn "
+  },
+  {
+    "_id": "5f4361628f60cf559ab75502",
+    "status": 2,
+    "question_link": "/hoi-dap/tinh-dich-do-c29-q32160#traloi",
+    "created_at": "2020-08-24T06:42:42.173Z",
+    "updated_at": "2020-08-24T06:56:12.582Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Bác sĩ cho em hỏi em vừa làm xét nghiệm tinh trùng ở bên mình. Kết quả các chỉ số khác đều bình thường. Tuy nhiên có một số chỉ số em còn đang băn khoăn như sau: hình thái bình thường: 3; bất thường đầu: 68; bất thường cổ: 17; bất thường đuôi: 12. Cho em hỏi kết quả như vậy có ảnh hưởng gì đến khả năng sinh sản ko? Em xin cảm ơn.",
+    "q_id": "q32160",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "tinh dịch đồ"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75503",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-ve-ket-qua-xet-nghiem-c29-q28835#traloi",
+    "created_at": "2020-08-24T06:42:42.174Z",
+    "updated_at": "2020-08-24T06:56:06.480Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Tôi vừa nhận được kết quả xét nghiệm mã xét nghiệm 010718-1116006136 ngày 1/7/2018. Xin bs tư vấn giúp tôi về kết quả xét nghiệm ạ.",
+    "q_id": "q28835",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn về kết quả xét nghiệm"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75504",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-ve-tiem-ngua-phe-cau-c29-q28613#traloi",
+    "created_at": "2020-08-24T06:42:42.175Z",
+    "updated_at": "2020-08-24T06:56:12.962Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Bác sĩ cho tôi hỏi. Con tôi chích phế cầu về  3 ngày đầu bé nóng  sốt và tiêu chảy đến  ngày thứ 4 bé nổi mày đay nhiều ở cổ và mặt, lưng bụng cũng có nhưng ít hơn.\nXin bác sỹ cho hỏi bé bị vậy có sao không ạh. Vừa rồi tôi co cho bé di khám tiêu chảy và hỏi về việc bé nổi mày đay thì bác sỹ có nói do bé mới chích ngừa, 5 đến 7 ngày bé sẽ tự hết.\nvậy bác sĩ cho hỏi bé bị vậy co sao kg ạh. Đây là mũi chích thứ 3 của bé, mũi 1 và 2 về bé vẫn bình thường không có sốt hay triệu chứng gì cả\nXin chân thành cảm ơn bác sỹ tư vấn",
+    "q_id": "q28613",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn về tiêm ngừa phế cầu"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75505",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-kham-benh-sau-xet-nghiem-c29-q28166#traloi",
+    "created_at": "2020-08-24T06:42:42.177Z",
+    "updated_at": "2020-08-24T06:56:12.624Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Sau khi kham va lam cac xet nghiem theo yeu cau cua Bac sy thi ket qua nhu sau:\n- Số lượng bạch cầu (WBC) 6.0 G/L 3.5-10.5\n- Số lượng hồng cầu (RBC) 6.34 T/L 4.32-5.72 \n- Lượng huyết sắc tố (Hb) 13.1 g/dL 13.5-17.5 \n- Thể tích khối hồng cầu (HCT) 41.1 % 42-47 \n- Thể tích trung bình HC (MCV) 65 fL 85-95 \n- Lượng Hb trung bình HC( MCH) 20.6 pg 28-32 \n- Nồng độ Hb trung bình HC (MCHC) 31.8 g/dL 32-36 \n- Độ phân bố HC (RDW- CV) 18.3 % 10-16.5\n- Tỷ lệ % bạch cầu Mono 9.2 % 4.0-8.0\n- Bilirubin trực tiếp 5.2 µmol/L (0 - 5.0)\n- Gamma GT(Architect) 75.1 U/L (5.0 - 64.0)\n- HDL-Cholesterol (Architect) 0.87 mmol/L (0.9 - 2.0)\n- Ferritin (Cobas) 864.9 ng/mL (30.0 - 400)\n- Beta2-microglobulin (Cobas) 2.71 mg/L (0.8 - 2.2)\n- TRAb (TSH Receptor Antibody) 27.83 U/L (0-1.75) \nDe nghi Medlatec tu van giup ve suc khoe cua toi, Tran thanh cam on!",
+    "q_id": "q28166",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tu van kham benh sau xet nghiem"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75506",
+    "status": 2,
+    "question_link": "/hoi-dap/thac-mac-ve-cac-chi-so-trong-xet-nghiem-mau-c29-q28119#traloi",
+    "created_at": "2020-08-24T06:42:42.178Z",
+    "updated_at": "2020-08-24T06:56:12.555Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Gửi bác sỹ!\nBác tư vấn hộ em về các chỉ số xét nghiệm sau: Cholesterol ( Architect) 6.23mmol/l  đang có dấu hiệu tăng;  LDL Cholesterol ( Architect) 4.65mmol/l đang tăng ; Natri máu ( Architect) 134.9mmol/l đang có dấu hiệu giảm ; Calcil máu  ( Architect) 2.1mmol/l đang giảm và Beta HC G 13.96 UL . Bác sỹ giúp em các thông tin về các chỉ số trên, có cần lưu ý về dinh dưỡng và sức khỏe không ah",
+    "q_id": "q28119",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Thắc mắc về các chỉ số trong xét nghiệm máu"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75507",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-suc-khoe-c29-q27779#traloi",
+    "created_at": "2020-08-24T06:42:42.179Z",
+    "updated_at": "2020-08-24T06:56:12.708Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Chào bác sỹ, tối mới xét nghiệm máu bên mình. Các chỉ số ALT: 74.9; Gamma GT: 92,8; Trygliceride: 4,14 ; Cholesterol: 5,59.\nTôi xin bác sỹ tư vấn, nên mua thuốc hay điều chỉnh lại chế độ ăn uống, sinh hoạt cho phù hợp.",
+    "q_id": "q27779",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn sức khỏe"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75508",
+    "status": 2,
+    "question_link": "/hoi-dap/xin-tu-van-ve-ket-qua-xet-nghiem-c29-q27618#traloi",
+    "created_at": "2020-08-24T06:42:42.180Z",
+    "updated_at": "2020-08-24T06:56:16.855Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "kết quả xét nghiệm của tôi ngày 24/1/2018 . Điện giải đồ Natri máu 135.2 mmol/L . Nguyên nhân , hướng giải quyết để về giá trị bình thường . Xin cám ơn .",
+    "q_id": "q27618",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Xin tư vấn về kết quả xét nghiệm"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75509",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-cac-chi-so-ket-qua-xet-nghiem-c29-q27599#traloi",
+    "created_at": "2020-08-24T06:42:42.181Z",
+    "updated_at": "2020-08-24T06:56:12.718Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Glucose máu (Architect): 3.77\nCholesterol (Architect): Cholesterol (Architect): 6.39\nLDL-Cholesterol (Architect): 4.59\nCalci máu (Architect): 2.19\nCalci Ion (Architect): 1.09\n\n\nĐây là các chỉ số mà tôi đã xét nghiệm máu tại bệnh viện Medlatec.\nRất mong các bán sĩ nói về tình trạng các chỉ số này, cũng như cách điều trị.\n\nTrân trọng.",
+    "q_id": "q27599",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn các chỉ số kết quả xét nghiệm"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7550a",
+    "status": 2,
+    "question_link": "/hoi-dap/dinh-luong-110-c29-q27567#traloi",
+    "created_at": "2020-08-24T06:42:42.182Z",
+    "updated_at": "2020-08-24T06:56:12.613Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Tôi xin hỏi định lượng cao như vậy thì tôi có bị viêm gan virut không.",
+    "q_id": "q27567",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Định lượng 110"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75749",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-ket-qua-xet-nghiem-crp-c29-q27541#traloi",
+    "created_at": "2020-08-24T06:42:42.819Z",
+    "updated_at": "2020-08-24T07:01:35.107Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "CHỈ SỐ CRP ĐỊNH LƯỢNG TĂNG CAO CÓ Ý NGHĨA GÌ",
+    "q_id": "q27541",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn kết quả xét nghiệm CRP"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7574a",
+    "status": 2,
+    "question_link": "/hoi-dap/ket-qua-xet-nghiem-c29-q27516#traloi",
+    "created_at": "2020-08-24T06:42:42.820Z",
+    "updated_at": "2020-08-24T07:01:37.884Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Gamma GT 139.9 tang; Uric Acid Mau 434.8 tang; triglyceride 3.27 tang; ferritin 483.9 tang. Viec nay co anh huong gi va dieu tri the nao",
+    "q_id": "q27516",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Ket qua xet nghiem"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7574b",
+    "status": 2,
+    "question_link": "/hoi-dap/toi-vua-xet-nghiem-tong-quat-cua-medlatec-va-muon-hoi-ve-chi-so-xet-nghiem-cua-minh-c29-q27484#traloi",
+    "created_at": "2020-08-24T06:42:42.823Z",
+    "updated_at": "2020-08-24T07:01:42.944Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "1- Chỉ số ferritin của tôi rất cao, là 897,6 ng/mL. Tôi bị viêm xoang mãn tính không biết có ảnh hưởng gì đến chỉ số này không ?\n",
+    "q_id": "q27484",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tôi vừa xét nghiệm tổng quát của Medlatec và muốn hỏi về chỉ số xét nghiệm của mình"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7574c",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-suc-khoe-c29-q27483#traloi",
+    "created_at": "2020-08-24T06:42:42.824Z",
+    "updated_at": "2020-08-24T07:01:42.193Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Qua kết quả xét nghiệm máu của bệnh viện ngày 28/12/2017. xin bác sĩ căn cứ vào kết quả cho biết tình trạng của cơ thể: cần phải kiêng hoặc không đường sử dụng những đồ ăn, uống gì. Xin cám ơn sự tư vấn của Bác sĩ",
+    "q_id": "q27483",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn sức khỏe"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7574d",
+    "status": 2,
+    "question_link": "/hoi-dap/giai-dap-mot-so-noi-dung-ve-ket-qua-xet-nghiem-c29-q27481#traloi",
+    "created_at": "2020-08-24T06:42:42.826Z",
+    "updated_at": "2020-08-24T07:01:41.262Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Nhờ bác sĩ tư vấn và làm rõ hơn về các chỉ số dưới đây:\n1. Thể tích khối hồng cầu (HCT) = 48.8% (tăng). Giới hạn cho phép: 42-47%\n2. Gamma GT (Architect) = 108.40 U/L (tăng). Giới hạn cho phép: 5.0-64.0\n3. Tỉ trọng (Tổng phân tích nước tiểu) = 1.010 (giảm). Giới hạn cho phép: 1.015-1.030",
+    "q_id": "q27481",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Giải đáp một số nội dung về kết quả xét nghiệm"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7574e",
+    "status": 2,
+    "question_link": "/hoi-dap/hoa-sinh-nuoc-tieu-c29-q27474#traloi",
+    "created_at": "2020-08-24T06:42:42.827Z",
+    "updated_at": "2020-08-24T07:01:41.603Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Bác sĩ cho em hỏi em đi khám các chỉ số nước tiểu đều trong mức ổn định ngoại trừ --BLO bị ghi RACE-INTAC' .Vậy bác sĩ cho em hỏi chỉ số trên có vấn đề gì không ạ? Và cho e xin lời khuyên nếu phải giải quyết ạ.? Cảm ơn bác sĩ!",
+    "q_id": "q27474",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Hoá sinh nước tiểu"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7574f",
+    "status": 2,
+    "question_link": "/hoi-dap/lay-mau-xet-nghiem-nong-do-progesterone-c29-q27447#traloi",
+    "created_at": "2020-08-24T06:42:42.829Z",
+    "updated_at": "2020-08-24T07:01:42.958Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "lấy máu",
+    "q_id": "q27447",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "lấy máu xét nghiệm nồng độ progesterone"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75750",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-ket-qua-xet-nghiem-mau-c29-q27362#traloi",
+    "created_at": "2020-08-24T06:42:42.830Z",
+    "updated_at": "2020-08-24T07:01:43.144Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Nhờ bác sĩ tư vấn cho tôi kết quả xét nghiệm máu: chỉ số nồng độ Hb trung bình 31.9 tăng , huyết sắc tố hb11.8 giảm , sắt huyết thanh 5.9 giảm , ferintin 7.3 tăng , tranferin 45.7 tăng.  Cảm ơn bác sĩ.",
+    "q_id": "q27362",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn kết quả xét nghiệm máu"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75751",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-ket-qua-kiem-tra-suc-khoe-co-ban-c29-q27251#traloi",
+    "created_at": "2020-08-24T06:42:42.831Z",
+    "updated_at": "2020-08-24T07:01:44.946Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Chào bác sỹ\nTôi có đi khám và đọc kết quả tôi không hiểu rõ các chỉ số mong bác sỹ giải đáp. Ngoài ra tôi có yêu cầu cho biết tôi thuộc nhóm màu nào nhưng tôi thấy không có thể hiện. \n\nDanh mục khám\tKết quả\tĐơn vị\tChỉ số bình thường\tGhi chú\tĐơn giá\nAST (Architect)\t31.50\tU/L\t(< 34.0)\t\t39.000\nALT (Architect)\t22.80\tU/L\t(< 55.0)\t\t39.000\nBilirubin toàn phần (Cobas)\t4.7\tµmol/L\t(0 - 21.0)\t\t29.000\nBilirubin trực tiếp (Cobas)\t1.7\tµmol/L\t(0 - 5.0)\t\t29.000\nBilirubin gián tiếp (Cobas)\t3.0\tµmol/L\t(3.0 - 16.0)\t\nGamma GT(Architect)\t13.20\tU/L\t(5.0 - 36.0)\t\t49.000\nGlucose máu (Architect)\t5.26\tmmol/L\t(4.2 - 6.4)\t\t39.000\nUre máu (Architect)\t2.70\tmmol/L\t(2.50 - 8.07)\t\t39.000\nCreatinin máu (Architect)\t63.60\tµmol/L\t(44-106)\t\t39.000\nTriglyceride (Architect)\t1.63\tmmol/L\t(0.46 - 2.25)\t\t39.000\nCholesterol (Architect)\t4.55\tmmol/L\t(2.8 - 5.2)\t\t39.000\nHDL-Cholesterol (Architect)\t1.16\tmmol/L\t(0.9 - 2.0)\t\t49.000\nLDL-Cholesterol (Architect)\t2.66\tmmol/L\t(<3.4)\t\t55.000\nHBsAg (Architect)\t0.15\tS/CO\t(<1)\tÂm tính (Xem chi tiết)\t99.000\nHIV (Architect)\t0.08\tS/CO\t(<1.0)\tÂm tính (Xem chi tiết)\t199.000\nHBsAb định lượng\t< 2\tU/L\t(0-10)\t\t129.000\nHCV Ab (Cobas)\t0.027\tCOI\t(<1.0)\tÂm tính (Xem chi tiết)\t239.000\nCám ơn bác sỹ",
+    "q_id": "q27251",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn kết quả kiểm tra sức khỏe cơ bản"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75752",
+    "status": 2,
+    "question_link": "/hoi-dap/cholesterol-tang-c29-q27229#traloi",
+    "created_at": "2020-08-24T06:42:42.832Z",
+    "updated_at": "2020-08-24T07:01:42.876Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "cholesterol: 5,36\nLDL-cholesterol 3,66\nTăng như vậy có đánh lo , cần phải uống thuốc ko ? xin bác sĩ tư vấn",
+    "q_id": "q27229",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "cholesterol tăng"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75753",
+    "status": 2,
+    "question_link": "/hoi-dap/ket-qua-xet-nghiem-c29-q27227#traloi",
+    "created_at": "2020-08-24T06:42:42.833Z",
+    "updated_at": "2020-08-24T07:01:42.923Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Tôi xét nghiệ, máu sáng nay 12/11, các chỉ số khác đều binhf thường, riêng chỉ số HDL-Cholestrol là 0.8 thấp hơn chỉ số binhg thường 0.9-2.0. XIn bác sỹ cho biệt chỉ số này là gì, có ảnh hưởng gì và cần làm gì để cải thiện chỉ số này. Xin cảm ơn",
+    "q_id": "q27227",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "kết quả xét nghiệm"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75754",
+    "status": 2,
+    "question_link": "/hoi-dap/chi-so-hong-cau-trong-nuoc-tieu-tang-lien-quan-den-benh-gi-c29-q27181#traloi",
+    "created_at": "2020-08-24T06:42:42.834Z",
+    "updated_at": "2020-08-24T07:01:42.982Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Bác sĩ cho em hỏi chỉ số Ery 25 có phải là cao không? Em có đi soi cặn thêm thì hoàn toàn không có ký sinh trùng cũng như vi trùng hay tinh thể gì cả. Liệu em có mắc phải bệnh nào trầm trong không? Làm sao để giảm chỉ số Ery của em hiện tại. Rất mong bác sĩ tư vấn cho em.",
+    "q_id": "q27181",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Chỉ số hồng cầu trong nước tiểu tăng liên quan đến bệnh gì?"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75755",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-ket-qua-xet-nghiem-bilirubin-c29-q27180#traloi",
+    "created_at": "2020-08-24T06:42:42.835Z",
+    "updated_at": "2020-08-24T07:01:42.991Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Xin bác sĩ tư vấn kết quả bilirubin toàn phần 21,4 - trực tiếp 7,8 và HBsAg âm tính",
+    "q_id": "q27180",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn kết quả xét nghiệm bilirubin"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75756",
+    "status": 2,
+    "question_link": "/hoi-dap/chi-so-triglyceride-tang-cao-va-hdl-cholesterol-giam-lien-quan-den-benh-gi-c29-q27174#traloi",
+    "created_at": "2020-08-24T06:42:42.836Z",
+    "updated_at": "2020-08-24T07:01:43.056Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Xin chào bác sĩ. Tôi vừa nhận kết quả xét nghiệm máu thấy chỉ số Triglyceride tăng cao( 8,76) và HDL cholesterol giảm( 0,70). Vậy mong bác sĩ tư vấn cách điều trị. Xin chân thành cảm ơn!",
+    "q_id": "q27174",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Chỉ số Triglyceride tăng cao và HDL cholesterol giảm liên quan đến bệnh gì?"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75757",
+    "status": 2,
+    "question_link": "/hoi-dap/mat-muoi-nao-kem-suy-tuyen-thuong-than-c29-q27150#traloi",
+    "created_at": "2020-08-24T06:42:42.837Z",
+    "updated_at": "2020-08-24T07:01:43.176Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Chào bác sĩ. Em bị tai nạn giao thông và mổ tại Bệnh viện Việt Đức, sau khi mổ 5h sau tỉnh lại nhưng 3 ngày kế tiếp rơi vào tình trạng hôn mê, bs nói e có dấu hiệu phù não và tiến hành điều trị tích cực 2 ngày thì e tỉnh lại, sau đó khoảng 10 ngày kết quả chụp MRI của e tốt nhưng lại bị hạ Na, Cl. Em đã truyền muối ưu trương nhưng k có tác dụng. Sau 2 tháng e đc chuyển tới bệnh viện Bạch Mai, các xét nghiệm thấy tuyến giáp, thận, ... K có gì bất thường nên bs điều trị theo hướng mất muối não bằng việc uống florinef cùng với truyền muối ưu trương sau là ăn 50g muối/ngày khoảng 1 tháng sau e phải nhập viện lại vì muối hạ dẫn đến Giật, sau e tiếp tục điều trị nhưng thêm đó là thuốc hydrocostisol 30mg/ngày 30g NaCl/ngày 10mg florinef. Và sau đó 2 tháng lại vào viện vì Na quá thấp. (Thường hạ xuống 114 mmol/l ) Sau gần 10 tháng điều trị Na của e chưa Bao giờ lên 136 cả. Em hoang mang lắm vì đã phải bảo lưu 1 năm học rồi. Rất mong các bác sĩ tư vấn giúp em!",
+    "q_id": "q27150",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Mất muối não kèm suy tuyến thượng thận"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75848",
+    "status": 2,
+    "question_link": "/hoi-dap/ure-mau-tang-nen-thay-doi-che-do-an-ra-sao-c29-q27092#traloi",
+    "created_at": "2020-08-24T06:42:43.115Z",
+    "updated_at": "2020-08-24T07:04:07.801Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Hôm nay tôi có làm xét nghiệm Ure máu và có kết quả là 22.90mmol/L ( tăng hơn so với bình thường). Vậy nhờ bác sĩ tư vấn giúp tôi có cần kiểm tra thêm nội dung gì nữa không và chế độ ăn nên thay đổi thế nào cho phù hợp? Cảm ơn bác sĩ nhiều.",
+    "q_id": "q27092",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Ure máu tăng nên thay đổi chế độ ăn ra sao"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75849",
+    "status": 2,
+    "question_link": "/hoi-dap/bilirubin-truc-tiep-cobas\t57-nguy-co-bi-benh-gi-c29-q27084#traloi",
+    "created_at": "2020-08-24T06:42:43.116Z",
+    "updated_at": "2020-08-24T07:04:11.180Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Bilirubin trực tiếp (Cobas)\t5.7\tCó cao quá không? và có nguy cơ bệnh gì?",
+    "q_id": "q27084",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Bilirubin trực tiếp (Cobas)\t5.7 nguy cơ bị bệnh gì?"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7584a",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-xet-nghiem-acid-uric-mo-mau-c29-q27027#traloi",
+    "created_at": "2020-08-24T06:42:43.117Z",
+    "updated_at": "2020-08-24T07:04:15.667Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Kết quả thử máu của tôi như sau:\nUric acid máu (Cobas)\t464.0\tµmol/L\t(140-420)\tTăng (Xem chi tiết)\t49.000\nTriglyceride (Cobas)\t2.73\tmmol/L\t(0.46 - 2.25)\tTăng (Xem chi tiết)\t39.000\nCholesterol (Cobas)\t6.26\tmmol/L\t(2.8 - 5.2)\tTăng (Xem chi tiết)\t39.000\nHDL-Cholesterol (Cobas)\t1.03\tmmol/L\t(0.9 - 2.0)\t\t49.000\nLDL-Cholesterol (Cobas)\t4.00\nXin bác sĩ tư vấn xem với 4 loại có chỉ số cao như vậy tôi có cần sử dụng thuốc gì không ? ngoài việc phải điều chỉnh ăn uống và tập luyện.\nXin cám ơn.",
+    "q_id": "q27027",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn xét nghiệm Acid uric, mỡ máu"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7584b",
+    "status": 2,
+    "question_link": "/hoi-dap/nguyen-nhan-ty-le--bach-cau-mono-tang-c29-q27015#traloi",
+    "created_at": "2020-08-24T06:42:43.120Z",
+    "updated_at": "2020-08-24T07:04:15.744Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Hôm nay Tôi có xét nghiêm máu đã có kết quả nên cho tôi hỏi (Tỷ lệ % bạch cầu Mono) tăng 16.5/8 vậy tôi cần phải kiểm tra gì nữa không để biết tăng do nguyên nhân nào",
+    "q_id": "q27015",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Nguyên nhân tỷ lệ % bạch cầu Mono tăng"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7584c",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-ket-qua-xet-nghiem-mau-c29-q26991#traloi",
+    "created_at": "2020-08-24T06:42:43.121Z",
+    "updated_at": "2020-08-24T07:04:15.577Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Tư vấn về kết quả xet nghiệm máu ngày 3/10/2017",
+    "q_id": "q26991",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn kết quả xét nghiệm máu"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7584d",
+    "status": 2,
+    "question_link": "/hoi-dap/phuong-phap-phat-hien-nhiem-asflatoxin-c29-q26937#traloi",
+    "created_at": "2020-08-24T06:42:43.122Z",
+    "updated_at": "2020-08-24T07:04:15.771Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Em có bạn là người dân tộc gia đình anh ấy hay ăn ngô tích trữ lâu ngày em đọc trên mạng thấy ngô có thể nhiễm afatoxin gây ung thư vậy ở VN có thể test afatoxin trên người không ạ em cám ơn",
+    "q_id": "q26937",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Phương pháp phát hiện nhiễm asflatoxin"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7584e",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-kiem-tra-sot-xuat-huyet-c29-q26903#traloi",
+    "created_at": "2020-08-24T06:42:43.123Z",
+    "updated_at": "2020-08-24T07:04:15.531Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "kính thưa bác sỹ,\nChiều qua 21/9 tôi có thử máu (Medlatec) vì 20/9 thấy gây gây sốt (nhẹ) do hôm 19/9 bị muỗi đốt nên sợ sót xuất huyết. Kết quả có nhiều chỉ số tăng, giảm... Xin Bác sỹ tư vấn các chỉ số như vậy thì tình trạng sức khỏe của tôi thế nào và cần phải làm gì. Xin cám ơn Bác sỹ.\nSố lượng huyết sắc tố (Hb)\t11.6\tg/dL\t(12-16.5)\tGiảm (Xem chi tiết)\nThể tích trung bình HC (MCV)\t69\tfL\t(85-95)\tNhỏ (Xem chi tiết)\nLượng Hb trung bình HC (MCH)\t22.0\tpg\t(26-32)\tThấp (Xem chi tiết)\nNồng độ Hb trung bình HC\t31.8\tg/dL\t(32-36)\tThấp (Xem chi tiết)\nĐộ phân bố HC (RDW-CV)\t18.8\t%\t(10-16.5)\tCao (Xem chi tiết)\nSố lượng tiểu cầu (PLT)\t227\tGiga/L\t(150-450)\t\nThể tích trung bình TC (MPV)\t10.1\tfL\t(4-11)\t\nThể tích khối tiểu cầu (PCT)\t0.230\t%\t(0.1-1)\t\nĐộ phân bố TC (PDW)\t21.3\t%\t(9.0 - 17.0)\tCao (Xem chi tiết)\nTỷ lệ % bạch cầu trung tính\t41.7\t%\t(43-76)\tGiảm (Xem chi tiết)\nTỷ lệ % bạch cầu Lympho\t40.9\t%\t(17-48)\t\nTỷ lệ % bạch cầu Mono\t11.5\t%\t(3.0 - 10.0)\tTăng (Xem chi tiết)\nTỷ lệ % bạch cầu ái toan\t4.9\t%\t(0.1-7)\t\nTỷ lệ % bạch cầu ái kiềm\t1.0\t%\t(0.0-2.5)\t\n% Lympho không điển hình\t1.7\t%\t(0-2.5)\t\n% Các TB non lớn\t0.1\t%\t(0-3.0)\t\nSố lượng bạch cầu trung tính\t1.89\tGiga/L\t(2-6.9)\tGiảm (Xem chi tiết)\nDengue NS1 Antigen\tÂm tính\t\t(Âm tính)\t\nDengue Fever Antibody IgG\tÂm tính\t\t(Âm tính)\t\nDengue Fever Antibody IgM\tÂm tính\t\t(Âm tính)",
+    "q_id": "q26903",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Xét nghiệm kiểm tra sốt xuất huyết"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7584f",
+    "status": 2,
+    "question_link": "/hoi-dap/kiem-tra-sau-sot-xuat-huyet-c29-q26602#traloi",
+    "created_at": "2020-08-24T06:42:43.124Z",
+    "updated_at": "2020-08-24T07:04:15.811Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Chào bác sĩ. Cho em hỏi là em vừa bị sốt xuất huyết (đã khỏi các triệu chứng). Em có cần đi xét nghiệm lại cho chắc chắn là đã khỏi bệnh không ạ? Em cảm ơn",
+    "q_id": "q26602",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Kiểm tra sau sốt xuất huyết"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75850",
+    "status": 2,
+    "question_link": "/hoi-dap/bac-si-tu-van-giup-chau-ve-ket-qua-set-nghiem-mo-mau-va-tieu-duong-a-c29-q26401#traloi",
+    "created_at": "2020-08-24T06:42:43.125Z",
+    "updated_at": "2020-08-24T07:04:15.714Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Danh mục khám\tKết quả\tĐơn vị\tChỉ số bình thường\tGhi chú\tĐơn giá\nGlucose máu (Architect)\t4.87\tmmol/L\t(4.2 - 6.4)\t\t39.000\nHbA1c (G8)\t5.16\t%\t(4.2 - 6.4)\t\t149.000\nTriglyceride (Architect)\t5.23\tmmol/L\t(0.46 - 2.25)\tTăng (Xem chi tiết)\t39.000\nCholesterol (Architect)\t4.72\tmmol/L\t(2.8 - 5.2)\t\t39.000\nHDL-Cholesterol (Architect)\t0.79\tmmol/L\t(0.9 - 2.0)\tGiảm (Xem chi tiết)\t49.000\nLDL-Cholesterol (Architect)\t3.14\tmmol/L\t(1.8 - 3.9)\t\t\n\nBác tư vấn giúp cháu kết quản và thuốc điều trị vơi ạ.\nCháu cảm ơn Bác Sĩ",
+    "q_id": "q26401",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Bác sĩ tư vấn giúp cháu về kết quả sét nghiệm mỡ máu và tiểu đượng ạ"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75851",
+    "status": 2,
+    "question_link": "/hoi-dap/roi-loạn-mo-mau-c29-q26303#traloi",
+    "created_at": "2020-08-24T06:42:43.126Z",
+    "updated_at": "2020-08-24T07:04:15.998Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Tôi biết bị rối loạn mỡ máu một năm nay. Tôi chỉ ăn kiêng hôm nay xét nghiệm có kết quả Triglycerid 2,88. Cholesterol 6,23 . Xin bác sĩ tư vấn cách điều tri",
+    "q_id": "q26303",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "rối loạn mỡ máu"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75852",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-dieu-tri-c29-q26279#traloi",
+    "created_at": "2020-08-24T06:42:43.127Z",
+    "updated_at": "2020-08-24T07:04:15.758Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Uric acid mau của em là 480.18 có nghiêm trọng lắm không, để hạn chế Uric em cần uống thuốc gì, ăn uống như thế nào.\nTriglyceride AU 7.68 co nguy hiểm lắm không. Để điều trị thì cần phải uống thuốc gì, ăn uống như thế nào?",
+    "q_id": "q26279",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn điều trị"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75853",
+    "status": 2,
+    "question_link": "/hoi-dap/chi-so-men-gan-uric-acid-mo-mau-tang-c29-q26078#traloi",
+    "created_at": "2020-08-24T06:42:43.128Z",
+    "updated_at": "2020-08-24T07:04:15.586Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Tôi vừa nhận đi kết quả xét nghiêm máu trong đó có một số chỉ số cao so với BT xin BS tư vấn và PP điều trị, cụ thể: chỉ số AST(Architect) 36.70; ALT(Architect) 57.20; Gamma GT(Arhitect) 385.40; Uric acid máu (Architect) 444.56; Triglyceride 7.91; Cholesterol 5.23; hồng cầu 50 Ery/ul++; trên đây là các kết quả xét nghiệt cao hơn BT xin BS tư vấn giúp. Trân trọng cảm ơn!",
+    "q_id": "q26078",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Chỉ số men gan, Uric acid, mỡ máu tăng"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75854",
+    "status": 2,
+    "question_link": "/hoi-dap/chi-so-mo-mau-gout-tang-c29-q26052#traloi",
+    "created_at": "2020-08-24T06:42:43.128Z",
+    "updated_at": "2020-08-24T07:04:15.550Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Xin BS cho hỏi về 1 số hệ số xét nghiệm tăng cao của tôi như sau:\n1- Gamma GT ( Architect ): 247 U/L.\n2. Uric adcid máu : 549.02 umol/L\n3. Triglyceride : 5.37mmol/L\n4. Cholesterol: 6.55 mmol/L.\n5. LDL- Cholesterol: 4.37 mmol/L",
+    "q_id": "q26052",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Chỉ số mỡ máu, gout tăng"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75855",
+    "status": 2,
+    "question_link": "/hoi-dap/luong-glucose-trong-mau-c29-q26051#traloi",
+    "created_at": "2020-08-24T06:42:43.129Z",
+    "updated_at": "2020-08-24T07:04:15.655Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Tôi có đi xét nghiệm hóa sinh ở phòng khám tư thì thấy trên phiếu kết quả là GLU 3+ ( 500mg/ml) thì cho tôi hỏi là có phải là bệnh tiểu đường không, và bên mình có lấy máu tại nhà xét nhiệm hóa sinh không và phí dịch vụ như thế nào. Xin cảm ơn",
+    "q_id": "q26051",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Lượng glucose trong máu"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75856",
+    "status": 2,
+    "question_link": "/hoi-dap/khang-dong-lupus-c29-q25843#traloi",
+    "created_at": "2020-08-24T06:42:43.130Z",
+    "updated_at": "2020-08-24T07:04:15.490Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Cho em hỏi là em xét nghiệm máu ở bệnh viện mình chỉ số LA của em là 1.19 trong khi đó chỉ số chuẩn là 1.2 , vậy cho em hỏi là chỉ số của em sát như vậy liệu có đáng lo ngại vấn đề gì không ạ? Mong được các bác sĩ tư vấn, em xin cảm ơn !",
+    "q_id": "q25843",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Kháng đông Lupus"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7599b",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-ve-chi-so-mo-mau-gout-c29-q25823#traloi",
+    "created_at": "2020-08-24T06:42:43.503Z",
+    "updated_at": "2020-08-24T07:07:00.039Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Uric acid máu (AU)\t521.2 µmol/L\t\nTriglyceride (AU)\t3.24\tmmol/L\nCholesterol (AU)\t4.30\tmmol/L\t\nHDL-Cholesterol (AU)\t0.88\tmmol/L\t\nLDL-Cholesterol (AU)\t1.95\tmmol/L",
+    "q_id": "q25823",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn về chỉ số mỡ máu, gout"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7599c",
+    "status": 2,
+    "question_link": "/hoi-dap/ket-qua-ure-calci-mau-giam-c29-q25809#traloi",
+    "created_at": "2020-08-24T06:42:43.505Z",
+    "updated_at": "2020-08-24T07:06:57.616Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Ure máu (Architect)\t1.8 giảm, Calci máu (AU)\t2.18\tmmol/L\t(2.2 - 2.6)  thì giảm những đồ ăn gì?",
+    "q_id": "q25809",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Kết quả Ure, Calci máu giảm"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7599d",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-ket-qua-xet-nghiem-c29-q25778#traloi",
+    "created_at": "2020-08-24T06:42:43.506Z",
+    "updated_at": "2020-08-24T07:06:51.459Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Tôi có kiểm tra tại viện MEDLATEC ngày 24/4/2017 kết quả như sau:\nUre máu 3.3\nCreatinin 57.4\nCEA < 0.200\nxin bác sỹ tư vấn hộ kết quả. Cảm ơn bác sỹ",
+    "q_id": "q25778",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "tư vấn kết quả xét nghiệm"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7599e",
+    "status": 2,
+    "question_link": "/hoi-dap/nghi-ngo-uon-van-sau-dam-dinh-c29-q25783#traloi",
+    "created_at": "2020-08-24T06:42:43.507Z",
+    "updated_at": "2020-08-24T07:07:00.073Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Hôm thứ 7 dẫm phải đinh sắt. Chiều nay EM đã tiêm vacxin uốn ván. Em nghe nói vi khuẩn uốn ván hoạt động trong môi trường yếm khi. Vậy bác sĩ cho em hỏi : ở chỗ vết thương em có nên dùng kim khêu ra không ạ?( nếu là kim sạch)",
+    "q_id": "q25783",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Nghi ngờ uốn ván sau dẫm đinh"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7599f",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-chi-so-triglyceride-c29-q25764#traloi",
+    "created_at": "2020-08-24T06:42:43.509Z",
+    "updated_at": "2020-08-24T07:07:33.020Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Triglyceride (Architect)\t4.55\tmmol/L\t(0.46 - 2.25)\tTăng (Xem chi tiết)",
+    "q_id": "q25764",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn chỉ số Triglyceride"
+  },
+  {
+    "_id": "5f4361638f60cf559ab759a0",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-mot-so-xet-nghiem-mau-c29-q25760#traloi",
+    "created_at": "2020-08-24T06:42:43.510Z",
+    "updated_at": "2020-08-24T07:07:23.490Z",
+    "__v": 0,
+    "c_id": "c29",
+    "q_content": "Hôm qua tôi có làm xét nghiệm máu, hnay tôi nhận được kết quả như sau:\nTriglyceride (Cobas)\t5.93\tmmol/L\t(0.46 - 2.25)\tTăng\nCholesterol (Cobas)\t4.53\tmmol/L\t(2.8 - 5.2)\t\t\nHDL-Cholesterol (Cobas)\t0.78\tmmol/L\t(0.9 - 2.0)\tGiảm \nLDL-Cholesterol\t3.15\tmmol/L\t(1.8 - 3.9)\t\t\nAFP (Cobas)\t43.93\tng/mL\t(0-7).\nKính mong bác sỹ giải thích và tư vấn.\nXin trân trọng cảm ơn!",
+    "q_id": "q25760",
+    "q_related": [
+      {
+        "text": "Đọc kết quả soi tươi dịch âm đạo?!",
+        "href": "/hoi-dap/doc-ket-qua-soi-tuoi-dich-am-dao-c29-q55325"
+      },
+      {
+        "text": "Tiểu phẩu",
+        "href": "/hoi-dap/tieu-phau-c29-q55175"
+      },
+      {
+        "text": "Dính nước bọt chó",
+        "href": "/hoi-dap/dinh-nuoc-bot-cho-c29-q48256"
+      },
+      {
+        "text": "Chó liếm",
+        "href": "/hoi-dap/cho-liem-c29-q43354"
+      },
+      {
+        "text": "xin báo giá",
+        "href": "/hoi-dap/xin-bao-gia-c29-q38837"
+      }
+    ],
+    "q_title": "Tư vấn một số xét nghiệm máu"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "_id": "5f4361618f60cf559ab75235",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-thuoc-khang-sinh-c58-q50900#traloi",
+    "created_at": "2020-08-24T06:42:41.265Z",
+    "updated_at": "2020-08-24T06:49:47.870Z",
+    "__v": 0,
+    "c_id": "c58",
+    "q_content": "Tôi điều trị viêm tuyến vú, uống kháng sinh augmetin họ nói uống loại này có thể cho con bú đc, nhưng do tôi ko hợp thuốc nên phải đổi sang dùng zinnat. Nên tôi ko cho con ăn sữa mẹ, mà thay bằng sữa công thwcs. Vậy khi tôi dừng uống thuốc zinnat sau 24 giờ thì tôi có thể cho con bú sữa mẹ đc chưa, lúc đấy thuốc đã đào thải hết khỏi cơ thể hay chưa ?",
+    "q_id": "q50900",
+    "q_related": [
+      {
+        "text": "Thuốc này liệu có tác dụng ?",
+        "href": "/hoi-dap/thuoc-nay-lieu-co-tac-dung--c58-q50687"
+      },
+      {
+        "text": "Vitamin e ",
+        "href": "/hoi-dap/vitamin-e--c58-q45771"
+      },
+      {
+        "text": "Thuốc dạ dày ",
+        "href": "/hoi-dap/thuoc-da-dày--c58-q45046"
+      },
+      {
+        "text": "tư vấn",
+        "href": "/hoi-dap/tu-van-c58-q32984"
+      },
+      {
+        "text": "mua thuốc kháng sinh",
+        "href": "/hoi-dap/mua-thuoc-khang-sinh-c58-q31589"
+      }
+    ],
+    "q_title": "Hỏi về thuốc kháng sinh"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75236",
+    "status": 2,
+    "question_link": "/hoi-dap/thuoc-nay-lieu-co-tac-dung--c58-q50687#traloi",
+    "created_at": "2020-08-24T06:42:41.266Z",
+    "updated_at": "2020-08-24T06:49:47.930Z",
+    "__v": 0,
+    "c_id": "c58",
+    "q_content": "Chồng nhà mình thấy con nhỏ 1 tuổi 6 tháng (con trai) chậm nói nên nghe báo nào đấy trên mạng đặt mua thuốc Vương Não Khang với tựa đề \"giúp cho trẻ tự kỉ, trẻ chậm nói,v..vv\". Mình sợ tiền mất tật mang nên muốn hỏi bs liệu có tác dụng thật không ạ ? Cho trẻ em uống có ảnh hưởng gì không ạ",
+    "q_id": "q50687",
+    "q_related": [
+      {
+        "text": "Hỏi về thuốc kháng sinh",
+        "href": "/hoi-dap/hoi-ve-thuoc-khang-sinh-c58-q50900"
+      },
+      {
+        "text": "Vitamin e ",
+        "href": "/hoi-dap/vitamin-e--c58-q45771"
+      },
+      {
+        "text": "Thuốc dạ dày ",
+        "href": "/hoi-dap/thuoc-da-dày--c58-q45046"
+      },
+      {
+        "text": "tư vấn",
+        "href": "/hoi-dap/tu-van-c58-q32984"
+      },
+      {
+        "text": "mua thuốc kháng sinh",
+        "href": "/hoi-dap/mua-thuoc-khang-sinh-c58-q31589"
+      }
+    ],
+    "q_title": "Thuốc này liệu có tác dụng ?"
+  },
+  {
+    "_id": "5f4361618f60cf559ab75237",
+    "status": 2,
+    "question_link": "/hoi-dap/vitamin-e--c58-q45771#traloi",
+    "created_at": "2020-08-24T06:42:41.268Z",
+    "updated_at": "2020-08-24T06:49:47.943Z",
+    "__v": 0,
+    "c_id": "c58",
+    "q_content": "Các anh chị làm ơn cho em hỏi là vừa uống elevit liều một viên một ngày và vitamin e đỏ của nga liều một viên một ngày trước và sau sinh có đưoc không ạ.em cám ơn ạ",
+    "q_id": "q45771",
+    "q_related": [
+      {
+        "text": "Hỏi về thuốc kháng sinh",
+        "href": "/hoi-dap/hoi-ve-thuoc-khang-sinh-c58-q50900"
+      },
+      {
+        "text": "Thuốc này liệu có tác dụng ?",
+        "href": "/hoi-dap/thuoc-nay-lieu-co-tac-dung--c58-q50687"
+      },
+      {
+        "text": "Thuốc dạ dày ",
+        "href": "/hoi-dap/thuoc-da-dày--c58-q45046"
+      },
+      {
+        "text": "tư vấn",
+        "href": "/hoi-dap/tu-van-c58-q32984"
+      },
+      {
+        "text": "mua thuốc kháng sinh",
+        "href": "/hoi-dap/mua-thuoc-khang-sinh-c58-q31589"
+      }
+    ],
+    "q_title": "Vitamin e "
+  },
+  {
+    "_id": "5f4361618f60cf559ab75238",
+    "status": 2,
+    "question_link": "/hoi-dap/thuoc-da-dày--c58-q45046#traloi",
+    "created_at": "2020-08-24T06:42:41.269Z",
+    "updated_at": "2020-08-24T06:49:48.138Z",
+    "__v": 0,
+    "c_id": "c58",
+    "q_content": "Tôi dùng Thuốc nexium 40 mg. Sau 2 ngày tôi đi nội soi dạ dày, vậy cho tôi hỏi nó có làm sai kết quả test clo khi nội soi dạ dày không ạ.",
+    "q_id": "q45046",
+    "q_related": [
+      {
+        "text": "Hỏi về thuốc kháng sinh",
+        "href": "/hoi-dap/hoi-ve-thuoc-khang-sinh-c58-q50900"
+      },
+      {
+        "text": "Thuốc này liệu có tác dụng ?",
+        "href": "/hoi-dap/thuoc-nay-lieu-co-tac-dung--c58-q50687"
+      },
+      {
+        "text": "Vitamin e ",
+        "href": "/hoi-dap/vitamin-e--c58-q45771"
+      },
+      {
+        "text": "tư vấn",
+        "href": "/hoi-dap/tu-van-c58-q32984"
+      },
+      {
+        "text": "mua thuốc kháng sinh",
+        "href": "/hoi-dap/mua-thuoc-khang-sinh-c58-q31589"
+      }
+    ],
+    "q_title": "Thuốc dạ dày "
+  },
+  {
+    "_id": "5f4361618f60cf559ab75239",
+    "status": 2,
+    "question_link": "/hoi-dap/tu-van-c58-q32984#traloi",
+    "created_at": "2020-08-24T06:42:41.270Z",
+    "updated_at": "2020-08-24T06:49:47.988Z",
+    "__v": 0,
+    "c_id": "c58",
+    "q_content": "Bác ãi cho em hỏi ạ . Em bầu 19w rồi ạ có thể uống thuốc chống say tàu xe được k ạ. \nUống được bác sĩ cho em xin tên thuốc vr ạ \nEm cảm ơn ạ ",
+    "q_id": "q32984",
+    "q_related": [
+      {
+        "text": "Hỏi về thuốc kháng sinh",
+        "href": "/hoi-dap/hoi-ve-thuoc-khang-sinh-c58-q50900"
+      },
+      {
+        "text": "Thuốc này liệu có tác dụng ?",
+        "href": "/hoi-dap/thuoc-nay-lieu-co-tac-dung--c58-q50687"
+      },
+      {
+        "text": "Vitamin e ",
+        "href": "/hoi-dap/vitamin-e--c58-q45771"
+      },
+      {
+        "text": "Thuốc dạ dày ",
+        "href": "/hoi-dap/thuoc-da-dày--c58-q45046"
+      },
+      {
+        "text": "mua thuốc kháng sinh",
+        "href": "/hoi-dap/mua-thuoc-khang-sinh-c58-q31589"
+      }
+    ],
+    "q_title": "tư vấn"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7523a",
+    "status": 2,
+    "question_link": "/hoi-dap/mua-thuoc-khang-sinh-c58-q31589#traloi",
+    "created_at": "2020-08-24T06:42:41.272Z",
+    "updated_at": "2020-08-24T06:49:48.094Z",
+    "__v": 0,
+    "c_id": "c58",
+    "q_content": "chào Bác sỹ tôi muốn mua thuốc kháng sinh đã có đơn của BS bv có thể chuyển thuốc về nhà Tôi dc ko? xin cảm ơn!",
+    "q_id": "q31589",
+    "q_related": [
+      {
+        "text": "Hỏi về thuốc kháng sinh",
+        "href": "/hoi-dap/hoi-ve-thuoc-khang-sinh-c58-q50900"
+      },
+      {
+        "text": "Thuốc này liệu có tác dụng ?",
+        "href": "/hoi-dap/thuoc-nay-lieu-co-tac-dung--c58-q50687"
+      },
+      {
+        "text": "Vitamin e ",
+        "href": "/hoi-dap/vitamin-e--c58-q45771"
+      },
+      {
+        "text": "Thuốc dạ dày ",
+        "href": "/hoi-dap/thuoc-da-dày--c58-q45046"
+      },
+      {
+        "text": "tư vấn",
+        "href": "/hoi-dap/tu-van-c58-q32984"
+      }
+    ],
+    "q_title": "mua thuốc kháng sinh"
+  },
+  {
+    "_id": "5f4361618f60cf559ab7523b",
+    "status": 2,
+    "question_link": "/hoi-dap/viem-gan-b-c58-q31376#traloi",
+    "created_at": "2020-08-24T06:42:41.273Z",
+    "updated_at": "2020-08-24T06:49:47.968Z",
+    "__v": 0,
+    "c_id": "c58",
+    "q_content": "Em đi xét nghiệm về Gan ở Bv Hòa Hảo có kết quả như sau: HBeAg định lượng(Abbott) NEG 0.000 IU/mL; HBV DNA Taqman 359 - 2.56 Log10; AFP=1.9; AFP-L3=《0.5; PIVKA=15. BS ở HH K giải thích gì ạ. Mong bs giải thích giúp e với ạ. Em hoang mang với chỉ số 359 . Cảm ơn Bs nhiều ạ.",
+    "q_id": "q31376",
+    "q_related": [
+      {
+        "text": "Hỏi về thuốc kháng sinh",
+        "href": "/hoi-dap/hoi-ve-thuoc-khang-sinh-c58-q50900"
+      },
+      {
+        "text": "Thuốc này liệu có tác dụng ?",
+        "href": "/hoi-dap/thuoc-nay-lieu-co-tac-dung--c58-q50687"
+      },
+      {
+        "text": "Vitamin e ",
+        "href": "/hoi-dap/vitamin-e--c58-q45771"
+      },
+      {
+        "text": "Thuốc dạ dày ",
+        "href": "/hoi-dap/thuoc-da-dày--c58-q45046"
+      },
+      {
+        "text": "tư vấn",
+        "href": "/hoi-dap/tu-van-c58-q32984"
+      }
+    ],
+    "q_title": "Viêm gan B"
+  }
+]

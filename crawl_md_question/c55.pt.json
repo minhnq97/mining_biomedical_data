@@ -1,0 +1,4592 @@
+[
+  {
+    "_id": "5f4361618f60cf559ab752a0",
+    "status": 2,
+    "question_link": "/hoi-dap/nuoc-bot-co-mau-c55-q55567#traloi",
+    "created_at": "2020-08-24T06:42:41.415Z",
+    "updated_at": "2020-08-24T06:51:24.586Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Tôi nhổ ra nước bọt thấy có máu, máu tươi đỏ luôn ạ, tôi thấy trong người mệt mỏi, buồn ngủ, thỉnh thoảng hơi khó chịu thì theo bác sĩ đây là bệnh gì ạ ? ",
+    "q_id": "q55567",
+    "q_related": [
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      },
+      {
+        "text": "Bệnh phổi",
+        "href": "/hoi-dap/benh-phoi-c55-q55205"
+      }
+    ],
+    "q_title": "Nước bọt có máu"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752a1",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q55493#traloi",
+    "created_at": "2020-08-24T06:42:41.416Z",
+    "updated_at": "2020-08-24T06:51:24.642Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Xin chaof bác sĩ nữa tháng gần đây em cos biểu hiện khó hít sâu ạ. Lâu lâu chỉ hít một hơi bthg mà còn hay muốn hít sâu,  buổi tối đi ngủ rất khó để thở đều ạ còn hay bị nhức nhẹ ở ngực",
+    "q_id": "q55493",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      },
+      {
+        "text": "Bệnh phổi",
+        "href": "/hoi-dap/benh-phoi-c55-q55205"
+      }
+    ],
+    "q_title": "Khó thở"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752a2",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-lao-phoi-c55-q55456#traloi",
+    "created_at": "2020-08-24T06:42:41.419Z",
+    "updated_at": "2020-08-24T06:51:24.621Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "E bị nhiễm lao. E ho ra máu. E k bị sốt hay biếng ăn. Cungz k bị sụt cân. E uống thuốc lao đc 1 tuần. Nhưng vẫn bị ho ra máu. E uống thuốc cầm máu thì k ra nữa. E vẫn đang uống thuốc lao. Có phải tình hình của e nghiêm trọng k ạ. ",
+    "q_id": "q55456",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      },
+      {
+        "text": "Bệnh phổi",
+        "href": "/hoi-dap/benh-phoi-c55-q55205"
+      }
+    ],
+    "q_title": "Bệnh lao phổi"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752a3",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q55360#traloi",
+    "created_at": "2020-08-24T06:42:41.421Z",
+    "updated_at": "2020-08-24T06:51:24.444Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "em thường xuyên ngăn ngực khó nuốt, khó thở tay chân tê, người mệt mỏi có đi khám tổng quát bác sĩ chuẩn đoán bị trào ngược dạ dày, nội soi thì được chuẩn đoán là bị hội chứng kích thích đường ruột,  có cho toa thuốc về uống nhưng vẫn bệnh tình trạng vẫn không suy giảm cho em hỏi là triệu chứng gì ạ",
+    "q_id": "q55360",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      },
+      {
+        "text": "Bệnh phổi",
+        "href": "/hoi-dap/benh-phoi-c55-q55205"
+      }
+    ],
+    "q_title": "khó thở"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752a4",
+    "status": 2,
+    "question_link": "/hoi-dap/mat-oxy-c55-q55230#traloi",
+    "created_at": "2020-08-24T06:42:41.423Z",
+    "updated_at": "2020-08-24T06:51:26.558Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em đột nhiên bị khó thở, lúc đầu chỉ khó 1chút sau đó càng trở nên nặng hơn, trong ng mệt mỏi, r bị choáng, chóng mặt, nghỉ ngơi 1 lúc thì hết nhưng đầu với tim hơi nhức nhẹ. Có gì nguy hiểm ko ạ",
+    "q_id": "q55230",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Bệnh phổi",
+        "href": "/hoi-dap/benh-phoi-c55-q55205"
+      }
+    ],
+    "q_title": "Mất oxy"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752a5",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-phoi-c55-q55205#traloi",
+    "created_at": "2020-08-24T06:42:41.425Z",
+    "updated_at": "2020-08-24T06:51:24.467Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em đi chụp X- quang thì bác sĩ bảo là phế quản hai bên đậm\nEm thường hay tức phía lưng trên \nCho em hỏi nhu vậy là bệnh gì và nguy hiểm không ạ",
+    "q_id": "q55205",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Bệnh phổi"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752a6",
+    "status": 2,
+    "question_link": "/hoi-dap/sot-ve-chieu-dau-sau-lung-de-bi-lanh-phan-lung-hoi-bi-tuc-dau-nguc-kho-tho-ngay-ca-khi-nam-c55-q55014#traloi",
+    "created_at": "2020-08-24T06:42:41.427Z",
+    "updated_at": "2020-08-24T06:51:24.670Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "xin chào bác sĩ. \nđây là lần thứ 2 em bị triệu chứng sốt về chiều. đau sau lưng. dễ bị lạnh phần lưng. hơi bị tức đau ngực, khó thở ngay cả khi nằm. khi đi lần đầu bác sĩ chuẩn đoán la em bị viên phổi hoặc u. 1 tuần sau tái khám lại thì bác sĩ chuẩn đoán là bị viêm phổi. cho ung thuốc điều trị. trong quá trình điều trị vẫn bị nóng nhẹ. bác sĩ chỉ định cho em text lao nhưng kết quả âm tính. bác sĩ cho nội soi và nuôi cấy(45 ngày).\ntrong quá trinh đợi kết quả. bác sĩ chỉ định cho điều trị lao 6 tháng. sau 45 ngày nuôi cấy thì kết quả âm tính. bacx sĩ vẫn cổ động và tiếp tục điều trị lao.\ntrong 6 tháng uống thuốc. lâu lâu vẫn còn đau phần sau lưng. \nsau khi hết điều trị 6 tháng. thì được khỏang 1.5 tháng thì em lại có triệu chứng sốt về chiều. đau sau lưng. dễ bị lạnh phần lưng. hơi bị tức đau ngực, khó thở ngay cả khi nằm lại. bác sĩ cho em lời tư vấn. em cảm ơn",
+    "q_id": "q55014",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "sốt về chiều. đau sau lưng. dễ bị lạnh phần lưng. hơi bị tức đau ngực, khó thở ngay cả khi nằm"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752a7",
+    "status": 2,
+    "question_link": "/hoi-dap/nguoi-kho-chiu-hoi-bi-lanh-va-dau-phia-sau-lung-hoi-bi-tuc-nguc-khi-nam-kho-rat-la-kho-khan-c55-q55009#traloi",
+    "created_at": "2020-08-24T06:42:41.428Z",
+    "updated_at": "2020-08-24T06:51:24.657Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "khoảng 6 tháng trước em cũng có triệu chứng bị ho, đau phía sau lưng. và hay bị sốt về chiều. khi xét nghiệm và nội soi phổi. ban đau chuẩn đoán  là bi viêm phổi hoặc u( có nốt 2mm). lần thứ 2 kiểm tra thì chuẩn đoán la viêm phổi . uống thuốc điều trị thì thấy người vẫn hợi bị sốt nhe về chiều. nên tiến hành nội soi và nuôi cấy(45 ngày) . lấy kết quả thì nói là âm tính với lao. nhưng em vẫn phải điều trị lao AFP âm tính. trong thời gian uống thuốc ( 6 tháng)em vẫn còn lâu lâu sốt nhẹ về chiều.\nhoàn thành sau 6 tháng uống thuốc . được khoảng 1.5 tháng thì em thấy mình tái lại những triêu chứng sốt nhẹ về chiều, đau sau lưng và khó thở, ngực trước lâu lâu bị tức ngực. khi nằm thì thấy khó thở. em phải nằm nghiêng.bác sĩ cho em hỏi đó có phải là bị tái phát lại lao hoặc viêm phổi. hay em bị tiềm ung thư. ( vì trong họ hàng bên ngoại 2 bác ruột( chị của mẹ) bị ung thư ngực . em cảm ơn",
+    "q_id": "q55009",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Người khó chịu, hơi bị lạnh và đau phía sau lưng. hơi bị tức ngực. khi nằm khỏ rất là khó khăn"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752a8",
+    "status": 2,
+    "question_link": "/hoi-dap/xin-y-kien-tu-van-c55-q54930#traloi",
+    "created_at": "2020-08-24T06:42:41.430Z",
+    "updated_at": "2020-08-24T06:51:45.153Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "e bị tức vùng giữa ngưc.ho hắng(tằng hắng có dịch) khó thở.hay thở hơi lên.muốn ngáp mà ko ngáp đươc.xin tư vấn ạk",
+    "q_id": "q54930",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "xin ý kiến tư vấn"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752a9",
+    "status": 2,
+    "question_link": "/hoi-dap/hay-bi-kho-chiu-o-nguc-giua-c55-q54913#traloi",
+    "created_at": "2020-08-24T06:42:41.431Z",
+    "updated_at": "2020-08-24T06:51:45.377Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Dạo gần đây cháu hay bị khó chịu ở ngực giữa.....cứ suy nghĩ gì tiêu cực là lại bị ạ....nhìu khi thấy ngộp 1 2p rôi hết ạ....một ngày cháu bị cỡ 2 3 lần gì đó ạ...cháu không biết là mình bị sao hết ạ :(",
+    "q_id": "q54913",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hay bị khó chịu ở ngực giữa"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752aa",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-dap-c55-q54770#traloi",
+    "created_at": "2020-08-24T06:42:41.432Z",
+    "updated_at": "2020-08-24T06:51:45.335Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Dạ cháu xin hỏi là trước vài ngày cháu có uống nước đá .bây giờ tự nhiên thấy ho tức ngực.ngoài ra không có biểu hiện gì khác .cổ họng có nổi hạt nhỏ.không đau mà thấy ho tức thôi ạ..liệu có ảnh hưởng gì tới biểu hiện mắc covid k ạ",
+    "q_id": "q54770",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hỏi đáp"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752ab",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q54735#traloi",
+    "created_at": "2020-08-24T06:42:41.433Z",
+    "updated_at": "2020-08-24T06:51:45.210Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bs cho em hỏi em bị viêm dạ dày tá tràng và trào ngược dạ dày thực quản ... Những Bệnh này có liên quan gì đến khó thở ko ạ ",
+    "q_id": "q54735",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752ac",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-tuc-nguc-c55-q54469#traloi",
+    "created_at": "2020-08-24T06:42:41.435Z",
+    "updated_at": "2020-08-24T06:51:46.858Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Thưa bac sĩ, sau khi cháu cai thuoc lá, cháu bị đau ngực kho thở kéo dài, thỉnh thoảng huyet áp còn bị tăng, cho cháu hỏi đó có phải tác dụng phụcuar việc cai thuốc ko ạ",
+    "q_id": "q54469",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Kho tho, tuc nguc"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752ad",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-dau-nguc-cam-giac-thieu-oxy-c55-q54451#traloi",
+    "created_at": "2020-08-24T06:42:41.436Z",
+    "updated_at": "2020-08-24T06:51:45.407Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác si,cháu bị khó thở,ê ẩm vùng ngực từ 4 tháng trước tới giờ,tình trạng chỉ đỡ ko hết hẳn, cháu có di khám tim,chup x quang phổi ở 2 bênh vien khác nhau đều bình thường, giờ cháu cần khám gì nữa để biết dc nguyên nhân ạ. ",
+    "q_id": "q54451",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở, đau ngực, cảm giác thiếu oxy"
+  },
+  {
+    "_id": "5f4361618f60cf559ab752ae",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q54381#traloi",
+    "created_at": "2020-08-24T06:42:41.437Z",
+    "updated_at": "2020-08-24T06:51:45.107Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Mọi người cho cháu hỏi khi trong không khí dày đặc các loại mùi thức ăn khói thức ăn thậm chí là vào sáng sớm có nhiều sương nó làm cháu khó thở và có chút khó chịu ở lồng ngực nhiều khi hít phải khói thuốc lá hoặc ai đốt cái gì đó tạo ra khói thì cháu hoàn toàn không thở nổi \nCháu bị vậy có sao không ạ mong cô chú giải đám thắc mắc giúp cháu",
+    "q_id": "q54381",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7550b",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-sau-hut-hoi-c55-q54203#traloi",
+    "created_at": "2020-08-24T06:42:42.184Z",
+    "updated_at": "2020-08-24T06:56:12.658Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Dạ chào bác sĩ\nTrước cháu có bị cảm cúm, ho và có uống thuốc . Nhưng sau thời gian cháu uống thuốc thì có hết bệnh nhưng lại xuất hiện triệu chứng đau nhói vùng ngực vài lần. Từ đó đến giờ, cháu thường xuyên chú ý đến nhịp thở thì cháu thấy cháu không thể nào thở bình thường như trước được, cụ thể là cháu không thể hít thở sâu để lấy hết khí ở bụng , mà chỉ hít đến ngang ngực là bị hụt, 10 lần cháu tập hít sâu thì chỉ có 1-2 lần cháu có thể lấy hết khí, những lần hụt xong cháu cảm thấy rất mệt và khó thở. Ngoài ra cháu cảm thấy cháu ngáp nhiều hơn, vì khi cháu ngáp thì cháu có thể thở dễ dàng hơn nhưng không phải lúc nào cháu cũng ngáp được. Cháu có đi khám và làm các xét nghiệm thì nhận kết quả bị hen suyễn, cháu có uống thuốc điều trị nhưng mãi cháu vẫn thấy nhịp thở của cháu vẫn không thể như cũ được. Cháu rất lo lắng không biết cháu bị bệnh gì ? Và có thể điều trị dứt điểm không ạ? Vì mỗi lần thở không được cháu đều cảm thấy rất nặng nề . Cháu cảm ơn bác sĩ ạ . ",
+    "q_id": "q54203",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở sâu, hụt hơi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7550c",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q53863#traloi",
+    "created_at": "2020-08-24T06:42:42.185Z",
+    "updated_at": "2020-08-24T06:56:12.637Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "chào bác sĩ. Cháu bị khó thở, nhiều hôm đau tức ngực. 3 tháng trước cháu đi khám khoa hô hấp và bs chỉ định làm nhiều xét nghiệm, chụp X quang kết luận hệ hô hấp và tim bình thường, không bị hen suyễn... Sau đó cháu có đi nội soi và chuẩn đoán bị trào ngược dạ dày. Nhưng cháu uống thuốc 3 tháng nay không những không thấy khỏi mà tình trạng khó thở còn nặng hơn. Dạo gần đây, mũi có tình trạng nghẹt nghẹt, thở khò khè, như bị tắc nghẽn vùng họng. Cháu thực sự rất stress. Cháu không biết bản thân còn bị bệnh nào khác không. Giờ cháu nên đi khám gì nữa ạ? Cảm ơn bác sĩ",
+    "q_id": "q53863",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "khó thở"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7550d",
+    "status": 2,
+    "question_link": "/hoi-dap/nghi-ngo-bi-tim-c55-q53588#traloi",
+    "created_at": "2020-08-24T06:42:42.186Z",
+    "updated_at": "2020-08-24T06:56:12.570Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em hay bị tức ngực khó thở, mệt, cảm giác bị thiếu oxy. Em muốn hỏi bị gì và nên khám cái gì ạ",
+    "q_id": "q53588",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Nghi ngờ bị. Tim"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7550e",
+    "status": 2,
+    "question_link": "/hoi-dap/ho-va-dau-suon-c55-q53503#traloi",
+    "created_at": "2020-08-24T06:42:42.187Z",
+    "updated_at": "2020-08-24T06:56:12.694Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Sau đợt bị cảm cúm mặc dù có uống thuốc nhưng em vẫn còn ho đàm ( không sốt hay mệt mõi gì cả ạ ) và hơi nhói nhẹ sườn bên trái .đến thời điểm hiện tại cũng được 1 tháng .sáng nay dậy em ho và cảm giác đau nhói sườn bên trái .đến giờ sờ vào có cảm giác đau nhói sườn bên trái .triệu chứng của em là bị gì ạ",
+    "q_id": "q53503",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Ho và đau sườn"
+  },
+  {
+    "_id": "5f4361628f60cf559ab7550f",
+    "status": 2,
+    "question_link": "/hoi-dap/ho-khong-dut-c55-q53483#traloi",
+    "created_at": "2020-08-24T06:42:42.188Z",
+    "updated_at": "2020-08-24T06:56:12.742Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Thưa bác sĩ, khoảng gần 2 tháng nay thì cháu xuất hiện ho nhiều kèm đờm trắng và ngứa họng, các cơn ho cũng cách nhau khá dài,khi ngủ và ăn cũng không thấy ho. Cháu đã đi nội soi và được kê đơn thuốc uống cũng đỡ nhưng hết thuốc lại ho trở lại.Đi chụp Xquang phổi được kết quả: phổi sáng, không có tổn thương nhu mô, rốn phổi 2 bên rất đậm.Vậy cháu có bị mắc bệnh gì về phổi không ạ,như lao hay ung thư, xin bác sĩ trả lời câu hỏi câu hỏi của cháu ạ",
+    "q_id": "q53483",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Ho không dứt"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75510",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-nghen-nguc-c55-q53132#traloi",
+    "created_at": "2020-08-24T06:42:42.189Z",
+    "updated_at": "2020-08-24T06:56:16.557Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "10 ngày trước em có uống viên nghệ nhưng vì viên nghệ to quá nên khi nuốt em bị đau ngực lói qua cả sau lưng, sau đó thì khó thở. Qua ngày sau thì em thở được nhưng em cảm thấy thở không thông, nghẹn ngực và nghẹn ở sau lưng. Em  luôn chú ý đến nhịp thở và điều chỉnh nhịp thở chứ k thở tự nhiên được. chỉ khi làm việc khác mới thôi chú ý.\n",
+    "q_id": "q53132",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở nghẹn ngực"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75511",
+    "status": 2,
+    "question_link": "/hoi-dap/dau-nguc--kem-vuong-co-c55-q52751#traloi",
+    "created_at": "2020-08-24T06:42:42.190Z",
+    "updated_at": "2020-08-24T06:56:16.581Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Thưa bác sĩ, hiện em bị vướng nhẹ ở cổ khi nuốt nước bọt, thỉnh thoảng hơi đau ở lưỡi khi cử động lưỡi mạnh. Tình trạng này diễn ra khoảng hơn 1 tháng, thời gian đầu em có cảm giác tức ngực nữa, tuy nhiên cảm giác tức ngực này kéo dài khoảng 1 tuần thì hết. Hiện em chỉ bị vướng khi nuốt nước bọt hoặc uống nước, ăn thì vẫn bình thường. Và hơi đau ở chân lưỡi. Từ bữa tới giờ em không bị sốt hay ho gì cả. Mong bác sĩ tư vấn giúp em ạ. Cám ơn bác sĩ.",
+    "q_id": "q52751",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Đau ngực  kèm vướng cổ"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75512",
+    "status": 2,
+    "question_link": "/hoi-dap/can-tro-giup-c55-q52511#traloi",
+    "created_at": "2020-08-24T06:42:42.191Z",
+    "updated_at": "2020-08-24T06:56:16.945Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Dạ thưa bác sĩ thi thoảng em có khó thở và sáng nay sau khi ngủ dậy em có đau vùng ngực và khi hít thở sâu là đau nhói,cổ họng thi thoảng nghẹn bác sĩ cho em hỏi là tình tràn trên em đang bị làm sao và cần giải quyết như nào ạ.em cảm ơn",
+    "q_id": "q52511",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Cần trợ giúp"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75513",
+    "status": 2,
+    "question_link": "/hoi-dap/khac-dom-ra-mau-c55-q52475#traloi",
+    "created_at": "2020-08-24T06:42:42.192Z",
+    "updated_at": "2020-08-24T06:56:16.970Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Buổi sáng khạc đờm ra có máu, nhưng không bị họ, luc đầu trong cổ hay có đờm, nên hay khạc, đến 3 ngày nay thì khạc đờm ra có lẩn chung với máu, bác sỉ cho hỏi là bệnh gì. Xin cảm ơn.",
+    "q_id": "q52475",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khạc đờm ra máu"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75514",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q52260#traloi",
+    "created_at": "2020-08-24T06:42:42.193Z",
+    "updated_at": "2020-08-24T06:56:16.924Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Dạ cho e hỏi, e hay có triệu chứng khó thở, mỗi khi e gặp chuyện phải suy nghĩ nhiều, nhưng khi mọi chuyện đã giải quyết thì triệu chứng cũng giảm. Triệu chứng này có khi nó đau thắt ở ngực làm mình thở là đau. Vậy cho e hỏi là bệnh gì ạ",
+    "q_id": "q52260",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75515",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-cam-giac-thieu-oxy-c55-q52051#traloi",
+    "created_at": "2020-08-24T06:42:42.194Z",
+    "updated_at": "2020-08-24T06:56:16.959Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sỹ. Khoảng vài tháng đổ lại đây em Cảm thấy teiweu trứng giống như bạn nguyễn tiến mạnh. Em xin copy : \"chào bác sĩ ạ! Khoảng 1 tháng trở lại đây e đột nhiên khó thở khi hít vào. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu khoảng 20 lần thì chỉ được vài 3 lần đủ khí xuống tới bụng, còn lại là chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa. Lúc này sẽ bị tức đoạn ngực ở giữa 2 xương ức ạ. Ngoài ra còn kèm thèo biểu hiện là khi ăn no và hút thuốc sẽ lại càng khó hít vào hơn nữa. Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp e sẽ hít được đủ khí ạ. Nhưng không phải lúc nào cũng ngáp được ạ. ( :(. E rất mong được sự tư vấn tận tình của bác sĩ ạ. E cảm ơn!\"  Nhưng em đã khám tim, phối bình thường cả. Mong bác sỹ giải đáp giúp em. ",
+    "q_id": "q52051",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở, cảm giác thiếu oxy"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75516",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho--c55-q51787#traloi",
+    "created_at": "2020-08-24T06:42:42.195Z",
+    "updated_at": "2020-08-24T06:56:30.824Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ, bào ban đêm khi đang ngủ em xuất hiện triệu chứng khó thở khi hít vào sẽ bị đau ở ngực trái kéo dài tầm 30p không xuất hiện nhiều . Từ trước đến nay cũng tầm 4-5 lần gì đó",
+    "q_id": "q51787",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở "
+  },
+  {
+    "_id": "5f4361628f60cf559ab75517",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-hit-tho-vao-va-hay-phai-dang-hang-trong-hong--c55-q51660#traloi",
+    "created_at": "2020-08-24T06:42:42.196Z",
+    "updated_at": "2020-08-24T06:56:26.578Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào bác sĩ ạ! Em bị khó thở khi hít vào. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu khoảng 20 lần thì chỉ được vài 3 lần đủ khí xuống tới bụng, còn lại là chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa. Lúc này sẽ bị tức đoạn ngực ở giữa 2 xương ức và sau gáy cổ ạ. Ngoài ra còn kèm thèo biểu hiện là thường xuyên lấy sức ho 1 cái thật mạnh hoặc đằng hắng trong họng để bật được cái dịch gì đó trong lồng ngực ra ấy ạ (Ko biết e mô tả vậy đúng ko nữa). Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp e sẽ hít được đủ khí ạ. Nhưng không phải lúc nào cũng ngáp được ạ.  Tiền sử bệnh là em có điều trị lao phổi cách đây 2 năm, nhưng kể cả trước khi điều trị lao phổi thì em vẫn có cảm giác như bị hẹp đường thở, kể cả ăn uống cũng nuốt không được thoải mái lắm. Nhờ bác sỹ tư vấn giúp em bị triệu chứng vậy là bệnh gì và nên đi khám ở đâu ạ",
+    "q_id": "q51660",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó hít thở vào và hay phải đằng hắng trong họng "
+  },
+  {
+    "_id": "5f4361628f60cf559ab75518",
+    "status": 2,
+    "question_link": "/hoi-dap/nghen-long-nguc-c55-q51564#traloi",
+    "created_at": "2020-08-24T06:42:42.197Z",
+    "updated_at": "2020-08-24T06:56:24.992Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Xin hỏi hỏi bác sĩ là dạo này con bị đau ở ngực cảm giác như có vật gì đó nặng đè lên, khi hít thở cảm thấy nặng lồng ngực là bị sao ạ  ",
+    "q_id": "q51564",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Nghẹn lòng ngực"
+  },
+  {
+    "_id": "5f4361628f60cf559ab75519",
+    "status": 2,
+    "question_link": "/hoi-dap/dau-hong-nang-nguc-kho-ngu-c55-q50843#traloi",
+    "created_at": "2020-08-24T06:42:42.198Z",
+    "updated_at": "2020-08-24T06:56:24.935Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em bị đau họng hơn 1 tháng và không ho sốt. gần đây em có cảm giác nặng ngực vào buổi tối, rất khó ngủ và có khi đau nhẹ ở ngực phải. Em đã mua thuốc viêm họng và uống gần 1 tuần r ạ nhưng vẫn chưa khỏi. Vậy là em bị gì ạ?",
+    "q_id": "q50843",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Đau họng, năng ngực, khó ngủ"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756dc",
+    "status": 2,
+    "question_link": "/hoi-dap/dat-cau-hoi-c55-q50738#traloi",
+    "created_at": "2020-08-24T06:42:42.691Z",
+    "updated_at": "2020-08-24T07:00:33.072Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "E chào các bác sỹ. 1 tháng nay e bị ho ra máu nhập viện ở bệnh viện phạm ngọc thạch hcm. Bs cho điều trị nội khoa, sau 2 tuần mới dứt ho ra máu, trong thời gian điều trị phía bv cho xét nghiệm máu đờm, ct scan tiêm thuốc cản quang, nội soi phế quản. Kết quả ct scan tiêm thuốc cản quang thì xem phim bv chẩn đoán bị tổn thương thâm nhiễm, đông đặc và đông đặc tạo hang. Còn đờm và nội soi lấy dịch ra xét nghiệm thì cho kết quả âm tính. Qua quá trình thăm do thì bv cho e uống thuốc lao, e uống được 4 ngày và bs cho về nhà. Về nhà e uống tiếp thuốc lao đến ngày thứ 7 thì bồn chồn, sợ, khó chịu trong người và khó ngủ. Vậy cho e hỏi bs e bị vậy do đâu ạ?",
+    "q_id": "q50738",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Đặt câu hỏi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756dd",
+    "status": 2,
+    "question_link": "/hoi-dap/o-hoi-c55-q50716#traloi",
+    "created_at": "2020-08-24T06:42:42.692Z",
+    "updated_at": "2020-08-24T07:00:29.091Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "thưa bác sĩ. nếu bị ợ hơi khó thở kéo dài, liên tục cả khi không ăn, thì đó là dấu hiệu của bệnh gì ạ. và cách chữa trị như thế nào ạ. cháu cảm ơn bs",
+    "q_id": "q50716",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "ợ hơi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756de",
+    "status": 2,
+    "question_link": "/hoi-dap/nghen-nguc-c55-q50700#traloi",
+    "created_at": "2020-08-24T06:42:42.693Z",
+    "updated_at": "2020-08-24T07:00:28.898Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "cháu bị ở hơi nhiều, ngay cả khi không ăn.buồn nôn( nhất là khi ngủ dậy).cháu luôn cảm thấy nghẹn ở ngực, có gì đó chặn lại khiến cháu thấy khó thở và cảm giác như không đủ oxi. cháu  rát lo lắng về điều đó. bác sĩ cho cháu hỏi đây là dấu hiệu của bệnh gì ạ. cháu cảm ơn a.",
+    "q_id": "q50700",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "nghẹn ngực.."
+  },
+  {
+    "_id": "5f4361628f60cf559ab756df",
+    "status": 2,
+    "question_link": "/hoi-dap/o-hoi-cam-thay-hit-tho-khong-du-c55-q50661#traloi",
+    "created_at": "2020-08-24T06:42:42.694Z",
+    "updated_at": "2020-08-24T07:00:33.095Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Dạo gần đây  cháu bị ợ hơi nhiều kể cả khi không ăn , đầy bụng, cảm giác buồn nôn nhất là sau khi ngủ dậy, nghẹn ở ngực và cảm giác có gì đó vướng ở cổ họng. cháu cảm thấy khó thở nhẹ, kiểu như hít thở không đủ ấy ạ như có cái gì đó  ở cổ họng khiến cho việc hít thở không được thoải mái. tuy nhiên cháu luôn nghĩ về tình trang khó thở đó và cảm thấy bồn chồn, lo lắng, bất an. lúc nào cũng trong trạng thái căng thẳng và không tập chung để làm việc gì. cháu tưởng tượng ra nhiều trường hợp khác nhau và sợ hãi , nhất là vì  tình trạng dịch bệnh hiện nay nên cháu càng sợ hơn. cháu không nghỉ trưa được vì lúc đi ngủ cháu vẫn nghĩ về sự khó thở đó   cứ nằm xuống là tim lại đập nhanh, cảm giác hồi hộp, cổ như bị nghẹn lại ấy ạ. buổi tối cháu buồn ngủ sớm hơn trước và sáng tỉnh dậy với sự uể oải, bồn chồn, không thoải mái. ....bác sĩ cho cháu hỏi đó là dáu hiệu của bệnh gì ạ. cháu cảm ơn bác sĩ ạ. ",
+    "q_id": "q50661",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "ợ hơi, cảm thấy hít thở không đủ"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756e0",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-covid-c55-q50655#traloi",
+    "created_at": "2020-08-24T06:42:42.695Z",
+    "updated_at": "2020-08-24T07:00:28.887Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bác sỹ cho mình hỏi, mình bị đau họng, sưng tấy họng, ho và sốt 38 độ. Thì có cần thiết phải làm xét nghiệm Covid ko ak? Và có xét nghiệm tại nhà ko?",
+    "q_id": "q50655",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Xét nghiệm Covid"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756e1",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-co-hong-va-tuc-nguc-c55-q50649#traloi",
+    "created_at": "2020-08-24T06:42:42.696Z",
+    "updated_at": "2020-08-24T07:00:29.164Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Thưa bác sĩ mấy tuần nay em luôn cảm thấy cổ họng bị khô, nuốt nước miếng thì cảm giác rất vướng họng , ngực em cũng tức theo, vùng ngực rất khó chịu ( e cũng bị viêm xoang 2 năm trước)\nEm có đi khám thử máu, chụp x quang đã kê đơn và uống thuốc kháng sinh\nNhưng em thấy vẫn không đỡ được \nBác sĩ cho e lời khuyên và giải pháp để có thể khỏi bệnh ",
+    "q_id": "q50649",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khô cổ họng và tức ngực"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756e2",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-kham-suc-khoe-c55-q50627#traloi",
+    "created_at": "2020-08-24T06:42:42.697Z",
+    "updated_at": "2020-08-24T07:00:54.876Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "em bị đau ở dưới quai hàm ở bên phải, nhấn vô là đau là thấy sưng lên ở bên trong. lâu lâu em nuốt nước miếng cũng khá đau.\nem xin hỏi là em bị gì vậy ạ",
+    "q_id": "q50627",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "hỏi khám sức khỏe"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756e3",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q50544#traloi",
+    "created_at": "2020-08-24T06:42:42.698Z",
+    "updated_at": "2020-08-24T07:00:50.931Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bác sĩ ơi cho e hỏi hôm nay đoạn giữa ngực và cổ có cảm giác đau như có cái gì mắc phải . Nằm thì khó thở trằn trọc , nhưng đứng dậy lại thấy bt .\nEm đã đùng biện pháp nôn và móc họng nhưng cững không hết Bs ạ . Bác sĩ chuẩn đoán cho em với ạ.",
+    "q_id": "q50544",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756e4",
+    "status": 2,
+    "question_link": "/hoi-dap/tho-khong-binh-thuong-c55-q50163#traloi",
+    "created_at": "2020-08-24T06:42:42.699Z",
+    "updated_at": "2020-08-24T07:00:53.269Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Gần đây em hay cảm thấy khó thở nhất là vào buổi chiều. Cảm giác như mặc áo ngực quá chật (thật ra lâu nay em vẫn mặc vậy, và cơ thể cũng không có tăng cân). Để ý thì thấy hình như thỉnh thoảng em quên thở 😊. Để ý kỹ hơn, thì thấy hình như hít vào bằng mũi hơi khó (giống như bị nghẹt mũi). Từ nhỏ hơi của em cũng đã ngắn. Thời học sinh, mỗi khi đọc bài trước lớp đọc xong 1 câu hơi dài là thở dốc. Hát thì không hát được vì không có hơi. Hình như em hãy thở bằng miệng thì phải, nên giờ thở bằng mũi ngày càng khó khăn. Xin hỏi các Bác có phải do hơi thở của em ngắn và vì trước giờ em thở không đúng nên bây giờ mới như vậy hay không, hay khả năng em bị một bệnh gì đó ạ? Xin các Bác cho em lời khuyên! Chân thành cảm ơn ạ!",
+    "q_id": "q50163",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Thở không bình thường"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756e5",
+    "status": 2,
+    "question_link": "/hoi-dap/mong-bac-si-giai-dap-giup-toi-c55-q50150#traloi",
+    "created_at": "2020-08-24T06:42:42.700Z",
+    "updated_at": "2020-08-24T07:00:55.099Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Mình hàng ngày có chạy bộ khoảng 3~4km vào buổi chiều.chạy đều đặn nhưng sau khi hiến máu thì ngày hôm sau mình quay trở lại chạy bộ thì chạy dc khoảng 1km là bắt đầu tức ngực không thể chạy dc nữa.\nVậy cho hỏi nguyên nhân là gì ạ mong bác sĩ giải đáp giúp mình",
+    "q_id": "q50150",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Mong bác sĩ giải đáp giúp tôi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756e6",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-xet-nghiem-dau-an-ung-thu-phoi-c55-q49829#traloi",
+    "created_at": "2020-08-24T06:42:42.701Z",
+    "updated_at": "2020-08-24T07:00:55.083Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Tôi xét nghiệm tìm dấu ấn ung thư , kết quả Cỷa 21-1 2.95 , Pro GRP 40.72 , NSE 22.08 hệ tiết niệu Micro Albumine 17.05  ,Micro Albumine /cre 46.05 creantinin/utine 0.38 - xét nghiệm máu creatinine 93 . Xin tư vấn các bác sỹ cám ơn nhiều",
+    "q_id": "q49829",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hỏi về xét nghiệm dấu ấn ung thư phổi"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756e7",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-khi-hit-sau--c55-q49753#traloi",
+    "created_at": "2020-08-24T06:42:42.702Z",
+    "updated_at": "2020-08-24T07:00:55.182Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Cháu có cảm giác thở nông luôn muốn hít thật sâu vào nhưng cảm giác thì lúc được lúc không.\nCháu đã khám và nhập viện ở bệnh viện phổi tỉnh theo hướng viêm phổi khi ra viện chụp CT phổi và khí máu bình thường. Khám tổng quát tim gan thận bình thường. \nNhưng triệu chứng chỉ giảm đi chút vẫn chưa hết.\nCháu hay lo lắng về bệnh tật, cuộc sống, tương lai, gia đình. Liệu có phải cháu bị rối loạn lo âu không.",
+    "q_id": "q49753",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở khi hít sâu "
+  },
+  {
+    "_id": "5f4361628f60cf559ab756e8",
+    "status": 2,
+    "question_link": "/hoi-dap/hit-sau-cam-thay-k-co-duoc-day-khi-trong-phoi-khoang-bung-c55-q49634#traloi",
+    "created_at": "2020-08-24T06:42:42.703Z",
+    "updated_at": "2020-08-24T07:00:55.071Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ. Dạo gần đây e có biểu hiện là khi hít sâu cảm thấy nó k có đc đủ khí. Hít cả chục lần có lẽ đc 1 2 lần là cảm thấy đủ khí hay khi ngáp là đủ khí nhất. E đã đi khám là đủ tất cả cá xét nghiệm hay điện tim.. noia chung những gì liên quan đến tim mạch, nhưng kết quả là bình thường. Nên bảo là theo dõi thêm. E thật sự lo lắng khi k biết rõ thực sự mình bị làm sao. Cứ bị mãi ntn e cảm thấy rất mệt mỏi. E cảm ơn bác sĩ. Mong bác sĩ sớm hồi đáp ạ. Chào bác sĩ",
+    "q_id": "q49634",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hít sâu cảm thấy k có được đầy khí trong phổi khoang bụng"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756e9",
+    "status": 2,
+    "question_link": "/hoi-dap/nghen-co-hong-c55-q49616#traloi",
+    "created_at": "2020-08-24T06:42:42.704Z",
+    "updated_at": "2020-08-24T07:00:54.911Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Thưa bác sĩ!Ngực và cổ họng em có cảm giác như bị nghẹn, như bị ai bóp chặt ngực của mình dù em nuốt và thở bình thường. Nhiều lúc bị tê buốt đến đau cuống họng khoảng 15p nhiều khi phải nín thở để không cảm giác đau và nhờ người vỗ vào lưng và hít thở sâu một lúc mới hết đau. Gần đây cảm giác nghẹn và co thắt lồng ngực liên tục trong ngày. Em đã từng điều trị lao màng phổi, không biết có để lại di chứng gì không? em có bị ung thư vòm họng không bác sĩ. Cảm ơn bác sĩ rất nhiều! ",
+    "q_id": "q49616",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "nghẹn cổ họng"
+  },
+  {
+    "_id": "5f4361628f60cf559ab756ea",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-benh-kho-tho-c55-q49299#traloi",
+    "created_at": "2020-08-24T06:42:42.705Z",
+    "updated_at": "2020-08-24T07:00:54.962Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Cuối năm 2019, tôi có một số triệu chứng như sau: bị đau ngực trái khó thở, bị xót ruột ăn không tiêu, bị mất ngủ. Tôi đã đến bệnh viện để khám và được cho làm xét nghiệm máu, đo huyết áp 24h, gắng sức, đo điện tim, diêu âm tim, chụp X quang phổi, thử hơi thở C16, đo chức năng hô hấp (khám 4 chuyên khoa). Kết quả: tim mạch bình thường; tiêu hoá bệnh viêm dạ dày không HP; thần kinh bệnh rối loạn lo âu; hô hấp bệnh hội chứng hạn chếnhẹ (x quang phổi bình thường) có hút thuốc lá khoảng 20 năm, mỗi ngày khoảng 10 điếu. Sau khi uống thuốc khoảng 30 ngày thì bệnh đã bớt nhiều. Nhưng khi bỏ thuốc lá đến nay được 13 ngày thì bị các triệu chứng như: cảm giác khó thở, ngứa họng, xót ruột khó tiêu. Xin hỏi: bệnh hội chứng hạ chế nhẹ là bệnh gì? Các bệnh nêu trêu có liên quan đến nhau không? Việc bỏ thuốc lá có gây khó thở không? Xin Bác sĩ cho lời khuyên? Xin cám ơn!",
+    "q_id": "q49299",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hỏi bệnh khó thở"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75932",
+    "status": 2,
+    "question_link": "/hoi-dap/dat-cau-hoi-c55-q49261#traloi",
+    "created_at": "2020-08-24T06:42:43.376Z",
+    "updated_at": "2020-08-24T07:05:57.310Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "em bị viêm xoang dị ứng lâu năm và nghiện thuốc lá nặng, nhưng dạo này đã cai thuốc lá đc 8 ngày, lúc hút thuốc e cũng có bị nghẹ mũi nhưng không đến nỗi tắt mũi và vẫn ngủ ngon bình thường, nhưng sau khi cai thuốc lá thì mũi e lại nghẹt nặng hơn và hầu như là phù nề nặng không thể thở đc 1 bên mũi, và hay bị thắt ngực trái thêm cảm giác khó ngủ, không cảm thấy bù ngủ và ngủ không được sâu, xin bác sỷ tư vấn cho em biết được triệu chứng của em như vậy có nguy hại gì không và hướng khắc phục?",
+    "q_id": "q49261",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Đặt câu hỏi"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75933",
+    "status": 2,
+    "question_link": "/hoi-dap/vuong-co-hong-c55-q49170#traloi",
+    "created_at": "2020-08-24T06:42:43.377Z",
+    "updated_at": "2020-08-24T07:05:55.356Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Thưa bác sĩ năm nay em 34 tuổi.e bị vướng cổ họng nhưng không đau có cảm giác vướng cổ họng khi nuốt nước bọt và khi không nuốt cũng có cảm giác có 1 cục ở giữa họng.khi ăn uống thì bình thường không có cảm giác vướng gì cả và bị cách đây hơn nữa tháng rồi.e có đi khám và siêu âm bác sĩ nói e bị viên họng cấp và có hạch cổ.có uống thuốc mà không thấy đỡ. Vậy thưa bác sĩ bệnh của e có nguy hiểm không ạ.",
+    "q_id": "q49170",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Vướng cổ họng"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75934",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-dom-trong-hong-c55-q49096#traloi",
+    "created_at": "2020-08-24T06:42:43.380Z",
+    "updated_at": "2020-08-24T07:05:49.529Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Trước đây không lâu, tôi đã khám tổng quát, nội soi dạ dày và trực tràng đầy đủ. Bây giờ, sau khi ăn xong, lần nào tôi cũng bị lên đờm, phải ho bật ra, khoảng 30' mới hết. Chuyện này xảy ra được hơn nửa tháng nay. Cho hỏi đây là do nguyên nhân trào ngược dạ dày thực quản hay có nguyên nhân gì khác ạ?",
+    "q_id": "q49096",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "bị đờm trong họng"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75935",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q48936#traloi",
+    "created_at": "2020-08-24T06:42:43.382Z",
+    "updated_at": "2020-08-24T07:05:55.932Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ, e năm nay 38 tuổi, lâu lâu em lại bị khó thở, cảm giác như thiếu oxi, cứ phải mở miệng ngáp mới thở đc. E đoán liên quan đến tim mạch nhưng đến viện tim Hà Nội bác sĩ nói tim bình thường. Rất mong tư vấn của bác sĩ. Em bị hiện tượng như vậy từ năm lớp 12.",
+    "q_id": "q48936",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75936",
+    "status": 2,
+    "question_link": "/hoi-dap/chung-kho-ngu-c55-q48914#traloi",
+    "created_at": "2020-08-24T06:42:43.383Z",
+    "updated_at": "2020-08-24T07:05:51.928Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sỹ, tôi năm nay 27 tuổi, là nam giới\nCách đây khoảng 3-4 năm tôi có 1 lần gặp chứng khó vào giấc ngủ, cứ khi bắt đầu chìm vào giấc ngủ được vài giây là tôi lại bị tỉnh giấc, kiểu như có gì đó chặn ngang họng không thở được và sau đó là bị tỉnh giấc, cứ thế lặp đi lặp lại nhiều lần cho đến khi tôi mệt quá thiếp vào giấc ngủ rồi mới ngủ đến sáng được. Và gần đây triệu chứng này lại quay lại với tôi, mấy ngày gần đây tôi cảm thấy khó ngủ, không vào được giấc ngủ, cứ nằm xuống là lại suy nghĩ , lo lắng rồi tâm trạng bồi hồi , thao thức không ngủ được đến lúc mệt quá rồi thì mới chìm vào giấc ngủ. Vậy bác sỹ có thể tư vấn cho tôi biết liệu đây là triệu chứng của bệnh gì và có nguy hiểm không ạ. Tôi cảm ơn bsy !",
+    "q_id": "q48914",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Chứng khó ngủ"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75937",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-kho-tho-so-hai-lo-lang-lanh-nguoi-c55-q48745#traloi",
+    "created_at": "2020-08-24T06:42:43.385Z",
+    "updated_at": "2020-08-24T07:05:49.500Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ ,hôm 4/4 em có uống khá nhiều ,củng nôn nhiều , đến tối ngủ đột nhiên lạnh hết người lại toát mồ hôi ,em có nhờ người cạo gió mới đỡ xíu ,xong tiếp theo là khó thở tim đập rất nhanh ,rất sợ hãi ,lúc ấy là sau ăn ,đến sáng mai sau ăn trưa em lại có y cảm giác đó ,đến nay đã 3 4 ngày rồi ,có đi thăm khám bác sĩ chụp x phổi bảo k việc gì em lo quá , em bị sao vậy bác sĩ ơi , có chút đờm ,em ho để khạc ra thì đờm rất loãng k đặc ,nhìn như nước bọt thôi ạ ,mỗi lần khó thở như vậy rất khó chịu ạ ",
+    "q_id": "q48745",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Bị khó thở ,sợ hãi ,lo lắng ,lạnh người"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75938",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-hit-tho-sau-c55-q48615#traloi",
+    "created_at": "2020-08-24T06:42:43.387Z",
+    "updated_at": "2020-08-24T07:05:49.190Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ ạ. Khoảng 1 tháng trở lại đây cháu đột nhiên khó thở khi hít vào. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu được vài lần đủ khí xuống tới bụng, còn lại là chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa ạ. Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp cháu sẽ hít được đủ khí. Nhưng không phải lúc nào cũng ngáp được ạ. Rất khó chịu và cảm giác thiếu oxi ấy ạ. Thỉnh thoảng cháu tập trung làm một việc gì đó thì sẽ không thấy khó thở nữa, nhưng cứ nghĩ đến nó thì sẽ lại cảm thấy khó thở trở lại. Dạo gần đây đến tối trước khi ngủ lại cảm thấy khó thở, cứ nằm xuống là tim lại đập nhanh, cảm giác hồi hộp,  cổ như bị nghẹn lại ấy ạ. Cố hít thở sâu nhưng cũng không cảm thấy bớt. Bác sĩ cho cháu hỏi là cháu bị bệnh gì ạ. Cháu cảm ơn bác sĩ ạ!",
+    "q_id": "q48615",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó hít thở sâu"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75939",
+    "status": 2,
+    "question_link": "/hoi-dap/co-nhieu-dom-o-co-hong-sau-khi-an-30p-gay-ho-va-vuong-co-kho-chiu-c55-q48589#traloi",
+    "created_at": "2020-08-24T06:42:43.389Z",
+    "updated_at": "2020-08-24T07:05:57.175Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Nửa tháng nay tôi hay có nhiều đờm ở cổ họng sau khi ăn, làm vướng khó chịu, có khi ngứa họng ảnh hưởng giọng nói và phải ho cho thông đờm. Họng tôi sạch không bị viêm đau, chụp xq phổi tốt, bác sĩ khám bảo tôi ko bị viêm phế quản, ko viêm họng, ko thấy thở khò khè. Nhưng sáng ngủ dậy tôi lại thấy nghẹt mũi, sau đó dịch nhầy xuống họng như cảm giác đờm. Không biết tôi đang bị bệnh gì  mong được tư vấn!!!",
+    "q_id": "q48589",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Có nhiều đờm ở cổ họng sau khi ăn 30p gây ho và vướng cổ khó chịu"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7593a",
+    "status": 2,
+    "question_link": "/hoi-dap/nong-co-hong-c55-q48430#traloi",
+    "created_at": "2020-08-24T06:42:43.390Z",
+    "updated_at": "2020-08-24T07:05:49.176Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Tôi bị nóng cổ họng cảm giác như bị lửa đốt \nBs có thể cho toii hỏi như thế là bị làm sao và cách khắc phục.cám ơn",
+    "q_id": "q48430",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Nóng cổ họng"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7593b",
+    "status": 2,
+    "question_link": "/hoi-dap/day-to-chuc-ke-ron-phoi-c55-q48413#traloi",
+    "created_at": "2020-08-24T06:42:43.391Z",
+    "updated_at": "2020-08-24T07:06:21.378Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Tôi đi chơi xq phổi có ghi kết quả là dày tổ chức kẽ vùng rốn phổi 2 bên, xin hỏi bác sĩ có sao không ah?",
+    "q_id": "q48413",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Dày tổ chức kẽ rốn phổi"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7593c",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-kho-tho-c55-q48347#traloi",
+    "created_at": "2020-08-24T06:42:43.392Z",
+    "updated_at": "2020-08-24T07:06:19.709Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Xin chào bác sĩ\nEm năm nay 29 tuổi. Em thường hay bị khó thở. Hít vào thì  hít đc nhưng cảm giác như hít vào mà k lấy đc ô xi... nhiều khi hít tới đau cả phần cơ ngực. Lúc làm việc nặng thì lại không bị. Nhưng nghỉ ngơi hay ăn xong khoảng 1 tiếng thì lại bị. Cứ pgair thở dài hít mạnh. Lúc như vậy nếu lấy que kích thích hắt xì hơi thì cảm thấy rất dễ chịu. Đầu óc nhẹ nhõm. Cảm thấy thoải mái... ",
+    "q_id": "q48347",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hỏi về khó thở"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7593d",
+    "status": 2,
+    "question_link": "/hoi-dap/chao-bac-si-c55-q48310#traloi",
+    "created_at": "2020-08-24T06:42:43.393Z",
+    "updated_at": "2020-08-24T07:06:21.685Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "bác sĩ ơi khoảng 5 tháng nay em bị tình trạng khó thở hít vào bị thiếu õi lúc được lúc không cảm giác ngột ngạt khó chịu,và e có đi chụp xquang điện tim thử máu siêu âm, bác sĩ kết luận e ko bị sao.  Bác sĩ cho e hỏi làm sao để biết rõ bệnh của e là do nguyên nhận gì ạ",
+    "q_id": "q48310",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "chào bác sĩ"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7593e",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q48297#traloi",
+    "created_at": "2020-08-24T06:42:43.394Z",
+    "updated_at": "2020-08-24T07:06:19.587Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Thưa bác sĩ cháu năm nay 17 tuổi, dạo gần đây cháu hay bị khó thở, có cảm giác nặng ở ngực khi đứng ngồi hoặc nằm nghiêng một bên còn khi nằm thẳng lưng thì thở bình thường, thỉnh thoảng cháu cũng bị khó thở khi ăn no nhưng chỉ cần nằm xuống khoảng 5 phút là hết, cháu cao 1m56 và nặng 47kg. Mong bác sĩ tư vấn giúp cháu xem cháu bị gì và có cách nào điều trị tại nhà không ạ, cháu cảm ơn bác sĩ.",
+    "q_id": "q48297",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở"
+  },
+  {
+    "_id": "5f4361638f60cf559ab7593f",
+    "status": 2,
+    "question_link": "/hoi-dap/qua-phat-vom-lympho--c55-q48177#traloi",
+    "created_at": "2020-08-24T06:42:43.396Z",
+    "updated_at": "2020-08-24T07:06:19.483Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sỹ ! Bác sĩ cho cháu hỏi cháu có đi khám ở bệnh viện và bác sỹ có nội soi cho cháu và kết luận cháu bị vòm quá phát lympho và cho cháu thuốc về uống và bảo bệnh này của cháu chữa k thể khỏi được và dạo gần đây cháu rất hay bị chóng mặt hoa mắt rất khó nhìn xa bác sỹ cho cháu hỏi bệnh của cháu có phải là ung thư không và có nguy hiểm gi không ạ ? Cháu cảm ơn !",
+    "q_id": "q48177",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Quá phát vòm lympho "
+  },
+  {
+    "_id": "5f4361638f60cf559ab75940",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho--c55-q48083#traloi",
+    "created_at": "2020-08-24T06:42:43.397Z",
+    "updated_at": "2020-08-24T07:06:21.662Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Thua bac si em 47 tuoi em Co trieu Chung kho tho. Khi hit vao thi khong du hoi  va rat la so Hai   Muoi em em nhu bi nghet  khi nuot nuoc mien thi nhu co dom o co Hong.   Em da di kham rat la nhieu binh vien nhung ho noi em khong bi gi het. Vay em nho bac tu van dum em bi gi em cam on bac si  chuc bac vui ve   Suc khoe Hanh Phuc ",
+    "q_id": "q48083",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Kho tho "
+  },
+  {
+    "_id": "5f4361638f60cf559ab75af6",
+    "status": 2,
+    "question_link": "/hoi-dap/ve-benh--c55-q47921#traloi",
+    "created_at": "2020-08-24T06:42:43.873Z",
+    "updated_at": "2020-08-24T07:10:45.396Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chú ơi chú giúp cháu với dạo này cháu ko biết làm sao ý từ mùa đông năm ngoái là 2018 ta cháu bị khó thở với thở dài thở sâu và ngáp nữa nhưng do cháu  tắm đêm nên cháu uống thuốc với làm theo chỉ định khỏi rồi ạ nhưng cháu không biết sau khi Tết xong cháu lại bị như thế ạ đầy lúc cứ hít vào khó thở ra ngoài lắm \nĐầy lần ngáp cx hơi khó thở ra ngoài ạ mà 1 ngày cháu ngáp với thở phải lên đến hơn 20 chục lần cháu cũng k nhớ ạ cháu mua thuốc chỉ đỡ chứ k hề khỏi có người bảo cháu không sao nhưng có người bảo cháu bị viêm phế quản này rồi lại bảo bệnh gì liên quan đến dạ dày ý ạ \nBác sĩ giúp cháu với ạ cháu cảm ơn",
+    "q_id": "q47921",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Về bệnh "
+  },
+  {
+    "_id": "5f4361638f60cf559ab75af7",
+    "status": 2,
+    "question_link": "/hoi-dap/chuan-doan-c55-q47862#traloi",
+    "created_at": "2020-08-24T06:42:43.874Z",
+    "updated_at": "2020-08-24T07:10:45.599Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bác sỹ cho hỏi: Tôi đi chụp xquang tim phổi kết quả như sau: + hình tim không to ,trung thất không rộng bờ đều + hai trường phổi sáng +góc sườn hoành 2 bên nhọn . Tôi không bị ho. Bác sỹ cho hỏi bệnh của tôi có nặng không",
+    "q_id": "q47862",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Chuẩn đoán"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75af8",
+    "status": 2,
+    "question_link": "/hoi-dap/hay-kho-tho-c55-q47819#traloi",
+    "created_at": "2020-08-24T06:42:43.875Z",
+    "updated_at": "2020-08-24T07:10:45.331Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bé 2 ngày nay mỗi lần nằm xuống hay ngồi là lại khó thở, thở không ra hơi. Khi đứng thì vẫn bình thường. Có phải do bé mập quá nên mới vậy không ạ? Bé 1m3, nặng 36 ký. Bác sĩ cho em hỏi này là tình trạng gì ạ?",
+    "q_id": "q47819",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hay khó thở"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75af9",
+    "status": 2,
+    "question_link": "/hoi-dap/can-bsi-tu-van-ve-cam-sot-c55-q47811#traloi",
+    "created_at": "2020-08-24T06:42:43.876Z",
+    "updated_at": "2020-08-24T07:10:47.502Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "E bị sốt 2 hôm nay, thỉnh thoàng ho khan, ng đau các xương khớp. Liệu đó có phải cúm?",
+    "q_id": "q47811",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Cần bsi tư vấn về cảm sốt"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75afa",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-tinh-trang-tho-nhieu-c55-q47647#traloi",
+    "created_at": "2020-08-24T06:42:43.877Z",
+    "updated_at": "2020-08-24T07:10:45.550Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Thưa bác sỹ. Tôi thời gian gần đây có triệu chứng thở nhiều. Nếu đi lên cầu thang đến tầng 3 là thở nhiều. cảm giác khó chịu. Khi chơi cầu lông (Ngày nào cũng chơi từ 5-7h chiều) thì chỉ chơi được 2 trận là thở gấp, phải nghỉ 1 lúc rồi mới chơi tiếp được (3 năm trước tôi có thể chơi liên tục 4-5 trận cầu lông). Các triệu chứng khác không có. Ăn tốt, ngủ tốt, không ho. Huyết áp 125/85 ổn định (chưa bao giờ bị tăng hoặc giảm) Xin bác sỹ tư vấn giúp và hướng dẫn phương án điều trị. Cám ơn bác sỹ nhiều",
+    "q_id": "q47647",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "hỏi về tình trạng thở nhiều"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75afb",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q47585#traloi",
+    "created_at": "2020-08-24T06:42:43.878Z",
+    "updated_at": "2020-08-24T07:10:47.802Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào bác sĩ, chào mọi người\n2 ngày hôm nay em xuất hiện tình trạng bị khó thở, cảm giác như bị tắc không khí ở cuống họng phần gần xương quai xanh \nMà khó nhất là lúc hít khí vào cảm giác thư không đủ, thỉnh thoảng e có ho vài tiếng và hơi bị ngứa họng ạ\nTrước hôm e có biểu hiện e có ngồi gần 1 người mùi rất khó chịu ngột ngạt khoảng 2 tiếng. Tối về ngủ hôm sau thấy có hiện tượng trên luôn\nEm cũng đang ở chu kì kinh , những lúc e ăn uống lại thấy thở được bình thường\nLiệu em đang bị mắc bệnh gì ạ. Mong bác sĩ tư vấn ạ",
+    "q_id": "q47585",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75afc",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-kho-tho-va-tuc-nguc-c55-q47572#traloi",
+    "created_at": "2020-08-24T06:42:43.879Z",
+    "updated_at": "2020-08-24T07:10:47.529Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sỹ, 3 tháng nay em bị khoa thờ kèm tức ngực liên tục kéo dài, lúc hít thở được bình thường cũng cảm thấy hít vào không đủ. Vậy em bị bệnh gì ạ. Cám ơn bác sỹ đã giải đáp",
+    "q_id": "q47572",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Bị khó thở và tức ngực"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75afd",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-hit-tho-sau-c55-q47369#traloi",
+    "created_at": "2020-08-24T06:42:43.880Z",
+    "updated_at": "2020-08-24T07:10:47.512Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Dạ em chào bác sĩ, em bị khó hít thở sâu. Cố gắng hít vào nhưng luôn cảm giác không đủ oxy, phải ngáp để lấy không khí nhưng ngáp cũng không sâu được ạ. Em bị tình trạng này gần 1 tuần và đêm rất khó ngủ vì không hít thở được ạ. Mong được bác sĩ giải đáp về tình trạng của em, em rất cảm ơn ạ.",
+    "q_id": "q47369",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó hít thở sâu"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75afe",
+    "status": 2,
+    "question_link": "/hoi-dap/bi-nghen-o-nguc-c55-q47229#traloi",
+    "created_at": "2020-08-24T06:42:43.881Z",
+    "updated_at": "2020-08-24T07:10:47.487Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "em có triệu chứng nghẹn ở lòng ngực, nhất là sau các buổi ăn Mỗi buổi triệu chứng càng rỏ hơn, cảm giác như thức ăn còn ở vủng ngực gây nghẹn và khó thở, em phải ngồi thẳng người thì mới dễ thở, nhưng bụng vẫn cồn cào cảm giác đói Các thời gian khác trong ngày thì triệu chứng nhẹ hơn ( nhưng khi ợ hơi được thì thấy dễ chịu hơn), nhất là buổi sáng triệu chứng rất rỏ dù chưa ăn sáng, em mong bác sĩ trả lời sớm xem em bị gì ạ",
+    "q_id": "q47229",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Bị nghẹn ở ngực"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75aff",
+    "status": 2,
+    "question_link": "/hoi-dap/dam-ron-phoi-c55-q47211#traloi",
+    "created_at": "2020-08-24T06:42:43.884Z",
+    "updated_at": "2020-08-24T07:10:47.817Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ ạ e có đi khám chup x -q hình anh phổi        nhánh phế huyết quản vùng rốn phổi đậm 2 bên , vậy có bị làm sao không ạ mong bs tư vấn giúp e ạ ",
+    "q_id": "q47211",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Đậm rốn phổi"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75b00",
+    "status": 2,
+    "question_link": "/hoi-dap/tinh-trang-vuong-co-hong-dau-nguc-keo-dai-c55-q47123#traloi",
+    "created_at": "2020-08-24T06:42:43.885Z",
+    "updated_at": "2020-08-24T07:10:47.848Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ. Hiện tại em đang bị đau và vướng cổ họng, kèm theo đau phần ngực. Triệu chứng này đã kéo dài gần 1 tháng. Em có đi khám và chụp X-quang cả bác sĩ tư và bệnh viện đều bảo bị viêm họng cấp và viêm phế quản và đều đưa uống thuốc kháng sinh về để uống. Tuy nhiên, sau khi uống hết 2 đợt thuốc, tình trạng này vẫn không hề nguôi giảm, đặc biệt họng có cảm giác vướng nhiều hơn. Vậy bác sĩ có thể cho em biết về loại bệnh mà em đang bị vướng phải cũng như cách điều trị (thuốc điều trị) hiệu quả nhất được không ạ? Mong bác sĩ tư vấn giúp em. Em xin cảm ơn",
+    "q_id": "q47123",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Tình trạng vướng cổ họng, đau ngực kéo dài"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75b01",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-lay-hoi-c55-q47028#traloi",
+    "created_at": "2020-08-24T06:42:43.886Z",
+    "updated_at": "2020-08-24T07:10:47.827Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào bác sĩ ạ! Khoảng 4 hôm trở lại đây e đột nhiên khó khăn khi lấy hơi dài. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu thì ít lần chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa. Như kiểu cụt hơi đoạn ngực ở giữa 2 xương ức ạ. Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp e sẽ hít được đủ khí ạ. Nhưng không phải lúc nào cũng ngáp được ạ. Mong bác sĩ tư vấn ạ",
+    "q_id": "q47028",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó lấy hơi"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75b02",
+    "status": 2,
+    "question_link": "/hoi-dap/nghi-bi-ung-thu-phoi-c55-q47026#traloi",
+    "created_at": "2020-08-24T06:42:43.888Z",
+    "updated_at": "2020-08-24T07:10:47.548Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Cho cháu hỏi rằng cháu có biểu hiện tức ngực, thở hơi nặng nhọc đôi khi thở ngắn. Khi cháu đi khám thì chuẩn đoán là viêm phế quản, thì cho cháu hỏi rằng viêm phế quản có làm giảm tỷ lệ bạch cầu lympho không ạ? hay còn bệnh khác? cháu xin cảm ơn",
+    "q_id": "q47026",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "nghi bị ung thư phổi"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75b03",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-nhoi-long-nguc-c55-q46938#traloi",
+    "created_at": "2020-08-24T06:42:43.889Z",
+    "updated_at": "2020-08-24T07:10:48.383Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "thuwa bác sĩ con hay bị đau ê ẩm lồng ngực bên trái và hơi nhói ạ.v cho con hỏi là con có bị gì về tim ko ạ",
+    "q_id": "q46938",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "bệnh nhói lồng ngực"
+  },
+  {
+    "_id": "5f4361638f60cf559ab75b04",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-khi-hit-vao-kho-cuc-vo-cung-a-c55-q46837#traloi",
+    "created_at": "2020-08-24T06:42:43.890Z",
+    "updated_at": "2020-08-24T07:10:47.561Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Khó thở khi hít vào, khổ cực vô cùng ạ!\n\nEm chào bác sĩ ạ! Khoảng 2 tháng trở lại đây e đột nhiên khó thở khi hít vào. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu khoảng 20 lần thì chỉ được vài 3 lần đủ khí xuống tới bụng, còn lại là chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa. Lúc này sẽ bị tức đoạn ngực ở giữa 2 xương ức ạ. Ngoài ra còn kèm thèo biểu hiện là thường xuyên lấy sức ho 1 cái thật mạnh để bật được cái dịch gì đó trong lồng ngực ra ấy ạ (Ko biết e mô tả vậy đúng ko nữa). Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp e sẽ hít được đủ khí ạ. Nhưng không phải lúc nào cũng ngáp được ạ. Em đã đi khám tại  viện E chụp XQuang tim phổi, điện tim, siêu âm tim, thử máu, thông khí phổi, siêu âm ổ bụng, kết quả là mấy cái đó đều không sao, nhưng em rất khó thở vài hôm ko đỡ mà nặng thêm nên vào viện điều trị, viện cho chụp CT cắt lớp lồng ngực và phổi, Đo hô hấp, Test giãn phế quản, kết quả cũng không có gì đặc biệt ngoài câu 'Theo dõi viêm phế quản'  Thưa bác sĩ e đã mô tả rất kỹ triệu chứng và quy trình khám bệnh . E rất mong được sự tư vấn tận tình của bác sĩ ạ. E cảm ơn!",
+    "q_id": "q46837",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở khi hít vào, khổ cực vô cùng ạ!"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75ce9",
+    "status": 2,
+    "question_link": "/hoi-dap/thuong-xuyen-kho-tho--c55-q46260#traloi",
+    "created_at": "2020-08-24T06:42:44.397Z",
+    "updated_at": "2020-08-24T07:15:39.650Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bác sĩ cho em lúc trước em có 1 thời gian hay bị lo lắng và căng thẳng và kể từ lúc đó thì em bị tim đập nhanh, lúc nào cũng khó thở và lấy hơi lên còn kèm theo mắc ói. Em có đi khám thì bs chuẩn đoán em là nhịp xoang nhanh uống thuốc cũng ko đỡ mà ngưng lại càng ko thở đc. Mong các bác sĩ tư vấn giúp em tình trạng như vậy là như thế nào ảnh hưởng sau này ra sao ",
+    "q_id": "q46260",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Thương xuyên khó thở "
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cea",
+    "status": 2,
+    "question_link": "/hoi-dap/xet-nghiem-mau-c55-q46087#traloi",
+    "created_at": "2020-08-24T06:42:44.398Z",
+    "updated_at": "2020-08-24T07:15:39.618Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào bác sĩ ạ!\nBác sĩ cho em hỏi là bên Viện mình có lấy máu xét nghiệm virut Corona tại nhà không ạ? Nếu có thì chi phí là bao nhiêu và bao lâu thì có kết quả ạ?\nMong bác sĩ tư vấn giúp em ạ!\nEm cảm ơn bác sĩ nhiều ạ!",
+    "q_id": "q46087",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Xét nghiệm máu!"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75ceb",
+    "status": 2,
+    "question_link": "/hoi-dap/gui-dap-c55-q46048#traloi",
+    "created_at": "2020-08-24T06:42:44.399Z",
+    "updated_at": "2020-08-24T07:15:40.546Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bs oi Cho cháu hỏi, dạo gần đây cháu hay bị khó thở...mỗi khi hít vào cổ họng cháu thấy vướng và tức hít vào ko đủ hơi hoặc phải hít hơi dài... Nhung khi cháu há miệng thở bang miệng thì thấy đỡ hơn như vậy là bị sao hả bs",
+    "q_id": "q46048",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Gửi đáp"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cec",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-phoi-c55-q45979#traloi",
+    "created_at": "2020-08-24T06:42:44.400Z",
+    "updated_at": "2020-08-24T07:15:41.149Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "E bị lao phổi âm tính. Uống thuốc dc 2 tháng. Hôm e về nhà.do không để ý. Nên Cháu e 6t có cầm và uống chung chai nước với e. E rất lo lắng. Liệu như vậy có sao k ạ. Xin giải đáp giúp em với ạ. Em cảm ơn. ",
+    "q_id": "q45979",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Lao phổi"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75ced",
+    "status": 2,
+    "question_link": "/hoi-dap/bac-si-giai-dap-thac-mac-giup-e-voi-a-c55-q45737#traloi",
+    "created_at": "2020-08-24T06:42:44.401Z",
+    "updated_at": "2020-08-24T07:15:39.000Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Khoảng 4 ngày trước tới giờ ng e cứ thấy khó thở nhưng lúc nào mờ e đi chơi với bạn hay k nghĩ gì thì nó sẽ k bị nhưng e cứ về nhà và nằm xem phim nghĩ đến là lại thấy khó thở kiểu dạng như hít k đủ hơi ý ạ e vẫn chưa đi khám e muốn xin lời giải đáp ạ ",
+    "q_id": "q45737",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Bác sĩ giải đáp thắc mắc giúp e với ạ"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cee",
+    "status": 2,
+    "question_link": "/hoi-dap/chua-benh-c55-q45383#traloi",
+    "created_at": "2020-08-24T06:42:44.402Z",
+    "updated_at": "2020-08-24T07:15:40.536Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "bị mắc thức ăn ở thực quản mong các bác sĩ xem xét",
+    "q_id": "q45383",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "chữa bệnh"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cef",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-hit-sau-c55-q45056#traloi",
+    "created_at": "2020-08-24T06:42:44.403Z",
+    "updated_at": "2020-08-24T07:15:39.639Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Dạ xin chào bs và cho e vào  vấn đề luôn a!\nThời gian gần đây e bị khó hít sâu lấy hơi vào lồng ngực cảm giác như 1 người chết đuối trên cạn vậy biểu hiện sảy za liên tục trong ngày như ăn no hoac hút thuốc và luôn có đờm và phải khạc nhổ liên tục để có thể rễ chịu và lấy dc khí hay cố tình ho khan va rất hay ngáp ko kiểm soát chỉ khi nằm nghiêng mới rễ chịu vậy bs có thể khái lược chuẩn đoán bệnh lý của e là gì ạ e cảm ơn",
+    "q_id": "q45056",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó hít sâu"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cf0",
+    "status": 2,
+    "question_link": "/hoi-dap/xin-hoi-ve-thuoc-khang-sinh-cho-tre-c55-q44797#traloi",
+    "created_at": "2020-08-24T06:42:44.404Z",
+    "updated_at": "2020-08-24T07:15:40.556Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Xin bs cho hỏi bé mình hiện tại 15 tháng khám bs xác định viêm phổi và có kê đơn có thuốc klacid sau đó gia đình đưa bé đi khám cơ sở khác ( có kèm theo kết quả và đơn thuốc cũ) và bs có kê thêm augmentit và cho uống cùng với thuốc đơn cũ . Và tối bé uống cả klacid và augmentit bé không ngủ được trằn trọc cả đêm . Vậy bác sỹ cho hỏi 2 loại đó có kháng nhau không ạ . Và triệu chứng kháng thuốc hay tác dụng phụ gì ạ ? Xin cảm ơn !",
+    "q_id": "q44797",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Xin hỏi về thuốc kháng sinh cho trẻ"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cf1",
+    "status": 2,
+    "question_link": "/hoi-dap/ho-lau-ngay-c55-q44677#traloi",
+    "created_at": "2020-08-24T06:42:44.405Z",
+    "updated_at": "2020-08-24T07:15:40.593Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sỹ,\nNăm nay con 20 tuổi, là nữ, không hút thuốc, không có thói quen dùng đồ ăn, nước uống đông lạnh.\nKhoảng gần 1 tháng trước, nhiệt độ chỗ con sống có thay đổi ngày 31°, đêm 21°, nên con bị ho khan nhiều, không sổ mũi, và con có dùng tắc chưng đường phèn thì giảm ho và chuyển sang ho có đờm, ban đầu màu xanh, sau chuyển dần sang màu trắng. Đến nay con không ho nhiều, chỉ đôi lúc hơi ngứa cổ thì có ho vài tiếng, nhưng khoảng sáng sớm từ 6h-7h thì có ho và xuất hiện đờm, không nhiều, có màu trắng. \nBác sỹ cho con hỏi là như vậy có phải là đang bớt bệnh từ từ không ạ?! Hay là đang nặng lên?! Và khi đi khám thì con cần làm những xét nghiệm gì?.\nCon cảm ơn bác sỹ ạ.",
+    "q_id": "q44677",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Ho lâu ngày"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cf2",
+    "status": 2,
+    "question_link": "/hoi-dap/tre-bi-ho-nhieu-sau-cum-a-c55-q44660#traloi",
+    "created_at": "2020-08-24T06:42:44.406Z",
+    "updated_at": "2020-08-24T07:15:44.566Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "chào Bác sỹ! \ncách đây mấy hôm tôi có đăng ký test cúm cho cháu Bùi Lê Na, sau khi có kết quả cúm A và được Bác sỹ gọi điện tư vấn cho cháu dùng tamiflu, tôi có cho cháu uống, sau 2 ngày cháu cắt sốt, nhưng lại ho dai dẳng cả ngày đêm, cháu ho rất nhiều, vậy tôi xin hỏi cháu bị ho do cúm A thif có dùng kháng sinh trị ho được không? vì cháu uống siro ho không đỡ, kính mong Bác Sỹ tư vấn ah! tôi xin cảm ơn bác sỹ ah!",
+    "q_id": "q44660",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Trẻ bị ho nhiều sau cúm A"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cf3",
+    "status": 2,
+    "question_link": "/hoi-dap/ho-khan-c55-q44615#traloi",
+    "created_at": "2020-08-24T06:42:44.408Z",
+    "updated_at": "2020-08-24T07:15:39.921Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Tôi bị ho khoảng hơn 1 tuần này ko sốt, ít đờm. Đau mỏi ng",
+    "q_id": "q44615",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Ho khan"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cf4",
+    "status": 2,
+    "question_link": "/hoi-dap/dau-lung-va-met--c55-q44511#traloi",
+    "created_at": "2020-08-24T06:42:44.408Z",
+    "updated_at": "2020-08-24T07:15:44.529Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ. E bị lao âm tính. E uống thuốc dc e tháng. Và điều trị ở địa phương. E có làm xét nghiệm đàm sau 2 tháng. Nhưng ở địa phương k có chụp xqang. Hiện tại lâu lâu e vẫn bị đau lưng. 1 phần Hàng ngày e vẫn hay đi bộ thể dục. Nên đôi khi mệt thấy mệt và đau lưng. Cho e hỏi. Như v có ảnh hưởng gì nghiêm trọng k ạ. Và e muốn đt bv chup xqung dc k ạ. E nghe nói phổi đang tổn thương thì hạn chế k nên chụp xuqng đúng k ạ. ",
+    "q_id": "q44511",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Đau lưng và mệt. "
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cf5",
+    "status": 2,
+    "question_link": "/hoi-dap/dieu-tri-c55-q44477#traloi",
+    "created_at": "2020-08-24T06:42:44.409Z",
+    "updated_at": "2020-08-24T07:15:40.572Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Mình xét nghiệm tại nhaf, có kết quả cúm A bs kê đơn thuốc giúp ạ.",
+    "q_id": "q44477",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "điều trị"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cf6",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-benh-ung-thu-c55-q44275#traloi",
+    "created_at": "2020-08-24T06:42:44.410Z",
+    "updated_at": "2020-08-24T07:15:42.687Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Tôi xét  nghiệm máu có định lượng cyfra 21-1 là 6.33 có nguy hiểm không? Thưa Bác sĩ",
+    "q_id": "q44275",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hỏi về bệnh ung thư"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75cf7",
+    "status": 2,
+    "question_link": "/hoi-dap/thu-y-c55-q44226#traloi",
+    "created_at": "2020-08-24T06:42:44.411Z",
+    "updated_at": "2020-08-24T07:15:43.009Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "chào bác sĩ,bác sĩ cho em hỏi là người bị mắc lao phổi AFB(-) thì có bị lây cho cún không ạ?",
+    "q_id": "q44226",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "thú y"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e24",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-va-cam-thay-lo-lang-c55-q44154#traloi",
+    "created_at": "2020-08-24T06:42:44.706Z",
+    "updated_at": "2020-08-24T07:18:29.014Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào Bác sĩ, Mong Bác Sĩ giải đáp giúp em !, Gần đây em thường hay bị triệu chứng Khó thở (thở không đủ hơi lúc em hít vào thì hơi dô được khoảng 70-80%) và Ngáp nhiều, em cảm thấy thấy bất an mặc dù Ngoài triệu chứng khó thở ra em không hề bị kho, đau ở ngực gì cả, và cũng không có đàm xanh hay vàng hay đàm có máu gì cả,tất cả đều không có.. nhưng không biết vì sao tình trạng thở không đủ hơi của em vẫn cứ lặp đi lặp lại, gần 1 tháng nay rồi... Em lo quá ! mong Bác Sĩ giải đáp giúp em với ạ !.",
+    "q_id": "q44154",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở và cảm thấy lo lắng"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e25",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q43987#traloi",
+    "created_at": "2020-08-24T06:42:44.707Z",
+    "updated_at": "2020-08-24T07:18:28.603Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Thưa bs. E hay bị tình trạng khó thở phải hít mạnh hay ngáp mới đỡ. Nếu không là bị giống thiếu hơi không đủ hơi rất mệt có lúc nói chuyện không nỗi luôn ạ. E có đi khám tim. Phổi chụp ct điều bình thường. Bs bảo e nên đi nội soi nhưng e mệt đút ống vào tới họng là khó thở soi không dc. E có test hơi thở bs bảo bị hp và trào ngược rồi cho thuốc uống. Nhưng e uống cũng lâu mà ko thấy khá hơn. Vậy bs cho e hỏi tình trạng của e là bị sao ạ",
+    "q_id": "q43987",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e26",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho--c55-q43885#traloi",
+    "created_at": "2020-08-24T06:42:44.708Z",
+    "updated_at": "2020-08-24T07:18:29.110Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ ạ... Chúc bác sĩ ngày cuối tuần vui vẻ ạ\nem năm nay 21 tuổi . em  có sức khỏe lại thêm lối sống khá lành mạnh ko thuốc lá rượu chè hạn chế . Dạo gần tháng quay chở lại đây em lại thấy trong người có cảm giác khó thở.... Cảm giác mà thở hơi bị kiểu dồn nén ngay hơi thở ngay đoạn sương ức...muốn thở sâu thì toàn phải lấy hơi thật mạnh... Sờ vào đoạn sương ức thấy hơi đau đau. Mỗi khi làm việc mà nhiều thì  thấy hơi thở thiếu chỉ muốn hít thật sâu rồi thở dài ...",
+    "q_id": "q43885",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở "
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e27",
+    "status": 2,
+    "question_link": "/hoi-dap/tre-nho-ho-dom-c55-q43878#traloi",
+    "created_at": "2020-08-24T06:42:44.709Z",
+    "updated_at": "2020-08-24T07:18:45.127Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bs. Con em được 5 tháng. Bé ho đờm. Ko sổ mũi. E cho bé uống siro an nhi được 1 tuần. Nhưng vẫn còn ho đờm. E có nhỏ nước muối cho bé. Hút mũi... nhưng vẫn còn đờm ở cổ. Thuốc ho cho trẻ thì tràn lan đủ loại. Em không biết chọn loại nào cho bé uống để khỏi bệnh ??? Xin bs cho tên thuốc đúng bệnh ạ... ",
+    "q_id": "q43878",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Trẻ nhỏ ho đờm"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e28",
+    "status": 2,
+    "question_link": "/hoi-dap/mong-bac-si-giup-c55-q43751#traloi",
+    "created_at": "2020-08-24T06:42:44.710Z",
+    "updated_at": "2020-08-24T07:18:44.894Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bác sĩ cho cháu hỏi cháu bị viêm xoang mãn tính dẫn đến viêm họng hạt cháu cho nổi hạch ở cổ 2 3 cục  nhưng mò mới thấy không đau không sưng cũng lâu rồi ạ.  Không biết có sao không ạ. Với tuần nay cháu có sử dụng thuốc xịt mũi benita thì mũi có nhiều nước mũi đặc hơn phải hỉ liên tục rồi họng có đờm như nước mũi chảy xuống. Cháu nó sử dụng tiếp được không ạ ",
+    "q_id": "q43751",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Mong bác sĩ giúp"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e29",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-chi-so-cyfra-c55-q43583#traloi",
+    "created_at": "2020-08-24T06:42:44.711Z",
+    "updated_at": "2020-08-24T07:18:43.619Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Kính gửi Bác sĩ, chỉ số CYFRA 21-1 ( Cobas) của tôi là 6,5 liệu có cao quá không? Liệu tôi có bị ung thư phổi hay không ạ, bác sĩ cho tôi lời khuyên với ạ!",
+    "q_id": "q43583",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hỏi chỉ số CYFRA"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e2a",
+    "status": 2,
+    "question_link": "/hoi-dap/suc-khoe-c55-q42462#traloi",
+    "created_at": "2020-08-24T06:42:44.711Z",
+    "updated_at": "2020-08-24T07:18:45.067Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Ban đêm ho có đờm nhiều khó thể ",
+    "q_id": "q42462",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Sức khỏe"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e2b",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-bac-si-chuyen-khoa-lao-c55-q41730#traloi",
+    "created_at": "2020-08-24T06:42:44.712Z",
+    "updated_at": "2020-08-24T07:18:43.018Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Cháu đang điều trị lao được hơn 1 tháng thì bị sốt xuất huyết thì có thể nghĩ điều trị 3 đến 4 ngày không ạ",
+    "q_id": "q41730",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hỏi bác sĩ chuyên khoa lao"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e2c",
+    "status": 2,
+    "question_link": "/hoi-dap/chi-so-crp-5302-mgl-c55-q41679#traloi",
+    "created_at": "2020-08-24T06:42:44.713Z",
+    "updated_at": "2020-08-24T07:18:44.986Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Con tôi được 26 tháng tuổi, cháu bị ho, thở khò khè và sốt bsi khám và xác định cháu bị viêm phổi và kê thuốc về uônga nhưng chưa giải thích chỉ số CRP 53.02mg/L cao hơn hẳn chỉ số bình thường là 6.0 mg/L \nVậy cho tôi hỏi mức cao như vậy có nguy hiểm ko? Có cần phải nhập viện ko ạ?\nMong sớm nhận được phản hồi từ các bác sĩ!\nXin cảm ơn!",
+    "q_id": "q41679",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Chỉ số CRP 53.02 mg/L"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e2d",
+    "status": 2,
+    "question_link": "/hoi-dap/hit-tho-kho-c55-q41508#traloi",
+    "created_at": "2020-08-24T06:42:44.715Z",
+    "updated_at": "2020-08-24T07:18:45.080Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào bác sĩ ạ! Khoảng 1 tháng trở lại đây e đột nhiên khó thở khi hít vào. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu khoảng 20 lần thì chỉ được vài 3 lần đủ khí xuống tới bụng, còn lại là chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa. Lúc này sẽ bị tức đoạn ngực ở giữa 2 xương ức ạ. Ngoài ra còn kèm thèo biểu hiện là khi ăn no và hút thuốc sẽ lại càng khó hít vào hơn nữa. Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp e sẽ hít được đủ khí ạ. Nhưng không phải lúc nào cũng ngáp được ạ. ( :(. E rất mong được sự tư vấn tận tình của bác sĩ ạ. E cảm ơn!",
+    "q_id": "q41508",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "hít thở khó"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e2e",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q41425#traloi",
+    "created_at": "2020-08-24T06:42:44.716Z",
+    "updated_at": "2020-08-24T07:18:44.869Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": " ạ!\nVũ Quân\n16/06/2019\nEm chào bác sĩ ạ! Khoảng 1 tháng trở lại đây e đột nhiên khó thở khi hít vào. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu khoảng 20 lần thì chỉ được vài 3 lần đủ khí xuống tới bụng, còn lại là chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa. Lúc này sẽ bị tức đoạn ngực ở giữa 2 xương ức ạ. Ngoài ra còn kèm thèo biểu hiện là thường xuyên lấy sức ho 1 cái thật mạnh để bật được cái dịch gì đó trong lồng ngực ra ấy ạ (Ko biết e mô tả vậy đúng ko nữa). Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp e sẽ hít được đủ khí ạ. Nhưng không phải lúc nào cũng ngáp được ạ. Em đã đi khám 2 viện lớn là 108 và Phổi Trung Ương. Viện 108 thì chụp XQuang tim phổi, điện tim, siêu âm tim, thử máu, thông khí phổi, siêu âm ổ bụng, kết quả là mấy cái đó đều không sao => BS đành kết luận rối loạn thần kinh thực vật và kê thuốc rối loạn thần kinh cùng 1 loại thuốc có tên astmodil (trị hen thì phải ạ) nhưng e uống vài hôm ko đỡ mà nặng thêm í ạ. Vì vậy e đi khám viện Phổi TW, viện này cho chụp CT cắt lớp lồng ngực và phổi, Đo hô hấp, Test giãn phế quản, kết quả cũng không có gì đặc biệt ngoài câu \"Theo dõi viêm phế quản\" và không cho thuốc gì, em có năn nỉ ỉ ôi thì BS kê cho e lọ thuốc xịt Ventolin rồi dặn xịt xong thấy đỡ thì quay lại điều trị theo hướng hen phế quản, tuy nhiên e xịt vào cả tiếng đồng hồ vẫn không làm giảm triệu chứng e kể trên(Thuốc có tác dụng sau 5 phút và kéo dài 4 tiếng ạ). Thưa bác sĩ e đã mô tả rất kỹ triệu chứng và quy trình khám bệnh ở 2 viện lớn rồi, e thấy 2 viện lớn khám không tận tụy chút nào cả, e mô tả bệnh thì bác sĩ cứ như nghĩ e nói đùa ấy ạ :( :(. E rất mong được sự tư vấn tận tình của bác sĩ ạ. E cảm ơn!",
+    "q_id": "q41425",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Kho tho"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e2f",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-khi-hit-vao-khong-du-oxy-c55-q41379#traloi",
+    "created_at": "2020-08-24T06:42:44.717Z",
+    "updated_at": "2020-08-24T07:18:44.908Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào bác sĩ ạ! Khoảng 1 tháng trở lại đây e đột nhiên khó thở khi hít vào. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu khoảng 20 lần thì chỉ được vài 3 lần đủ khí xuống tới bụng, còn lại là chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa. Lúc này sẽ bị tức đoạn ngực ở giữa 2 xương ức ạ. Ngoài ra còn kèm thèo biểu hiện là khi ăn no và hút thuốc sẽ lại càng khó hít vào hơn nữa. Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp e sẽ hít được đủ khí ạ. Nhưng không phải lúc nào cũng ngáp được ạ.   ( :(. E rất mong được sự tư vấn tận tình của bác sĩ ạ. E cảm ơn!\n\n",
+    "q_id": "q41379",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở, khi hít vào không đủ Oxy"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e30",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-khi-hit-vao-khong-du-oxy-c55-q41378#traloi",
+    "created_at": "2020-08-24T06:42:44.718Z",
+    "updated_at": "2020-08-24T07:18:44.928Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào bác sĩ ạ! Khoảng 1 tháng trở lại đây e đột nhiên khó thở khi hít vào. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu khoảng 20 lần thì chỉ được vài 3 lần đủ khí xuống tới bụng, còn lại là chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa. Lúc này sẽ bị tức đoạn ngực ở giữa 2 xương ức ạ. Ngoài ra còn kèm thèo biểu hiện là khi ăn no và hút thuốc sẽ lại càng khó hít vào hơn nữa. Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp e sẽ hít được đủ khí ạ. Nhưng không phải lúc nào cũng ngáp được ạ.   ( :(. E rất mong được sự tư vấn tận tình của bác sĩ ạ. E cảm ơn!\n\n",
+    "q_id": "q41378",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở, khi hít vào không đủ Oxy"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e31",
+    "status": 2,
+    "question_link": "/hoi-dap/em-bi-kho-tho--c55-q41279#traloi",
+    "created_at": "2020-08-24T06:42:44.719Z",
+    "updated_at": "2020-08-24T07:18:45.007Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào Bác sĩ ạ.! E bị khó thở khi hít vào hít đến cổ thì nghẹn k vào được nữa lâu lâu mới đc 1 lần vào trong ạ. Kiểu dang như có gì đó ngăn ở giữa làm cho không khí k hít vào đc ạ. Thi thoảng e phải ngáp để lấy không khí nhưng có những lúc không ngáp được ạ. Rất khó chịu và cảm giác thiếu oxi ấy ạ. Hơi thở của e cũng rất nông và không đc bình thường. Khi hít vào e phải lấy hơi thật mạnh nhưng lấy khoảng 10-20 lần thì chỉ đc 3-4 lần là khong khí đi vào trong còn lại là bị nghenn ở cổ k đi vào đc. E đã đi khám tại Thu cúc, Bạch Mai và Đại học Y HN, thu cúc thì bảo e bị trào ngược dạ dày có kê đơn để uống nhưng e k thấy đỡ, e sang bạch mai thì họ cho khám tim phổi hô hấp nhưng mọi thứ bình thường. Bên đại học y thì bảo bị rối loạn thần kinh thực vật e uống nhưng cũng k thấy đỡ đáng kể. Mong bsi giúp e ạ. E cin cảm ơn.",
+    "q_id": "q41279",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Em bị khó thở .!"
+  },
+  {
+    "_id": "5f4361648f60cf559ab75e32",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-khi-tho-phai-lay-hoi-c55-q41177#traloi",
+    "created_at": "2020-08-24T06:42:44.720Z",
+    "updated_at": "2020-08-24T07:18:44.629Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào bác sĩ ạ! Em bị khó thở và mỗi khi thở phải lấy 1 hơi mạnh mới có thể thở được cảm giác như bị ai đang siết cổ vậy ạ bác sĩ có biết đây là triệu chứng hay bệnh gì ko? :(((",
+    "q_id": "q41177",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở, khi thở phải lấy hơi"
+  },
+  {
+    "_id": "5f4361658f60cf559ab7600b",
+    "status": 2,
+    "question_link": "/hoi-dap/mong-bac-si-tu-van-giup-em-cho-em-biet-em-bi-benh-gi-a-c55-q40898#traloi",
+    "created_at": "2020-08-24T06:42:45.178Z",
+    "updated_at": "2020-08-24T07:23:23.186Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Cách đây khoảng 2,3 tháng em bị khó thở khi hít vào mỗi lần như vậy em chỉ muốn hít vào thật sâu nhưng hít sâu 10 lần thì chỉ được tầm 2 lần là cảm thấy thoải mái còn 8 lần còn lại là đều hụt hơi , còn mỗi lần em ngáp em thấy cảm giác rất thoải mái . Em Thấy có 1 banh cũng có câu hỏi như vậy nhưng bạn đó thì có thêm bị đau ngực còn em thì k ạ . Mong bác sĩ trả lời giúp em cho em biết em bị gì ạ.",
+    "q_id": "q40898",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Mong bác sĩ tư vấn giúp em cho em biết em bị bệnh gì ạ"
+  },
+  {
+    "_id": "5f4361658f60cf559ab7600c",
+    "status": 2,
+    "question_link": "/hoi-dap/cai-thuoc-la-c55-q40888#traloi",
+    "created_at": "2020-08-24T06:42:45.179Z",
+    "updated_at": "2020-08-24T07:23:22.725Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Dạ xin chào bác sĩ,  con có vấn đề thắc mắc về sức khỏe,  mong sẽ được bác sĩ giai đáp.  Bố con lâu nay có hút thuốc và uống rượu bia, thờ gian vừa rồi của đợt bố con bit tức ngực nên sợ,  hơn 1 tuần nay bỏ thuốc.  Nhưng lạ 1 cái là bỏ tịt luôn và giờ cứ bị nôn khan ấy ạ,  thấy mùi thuốc là nôn,  uống bia vào cũng nôn,  và bị nhay cảm về mùi thuốc ấy ạ,  giờ không có gì cũng nôn.  Bố con mà bỏ được thuốc con cũng mừng,  nhưng nó đột ngột và kèm dấu hiệu lạ nên con lo.  Bác sĩ có kinh nghiệm r,  có thể xem giúp con những triệu chứng ấy có gì bất thường k ạ?  Mong bác sĩ sẽ nhận được tin nhắn nay và sớm phản hồi ạ.  Cảm ơn bác sĩ",
+    "q_id": "q40888",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Cai thuốc lá"
+  },
+  {
+    "_id": "5f4361658f60cf559ab7600d",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q40797#traloi",
+    "created_at": "2020-08-24T06:42:45.180Z",
+    "updated_at": "2020-08-24T07:23:25.075Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bệnh Khó ThởEm chào bác sĩ ạ! Khoảng 1 tháng trở lại đây e đột nhiên khó thở khi hít vào. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu khoảng 20 lần thì chỉ được vài 3 lần đủ khí xuống tới bụng, còn lại là chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa. Lúc này sẽ bị tức đoạn ngực ở giữa 2 xương ức ạ. Ngoài ra còn kèm thèo biểu hiện là thường xuyên lấy sức ho 1 cái thật mạnh để bật được cái dịch gì đó trong lồng ngực ra ấy ạ (Ko biết e mô tả vậy đúng ko nữa). Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp e sẽ hít được đủ khí ạ. Nhưng không phải lúc nào cũng ngáp được ạ. Em đã đi khám 2 viện lớn là 108 và Phổi Trung Ương. Viện 108 thì chụp XQuang tim phổi, điện tim, siêu âm tim, thử máu, thông khí phổi, siêu âm ổ bụng, kết quả là mấy cái đó đều không sao => BS đành kết luận rối loạn thần kinh thực vật và kê thuốc rối loạn thần kinh cùng 1 loại thuốc có tên astmodil (trị hen thì phải ạ) nhưng e uống vài hôm ko đỡ mà nặng thêm í ạ. Vì vậy e đi khám viện Phổi TW, viện này cho cảm ơn!",
+    "q_id": "q40797",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó Thở"
+  },
+  {
+    "_id": "5f4361658f60cf559ab7600e",
+    "status": 2,
+    "question_link": "/hoi-dap/ho-co-dom-c55-q40473#traloi",
+    "created_at": "2020-08-24T06:42:45.181Z",
+    "updated_at": "2020-08-24T07:23:24.828Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "-Tôi bị ho thường về ban đêm, ho kéo dài có đờm, vừa rồi có điều trị đã hơn 1 tháng nhưng chưa thuyên giảm. \n- Khi có mùi lạ là bị ho\n Nhờ bác sỷ hướng dẫn",
+    "q_id": "q40473",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Ho có Đờm"
+  },
+  {
+    "_id": "5f4361658f60cf559ab7600f",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-hit-sau-c55-q40387#traloi",
+    "created_at": "2020-08-24T06:42:45.182Z",
+    "updated_at": "2020-08-24T07:23:26.691Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào bác sĩ ạ! Khoảng 1 tháng trở lại đây e đột nhiên khó thở khi hít vào. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu khoảng 20 lần thì chỉ được vài 3 lần đủ khí xuống tới bụng, còn lại là chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa. Lúc này sẽ bị tức đoạn ngực ở giữa 2 xương ức ạ. Ngoài ra còn kèm thèo biểu hiện là thường xuyên lấy sức ho 1 cái thật mạnh để bật được cái dịch gì đó trong lồng ngực ra ấy ạ (Ko biết e mô tả vậy đúng ko nữa). Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp e sẽ hít được đủ khí ạ.",
+    "q_id": "q40387",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó hít sâu"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76010",
+    "status": 2,
+    "question_link": "/hoi-dap/em-bi-benh-gi-a-c55-q40329#traloi",
+    "created_at": "2020-08-24T06:42:45.183Z",
+    "updated_at": "2020-08-24T07:23:24.801Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Dạo này em hay bị khó hít vào, ko hít được đủ hơi, khi hít vào còn bị đau tức ngực, đâu và vai có cảm giác co rút.\nI khám thì bác sĩ bảo tim tốt, huyết áp thấp thôi, \nE ăn hay bị buôn nôn mà hầu như là nôn từ ngực từ cổ lên nên ít khi bị thức ăn ra ngoài, bác sĩ khám bảo e bị viêm dạ dày, kê thuốc e uống, 1 tuần đầu thấy cũng đỡ buồn nôn nhưng vẫn khó thở, tuần 2 thì thuốc hết tác dụng, triệu chứng vẫn buồn nôn, khó hít sâu, đau tức ngực, khi hít đầu vai co rút , giò còn thêm 1 bệnh là bung đau râm râm thường xuyên\nCho e hỏi e bị bệnh gì ạ",
+    "q_id": "q40329",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Em bị bệnh gì ạ"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76011",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q40311#traloi",
+    "created_at": "2020-08-24T06:42:45.184Z",
+    "updated_at": "2020-08-24T07:23:22.698Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ.\nLúc trước em hay bị khó thở trước khi ngủ, nguyên một ngày không sao, chỉ khi nằm ngủ là thấy khó thở. Khi đi cầu thang hay đi bộ thì khi ngồi thì thấy hơi mệt và khó thở phải cố hít sâu. Gần đây thì khó thở đó càng nhiều hơn và luôn cảm thấy ngộp. Hít thở như bình thường nhưng cảm giác không khí lấy vào ít.  Cố hít thở sâu cũng không cảm thấy bớt. Lâu lâu để ý thì thấy có đôi khi mình thở chậm, nhịp thở cách nhau lâu. Vậy cho em hỏi em có nguy cơ bị mắc bệnh gì ạ. Em cám ơn bác sĩ",
+    "q_id": "q40311",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76012",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi--y-kien--bac-si--c55-q39912#traloi",
+    "created_at": "2020-08-24T06:42:45.185Z",
+    "updated_at": "2020-08-24T07:23:26.667Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Cho  e hỏi bác  sĩ  ạ. Con  e 6tuoi có  triệu  chứng thỉnh  thoảng  lại  hít  sâu lấy  hơi.ma cháu  gay yêu. Như  thế  có  nguy  cơ  bị  tim  k ạ \n",
+    "q_id": "q39912",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hỏi  y kiến  bác sĩ "
+  },
+  {
+    "_id": "5f4361658f60cf559ab76013",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-c55-q39897#traloi",
+    "created_at": "2020-08-24T06:42:45.186Z",
+    "updated_at": "2020-08-24T07:23:28.734Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Cô em bị khó thở về đêm, dạo này thấy khó thở tăng dần. Ngoài ra thấy tăng cân bất thường do trước giờ cô không bao giờ tăng cân. Cho em hỏi có vấn đề gì không ạ?",
+    "q_id": "q39897",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76014",
+    "status": 2,
+    "question_link": "/hoi-dap/bien-chung-cua-viem-xoang-c55-q39750#traloi",
+    "created_at": "2020-08-24T06:42:45.186Z",
+    "updated_at": "2020-08-24T07:23:22.679Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Xin chào các bác sĩ, \nKhoảng 2 tháng trước, em hay bị chảy máu cam và em có đi khám bệnh viện thì bác sĩ nói em bị viêm xoang xoàn bên phải. Bs có cho em một số thuốc và chai xịt để điều trị. Nhưng sau khi em dùng hết thuốc thì thấy bệnh cũng thuyên giảm nên không tiếp tục uống nữa và không đi tái khám ạ. \nDạo khoảng 1 tháng này, em thấy một số hiện tượng lạ xảy ra ở xuất hiện ở tai cũng như họng của em. Em tự dưng bị đau họng ở một bên phải (cùng vị trí với với viêm xoang) từ lúc dậy vào buổi sáng đến tới buổi tối khi ngủ luôn ạ cũng như đau ở một bên tai bên phải, với lại em hay bị đau nửa đầu cùng vị trí đau nhức ở xoang, đôi khi hay nghẹt mũi nữa ạ, khàng tiếng cũng đôi khi có ho thôi ạ, không bị khó nuốt, đôi khi hay bị ợ ạ, và em không nổi hạch ở cổ nhưng dưới cầm có nổi một mục đỏ không đau ạ. \nEm có lên mạng tìm hiểu thì thấy triệu chứng của em giống với ung thư vòm họng nên em rất lo lắng ạ. \nMong bác sĩ giải đáp giúp em ",
+    "q_id": "q39750",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Biến chứng của viêm xoang"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76015",
+    "status": 2,
+    "question_link": "/hoi-dap/chup-cat-lop-c55-q39497#traloi",
+    "created_at": "2020-08-24T06:42:45.187Z",
+    "updated_at": "2020-08-24T07:23:28.710Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Thưa bác sỹ cho em hỏi là em bị đau rát vùng ngực trái bên trên đau nhức sau lưng dưới bả vai và buốt cánh tay trái dai dẳng, người mệt mỏi da xanh xao. Em đi chụp cắt lớp liều thấp tại Đại học Y Hà nội và được kết luận là giãn nhẹ phế nang 2 đỉnh phổi nhu mô phổi còn lại không thấy khối khu trú, em cũng không biết là giãn phế nang là do nguyên nhân gì liệu có phải do u phổi hay bệnh nào về phổi không thưa bác sỹ.",
+    "q_id": "q39497",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Chụp Cắt lớp"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76016",
+    "status": 2,
+    "question_link": "/hoi-dap/lay-mau-xet-nghiem-c55-q38449#traloi",
+    "created_at": "2020-08-24T06:42:45.188Z",
+    "updated_at": "2020-08-24T07:23:27.513Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bên mình có xét nghiệm nhiễm virut RSV hay không?",
+    "q_id": "q38449",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Lấy mẫu xét nghiệm"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76017",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-khi-hit-sau--c55-q37913#traloi",
+    "created_at": "2020-08-24T06:42:45.189Z",
+    "updated_at": "2020-08-24T07:23:27.490Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào BS ạ.  Là vào gần đây em cảm thấy khó khi thở sâu. Khi thở sâu thì không thoải mái và khó chịu cổ họng. Em có đi siêu âm thì bảo bình thường ko sao cả khi đè mạnh vào cổ thì thở mới khoẻ hơn cho hỏi em có bị sao koạ ",
+    "q_id": "q37913",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở khi hít sâu "
+  },
+  {
+    "_id": "5f4361658f60cf559ab76018",
+    "status": 2,
+    "question_link": "/hoi-dap/thuong-xuyen-tho-sau-c55-q37649#traloi",
+    "created_at": "2020-08-24T06:42:45.190Z",
+    "updated_at": "2020-08-24T07:23:23.205Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác \nCon năm nay 18 tuổi,dạo gần đây con có cảm giác khi thở vài phút phải thở sâu một lần .Con ngáp cũng hơi khó khăn.Khi lên cầu thanh con phải thở sâu nhưng không khó thở hay hụt hơi ạ.Con bị sao ạ.Con đang rất sợ bị suy tim ạ",
+    "q_id": "q37649",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "thường xuyên thở sâu"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76019",
+    "status": 2,
+    "question_link": "/hoi-dap/dau-tuc-nguc-c55-q35163#traloi",
+    "created_at": "2020-08-24T06:42:45.191Z",
+    "updated_at": "2020-08-24T07:23:26.562Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ!\nEm bị đau tức ngực đc 1 thời gian. trước chỉ là những cơn đau tức nhẹ và hít sâu 1 2 lần là khỏi. Tuy nhiên hôm nay đau tức lâu hơn, cảm giác tức lan sang 2 bên khi hít sâu. Em có đi khám bên mình đầu tháng, các chỉ số bình thường trừ chỉ số về phổi là 4.4.\nEm muốn hỏi về triệu chứng bệnh của em và muốn tái khám để biết chính xác. em cám ơn!",
+    "q_id": "q35163",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Đau tức ngực"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76119",
+    "status": 2,
+    "question_link": "/hoi-dap/kho-tho-khi-hit-vao-kho-cuc-vo-cung-a-c55-q34837#traloi",
+    "created_at": "2020-08-24T06:42:45.432Z",
+    "updated_at": "2020-08-24T07:26:19.606Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào bác sĩ ạ! \nKhoảng 1 tháng trở lại đây e đột nhiên khó thở khi hít vào. Biểu hiện là thường xuyên muốn hít sâu vào, nhưng khi hít sâu khoảng 20 lần thì chỉ được vài 3 lần đủ khí xuống tới bụng, còn lại là chỉ hít được tới lồng ngực thì hết sạch khí không thể hít thêm được nữa. Lúc này sẽ bị tức đoạn ngực ở giữa 2 xương ức ạ. Ngoài ra còn kèm thèo biểu hiện là thường xuyên lấy sức ho 1 cái thật mạnh để bật được cái dịch gì đó trong lồng ngực ra ấy ạ (Ko biết e mô tả vậy đúng ko nữa).  Nếu muốn đủ khí thì sẽ phải ngáp liên tục ạ, mỗi lần ngáp e sẽ hít được đủ khí ạ. Nhưng không phải lúc nào cũng ngáp được ạ. Em đã đi khám 2 viện lớn là 108 và Phổi Trung Ương. Viện 108 thì chụp XQuang tim phổi, điện tim, siêu âm tim, thử máu, thông khí phổi, siêu âm ổ bụng, kết quả là mấy cái đó đều không sao => BS đành kết luận rối loạn thần kinh thực vật và kê thuốc rối loạn thần kinh cùng 1 loại thuốc có tên astmodil (trị hen thì phải ạ) nhưng e uống vài hôm ko đỡ mà nặng thêm í ạ. Vì vậy e đi khám viện Phổi TW, viện này cho chụp CT cắt lớp lồng ngực và phổi, Đo hô hấp, Test giãn phế quản, kết quả cũng không có gì đặc biệt ngoài câu 'Theo dõi viêm phế quản' và không cho thuốc gì, em có năn nỉ ỉ ôi thì BS kê cho e lọ thuốc xịt Ventolin rồi dặn xịt xong thấy đỡ thì quay lại điều trị theo hướng hen phế quản, tuy nhiên e xịt vào cả tiếng đồng hồ vẫn không làm giảm triệu chứng e kể trên(Thuốc có tác dụng sau 5 phút và kéo dài 4 tiếng ạ). Thưa bác sĩ e đã mô tả rất kỹ triệu chứng và quy trình khám bệnh ở 2 viện lớn rồi, e thấy 2 viện lớn khám không tận tụy chút nào cả, e mô tả bệnh thì bác sĩ cứ như nghĩ e nói đùa ấy ạ :( :(. E rất mong được sự tư vấn tận tình của bác sĩ ạ. E cảm ơn!",
+    "q_id": "q34837",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Khó thở khi hít vào, khổ cực vô cùng ạ!"
+  },
+  {
+    "_id": "5f4361658f60cf559ab7611a",
+    "status": 2,
+    "question_link": "/hoi-dap/ket-qua-xet-nghiem-mau--c55-q34294#traloi",
+    "created_at": "2020-08-24T06:42:45.432Z",
+    "updated_at": "2020-08-24T07:26:20.874Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ. Em vừa kết thúc uống thuốc lao phổi 6 tháng và vừa đi xét nghiệm đờm (nhưng chưa nhận kết quả). Sau đó em có đi khám tổng quát do thấy người mệt mỏi và cảm giác như đau họng. Kết quả khám thì kết luận là bị viêm phổi. Và kết quả xét nghiệm máu có những chỉ số e thấy nghi vấn như sau.\nLym%: 19.5, \nMono%: 8.2\nMchc: 31.2\nRdw-cv: 10.6\nPdw:18.4\nCác chỉ số còn lại đều nằm trong ngưỡng bình thường. Bác sĩ cho e hỏi những chỉ số này là như thế nào với ạ, vì đọc thông tin trên internet thì thấy những bịnh rất nghiêm trọng. \nE cảm ơn.\n\n\n\n",
+    "q_id": "q34294",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Kết quả xét nghiệm máu "
+  },
+  {
+    "_id": "5f4361658f60cf559ab7611b",
+    "status": 2,
+    "question_link": "/hoi-dap/ho-lau-ngay;-dan-den-tuc-suon-trai-va-nguc-c55-q33988#traloi",
+    "created_at": "2020-08-24T06:42:45.433Z",
+    "updated_at": "2020-08-24T07:26:20.614Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "sau đợt cảm cúm; e bị ho lậ ngày; kéo dài khoảng đến nay gần 1 tháng . gần đây cách khoảng 5 ngày e họ bị đau cạnh sườn trái đến hôm nay là 5  ngày. bác sỹ cho e hỏi là bị sao và giải thích giúp e ạ. em xin cám ơn a",
+    "q_id": "q33988",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "ho lâu ngày; dẫn đến tức sườn trái và ngưc"
+  },
+  {
+    "_id": "5f4361658f60cf559ab7611c",
+    "status": 2,
+    "question_link": "/hoi-dap/ve-sinh-cho-tre-khi-bi-cam-sot-c55-q33846#traloi",
+    "created_at": "2020-08-24T06:42:45.434Z",
+    "updated_at": "2020-08-24T07:26:24.732Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sỹ, con tôi được 3 tuổi, cháu mới bị sốt siêu vi được 4 ngày và hôm nay đã cắt sốt. Tôi xin hỏi vệ sinh, tắm rửa, gội đầu lúc bé bị ốm như thế nào? Nên kiêng tắm gội hay vẫn tắm gội bình thường được ạ? Cảm ơn bác sỹ",
+    "q_id": "q33846",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Vệ sinh cho trẻ khi bị cảm, sốt"
+  },
+  {
+    "_id": "5f4361658f60cf559ab7611d",
+    "status": 2,
+    "question_link": "/hoi-dap/hach-o-co-cach-chua-tri-c55-q32983#traloi",
+    "created_at": "2020-08-24T06:42:45.435Z",
+    "updated_at": "2020-08-24T07:26:20.924Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bác sỹ cho e hỏi là em có cái hạch ở cổ k biết vì sao tự dưng nó lên em hỏi nó có làm sao k ạ, cho e cách trị vs ạ",
+    "q_id": "q32983",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Hạch ở cổ cách chữa trị"
+  },
+  {
+    "_id": "5f4361658f60cf559ab7611e",
+    "status": 2,
+    "question_link": "/hoi-dap/dom-tren-co-hong-c55-q32841#traloi",
+    "created_at": "2020-08-24T06:42:45.436Z",
+    "updated_at": "2020-08-24T07:26:19.209Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Tôi thường bị có đờm trên cổ họng . Xin cho biết nguyên nhân và cách điều trị . Chân thành cám ơn Bác Sĩ",
+    "q_id": "q32841",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "đờm trên cổ họng"
+  },
+  {
+    "_id": "5f4361658f60cf559ab7611f",
+    "status": 2,
+    "question_link": "/hoi-dap/lao-phoi-c55-q32513#traloi",
+    "created_at": "2020-08-24T06:42:45.437Z",
+    "updated_at": "2020-08-24T07:26:26.892Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "tôi muốn cho bn làm xn chẩn đoán lao phổi cần làm những xn gì và giá bao nhiêu (bn đã chụp xq nghi ngờ)",
+    "q_id": "q32513",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "lao phổi"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76120",
+    "status": 2,
+    "question_link": "/hoi-dap/cum-a-c55-q32157#traloi",
+    "created_at": "2020-08-24T06:42:45.438Z",
+    "updated_at": "2020-08-24T07:26:29.394Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ ạ. Vừa rồi cháu được chuẩn đoán mắc cúm A, cháu đc bác sĩ kê cho đơn thuốc trong vòng 5 ngày, hiện cháu đã uống hết thuốc, cháu không bị sốt nữa giờ chỉ ho có đờm, vậy liệu cháu đã hết cúm A chưa ạ ? Cháu có cần cách ly nữa hay không ? Và cháu có nên tiếp tục mua thêm thuốc theo đơn cũ để uống tiếp hay phải ntn ạ ?",
+    "q_id": "q32157",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "cúm A"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76121",
+    "status": 2,
+    "question_link": "/hoi-dap/dien-bien-cum-a-c55-q32085#traloi",
+    "created_at": "2020-08-24T06:42:45.439Z",
+    "updated_at": "2020-08-24T07:26:29.422Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sĩ, ngày hôm qua sau khi đi khám tại bệnh viện mình được chuẩn đoán dương tính cúm A. Đã làm x quang tim phổi thẳng và bác sĩ kết luận chưa có dấu hiệu bị ảnh hưởng và kê thuốc cho mình về nhà điều trị.\nSau 1 ngày dùng thuốc thì sáng nay mình có hạ sốt thấp hơn một chút nhưng lại đau tức ngực và ho tăng kèm đờm, chảy mũi nữa. Liệu có phải bị biến chứng hay không ?",
+    "q_id": "q32085",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Diễn biến cúm A"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76122",
+    "status": 2,
+    "question_link": "/hoi-dap/hoi-ve-cyrfa-21-1-c55-q31896#traloi",
+    "created_at": "2020-08-24T06:42:45.440Z",
+    "updated_at": "2020-08-24T07:26:26.904Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "tôi vừa xét nghiệm kết quả cyrfa 21_1 là 3,98 có nguy hiểm không, làm thế nào để giảm chỉ số. xin cảm ơn",
+    "q_id": "q31896",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "hỏi về cyrfa 21_1"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76123",
+    "status": 2,
+    "question_link": "/hoi-dap/benh-viem-phe-quan-phoi-c55-q31526#traloi",
+    "created_at": "2020-08-24T06:42:45.441Z",
+    "updated_at": "2020-08-24T07:26:28.726Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "bac si cho e hỏi voi ạ, con e đuoc 4 tháng, cháu bị viêm phế quản phổi e cho cháu len bvien nhi điều trị đuoc 10 ngay thì cháu cũng đỡ nhieu nen bac si cho về, nhưng vừa về nhà thi cháu lại bị ho nhiều A",
+    "q_id": "q31526",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "bệnh viêm phế quản phổi"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76124",
+    "status": 2,
+    "question_link": "/hoi-dap/chi-phi-kiem-tra--c55-q31382#traloi",
+    "created_at": "2020-08-24T06:42:45.442Z",
+    "updated_at": "2020-08-24T07:26:29.433Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Bác sỹ cho m hỏi? Muốn tầm soát ung thư đường hô hấp thì tổng chi phí 1 lần khám xét nghiệm là bao nhiêu ạ? ",
+    "q_id": "q31382",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Chi phí kiểm tra "
+  },
+  {
+    "_id": "5f4361658f60cf559ab76125",
+    "status": 2,
+    "question_link": "/hoi-dap/cham-soc-tre-so-sinh-c55-q30981#traloi",
+    "created_at": "2020-08-24T06:42:45.442Z",
+    "updated_at": "2020-08-24T07:26:29.350Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "bé nhà e dc 3 tháng mà thở khò khè thì uống thuốc j vậy ạ bé không ho không sốt",
+    "q_id": "q30981",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "chăm sóc trẻ sơ sinh"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76126",
+    "status": 2,
+    "question_link": "/hoi-dap/viem-phe-quan-c55-q30646#traloi",
+    "created_at": "2020-08-24T06:42:45.443Z",
+    "updated_at": "2020-08-24T07:26:28.743Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Chào bác sỹ.\nCon em được 7 tháng tuổi. Cháu bị viêm phế quản lần này là lần thứ 3. Cháu đã được tiêm phòng mũi phế cầu. Bác sỹ tư vấn giúp em cách phòng ngừa bệnh phế quản với ạ. Thời tiết thu đông rất hay bị. \nEm đã cho con tiêm phòng mũi phế cầu rồi sao vẫn hay bị ạ\nTôi cảm ơn bác sỹ.",
+    "q_id": "q30646",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "viêm phế quản"
+  },
+  {
+    "_id": "5f4361658f60cf559ab76127",
+    "status": 2,
+    "question_link": "/hoi-dap/chi-so-cyfra-211-=-266-c55-q30423#traloi",
+    "created_at": "2020-08-24T06:42:45.444Z",
+    "updated_at": "2020-08-24T07:26:29.411Z",
+    "__v": 0,
+    "c_id": "c55",
+    "q_content": "Em chào bác sĩ ạ. vừa qua em có khám định kì tại bệnh viện bên mình, em thấy chỉ số cyfra 21-1 cao hơn bt, và một số chỉ số khác như bạch cầu mono cũng cao. đồng thời thỉnh thoảng em thở bị như kiểu hụt hơi, em xin bác sĩ tư vấn và cho em biết các chỉ số kia là sao ạ. em cám ơn bác sĩ ạ",
+    "q_id": "q30423",
+    "q_related": [
+      {
+        "text": "Nước bọt có máu",
+        "href": "/hoi-dap/nuoc-bot-co-mau-c55-q55567"
+      },
+      {
+        "text": "Khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55493"
+      },
+      {
+        "text": "Bệnh lao phổi",
+        "href": "/hoi-dap/benh-lao-phoi-c55-q55456"
+      },
+      {
+        "text": "khó thở",
+        "href": "/hoi-dap/kho-tho-c55-q55360"
+      },
+      {
+        "text": "Mất oxy",
+        "href": "/hoi-dap/mat-oxy-c55-q55230"
+      }
+    ],
+    "q_title": "Chỉ số CYFRA 21-1 = 2.66"
+  }
+]
