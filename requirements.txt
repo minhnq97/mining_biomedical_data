@@ -1,0 +1,6 @@
+elasticsearch
+flask
+underthesea
+matplotlib
+seaborn
+tqdm
