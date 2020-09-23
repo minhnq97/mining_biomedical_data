@@ -15,11 +15,6 @@ import json
 
 app = Flask(__name__)
 
-@app.route('/create')
-def insert_question():
-    # classify category
-    return "hello"
-
 @app.route('/similarity')
 def score_similarity():
     return "hello"
