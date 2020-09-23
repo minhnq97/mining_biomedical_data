@@ -31,12 +31,11 @@ def _format_line(sentence):
     sentence = REPLACE_BY_SPACE_RE.sub(' ', sentence)
     sentence = BAD_SYMBOLS_RE.sub('', sentence)
     sentence = ' '.join([REPLACE_SHORT_WORD[word] if word in REPLACE_SHORT_WORD else word for word in sentence.split()])
-    sentence = ' '.join(["0" if word.isnumeric() else word for word in sentence.split()])
+    # sentence = ' '.join(["0" if word.isnumeric() else word for word in sentence.split()])
     sentence = ' '.join(["" if any(map(str.isdigit, word)) is True else word for word in sentence.split()])
     # sentence = word_tokenize(sentence, format="text")
     # tags = pos_tag(sentence)
     # sentence = ' '.join([ w  for w,t in tags if t not in['C', 'Cc', 'CH', 'E', 'I', 'L', 'P', 'R', 'T' ]])
-
     return sentence
 
 def load_data(root_dir=""):

@@ -6,25 +6,28 @@
 #
 # Distributed under terms of the MIT license.
 
-
+from extract_keyword import preload_model, get_keyword
 from preprocess import _format_line, load_data, merge_data_by_category, drop_category, redefine_data
 from elasticsearch.helpers import bulk
 from elasticsearch  import Elasticsearch
 
 def gen_bulk(all_data, index_name="index_name"):
     cate_dict={}
+    stopwords, tfidf_vectorizer, feature_names = preload_model()
     with open("mapping_category.txt", "rt") as f:
         for line in f.read().splitlines():
             id, cate = line.split(None,1)
             cate_dict[id] = cate
     for data, label in all_data:
+        preprocessed_q = _format_line(data)
+        top_5_keywords = list(get_keyword(preprocessed_q,stopwords,tfidf_vectorizer,feature_names).keys())[:5]
         yield {
             "_index": index_name,
             "question": data,
-            "preprocessed_question":_format_line(data),
+            "preprocessed_question":preprocessed_q,
             "category_id": label,
             "category":cate_dict[label],
-            "keywords": [],
+            "keywords": top_5_keywords,
         }
 
 def create_bulk():
