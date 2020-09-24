@@ -7,6 +7,8 @@ Then run ```docker-compose up -d```
 
 Check if the elastic work or not by running ```curl -X GET "localhost:9200/_cat/nodes?v&pretty"```
 
+Insert bulk data: ```curl -s -H "Content-Type: application/json" -XPOST localhost:9200/{index_name}/docs/_bulk --data-binary "@es_bulk_data.json"```
+
 ## 2. Flask API: 
 Start the server by running ```python start.py```
 
