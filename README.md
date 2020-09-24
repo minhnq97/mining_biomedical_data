@@ -1,8 +1,14 @@
-# medical_data
+# Data mining on Vietnamese Medical data
+## 1. Setup elasticsearch:
 
-To start server: 
+Install elasticsearch by running ```./setup.sh```
 
-```python start.py```
+Then run ```docker-compose up -d```
+
+Check if the elastic work or not by running ```curl -X GET "localhost:9200/_cat/nodes?v&pretty"```
+
+## 2. Flask API: 
+Start the server by running ```python start.py```
 
 API for extract **word cloud**:
 
