@@ -1,0 +1,44 @@
+c9 cơ xương khớp
+c17 chẩn đoán hình ảnh
+c20 chuyên mục khác
+c73 ða khoa
+c26 da liễu
+c74 di truyền
+c22 dị ứng
+c64 dịch vụ
+c18 dinh dưỡng
+c58 dược sỹ
+c28 giải phẫu bệnh
+c30 hóa sinh
+c57 hồi sức cấp cứu
+c55 hô hấp
+c11 huyết học
+c23 ký sinh trùng
+c31 lao
+c16 lão khoa
+c15 mắt
+c27 nam học
+c33 nội khoa
+c34 nội tiết - tiểu đường
+c21 nội tiết sinh dục
+c32 ngoại khoa
+c7 nhi khoa
+c39 phẫu thuật thẩm mỹ
+c60 phục hồi chức năng
+c13 răng - hàm - mặt
+c4 sản - phụ khoa
+c75 sinh học phân tử
+c61 sơ sinh
+c14 tai - mũi - họng
+c24 tâm thần
+c19 tiết niệu
+c76 tiêm chủng (vaccin)
+c5 tiêu hóa - gan mật
+c35 tim mạch
+c62 thẩm mỹ, tạo hình
+c25 thần kinh
+c10 truyền nhiễm
+c6 ung thư
+c29 vi sinh
+c3 viêm gan virus
+c56 y học cổ truyền

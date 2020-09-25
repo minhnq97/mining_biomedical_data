@@ -18,12 +18,19 @@ import torch
 import numpy as np
 from fairseq.models.roberta import RobertaModel
 from preprocess import _format_line
+import pickle
+from sklearn.svm import LinearSVC
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 app = Flask(__name__)
 
-@app.route('/classifier')
+@app.route('/classifier', methods=["POST"])
 def text_classifier_category():
-    pass
+    data = json.loads(request.data)
+    question = data["question"]
+    tfidf_q = g.vectorizer.transform([question])
+    category_id = g.svm_model.predict(tfidf_q)
+    return json.dumps({"category_id":category_id[0], "category_name":g.mapping_cid[category_id[0]]}, ensure_ascii=False)
 
 @app.route("/similarity", methods=["POST"])
 def score_similarity():
@@ -87,7 +94,7 @@ def search_word_cloud():
         }
     })
     final_res = result["aggregations"]["result"]["buckets"]
-    return json.dumps(final_res)
+    return json.dumps(final_res, ensure_ascii=False)
 
 @app.before_request
 def initialize_model():
@@ -101,6 +108,13 @@ def initialize_model():
                         default="model/bpe.codes")
     args = parser.parse_args()
     g.phobert.bpe = fastBPE(args)  # Incorporate the BPE encoder into PhoBERT
+    g.vectorizer = pickle.load(open("model/tfidf_model.pkl", 'rb'))
+    g.svm_model = pickle.load(open("model/svm_model.pkl", 'rb'))
+    g.mapping_cid={}
+    with open("resources/mapping_category.txt", "rt") as f:
+        for line in f.read().splitlines():
+            id, name = line.split(None, 1)
+            g.mapping_cid[id] = name
 
 
 

@@ -12,6 +12,21 @@ Insert bulk data: ```curl -s -H "Content-Type: application/json" -XPOST localhos
 ## 2. Flask API: 
 Start the server by running ```python start.py```
 
+API for **classifying input** to medical categories:
+
+- request:
+
+```curl -X POST -H "Content-type:application/json"  -d '{"question": "viêm gan b"}' localhost:5000/classifier```
+
+- response:
+
+```
+{
+   "category_id":"c5",
+   "category_name":"tiêu hóa - gan mật"
+}
+```
+
 API for extract **word cloud**:
 
 - request: 
@@ -20,7 +35,38 @@ API for extract **word cloud**:
 
 - response:
 
-```[{"key": "viêm", "doc_count": 61}, {"key": "sơ", "doc_count": 51}, {"key": "gan", "doc_count": 49}, {"key": "hp", "doc_count": 44}, {"key": "cháu", "doc_count": 40}, {"key": "thuốc", "doc_count": 35}, {"key": "architect", "doc_count": 25}]```
+```
+[
+   {
+      "key":"viêm",
+      "doc_count":61
+   },
+   {
+      "key":"sơ",
+      "doc_count":51
+   },
+   {
+      "key":"gan",
+      "doc_count":49
+   },
+   {
+      "key":"hp",
+      "doc_count":44
+   },
+   {
+      "key":"cháu",
+      "doc_count":40
+   },
+   {
+      "key":"thuốc",
+      "doc_count":35
+   },
+   {
+      "key":"architect",
+      "doc_count":25
+   }
+]
+```
 
 API for extract **score similarity**:
 
