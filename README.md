@@ -26,46 +26,47 @@ API for extract **score similarity**:
 
 - request (doing): 
 
-```send a sentence/document```
+```curl -X POST -H "Content-type:application/json"  -d `{"question": "viêm gan b", "top_n":2
+}` localhost:5000/similarity```
+
 
 - response (doing):
 
 ```[
-      {
-        "_index" : "new_medlatec",
-        "_type" : "_doc",
-        "_id" : "o6r5uXQBUJQDowV2xly0",
-        "_score" : 1.0,
-        "_source" : {
-          "question" : """Chào bác sĩ, 
-Em vừa làm xét nghiệm HbsAg là 1068 COI và HBsAb định lượng <0,2 U/L  kết quả cho dương tính thì không biết em có phải thực hiện điều trị hay uống thuốc gì không ạ? 
-Em cảm ơn ạ!""",
-          "preprocessed_question" : "chào bác sĩ em vừa làm xét nghiệm hbsag là  coi và hbsab định lượng   u l kết quả cho dương tính thì không biết em có phải thực hiện điều trị hay uống thuốc gì không ạ em cảm ơn ạ",
-          "category_id" : "c5",
-          "category" : "tiêu hóa - gan mật",
-          "keywords" : [
-            "coi hbsab",
-            "hbsag coi",
-            "hbsab",
-            "coi",
-            "hbsag"
-          ]
-        }
-      },
-      {
-        "_index" : "new_medlatec",
-        "_type" : "_doc",
-        "_id" : "pKr5uXQBUJQDowV2xly0",
-        "_score" : 1.0,
-        "_source" : {
-          "question" : """Bác sĩ cho em hỏi 2 thuốc này em thay đổi cho nhau được ko ạ. 
-Em cảm ơn bác sĩ""",
-          "preprocessed_question" : "bác sĩ cho em hỏi  thuốc này em thay đổi cho nhau được không ạ em cảm ơn bác sĩ",
-          "category_id" : "c5",
-          "category" : "tiêu hóa - gan mật",
-          "keywords" : [
-            "thuốc"
-          ]
-        }
+   {
+      "_index":"new_medlatec_dummy",
+      "_type":"_doc",
+      "_id":"v6x1w3QBUJQDowV2MvbX",
+      "_score":1.7523599,
+      "_source":{
+         "question":"Về viêm gan b mem gan và số lượng virus",
+         "preprocessed_question":"về viêm gan b mem gan và số lượng virus",
+         "category_id":"c22",
+         "category":"dị ứng",
+         "keywords":[
+            "gan mem",
+            "mem gan",
+            "mem",
+            "gan",
+            "virus"
+         ]
       }
-    ]
+   },
+   {
+      "_index":"new_medlatec_dummy",
+      "_type":"_doc",
+      "_id":"qq11w3QBUJQDowV2XQNm",
+      "_score":1.7464817,
+      "_source":{
+         "question":"bệnh bướu cổ basedow",
+         "preprocessed_question":"bệnh bướu cổ basedow",
+         "category_id":"c21",
+         "category":"nội tiết sinh dục",
+         "keywords":[
+            "basedow",
+            "bệnh"
+         ]
+      }
+   }
+]
+```

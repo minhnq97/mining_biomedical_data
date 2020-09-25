@@ -4,3 +4,6 @@ underthesea
 matplotlib
 seaborn
 tqdm
+numpy
+fastBPE
+torch

@@ -1,12 +1,11 @@
 """ Created by minhnq """
-import gensim
-import sklearn
 import _pickle as cPickle
-import logging
 import os
+
 from sklearn.feature_extraction.text import TfidfVectorizer
-from preprocess import _format_line
 from underthesea import word_tokenize
+
+from preprocess import _format_line
 
 
 def preload_model():
