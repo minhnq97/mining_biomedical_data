@@ -103,10 +103,10 @@ $("#ask").on("click", (_) => {
     $("#info").text("Bấm vào loại bệnh để xem các từ hay xuất hiện trong triệu chứng bệnh đó dưới góc phải màn hình");
     $("#diagnose").text("Đang chẩn đoán...");
     $("#results").text("Đang tìm kiếm...");
-    ajax("word_cloud", "POST", "classifier", {"question": $("#search").val()}, function (data) {
+    ajax("classifier", "POST", {"question": $("#search").val()}, function (data) {
         $("#diagnose").html(`Bạn có triệu chứng của bệnh liên quan đến <span data-id="${data["category_id"]}" class="category">${data["category_name"]}</span>.`);
     });
-    ajax("word_cloud", "POST", "similarity", {"question": $("#search").val(), "top_n": 5}, function (data) {
+    ajax("similarity", "POST", {"question": $("#search").val(), "top_n": 5}, function (data) {
         let similars = [];
         similars.push(`
             <div class="result-item">
