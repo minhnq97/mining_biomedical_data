@@ -1,3 +1,14 @@
+function ajax(url, type, json, callback) {
+    $.ajax({
+        url: url,
+        type: type,
+        data: JSON.stringify(json),
+        contentType: 'application/json; charset=utf-8',
+        dataType: 'json',
+        success: callback
+    });
+}
+
 function createWordCloud(selector) {
     const fill = d3.scale.category20();
     const svg = d3.select(selector).append("svg")
@@ -67,13 +78,13 @@ function createWordCloud(selector) {
 const wordCloud = createWordCloud('body');
 
 $(document).on("click", ".category", (e) => {
-    $.get("word_cloud", {"category_id": $(e.target).data("id"), "top_n": 200}, function (data) {
+    ajax("word_cloud", "GET", {"category_id": $(e.target).data("id"), "top_n": 200}, function (data) {
         let words = [];
         $.each(data, function (key, val) {
             words.push({text: val['key'], size: Math.sqrt(val['doc_count']) * 10});
         });
         wordCloud.update(words);
-    }, "json");
+    });
 });
 
 $("#search").on("keydown", (e) => {
@@ -92,10 +103,10 @@ $("#ask").on("click", (_) => {
     $("#info").text("Bấm vào loại bệnh để xem các từ hay xuất hiện trong triệu chứng bệnh đó dưới góc phải màn hình");
     $("#diagnose").text("Đang chẩn đoán...");
     $("#results").text("Đang tìm kiếm...");
-    $.post("classifier", {"question": $("#search").val()}, function (data) {
+    ajax("word_cloud", "POST", "classifier", {"question": $("#search").val()}, function (data) {
         $("#diagnose").html(`Bạn có triệu chứng của bệnh liên quan đến <span data-id="${data["category_id"]}" class="category">${data["category_name"]}</span>.`);
-    }, "json");
-    $.post("similarity", {"question": $("#search").val(), "top_n": 5}, function (data) {
+    });
+    ajax("word_cloud", "POST", "similarity", {"question": $("#search").val(), "top_n": 5}, function (data) {
         let similars = [];
         similars.push(`
             <div class="result-item">
@@ -110,5 +121,5 @@ $("#ask").on("click", (_) => {
             </div>`);
         });
         $("#results").html(similars.join(""));
-    }, "json");
+    });
 });
