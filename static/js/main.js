@@ -78,13 +78,17 @@ function createWordCloud(selector) {
 const wordCloud = createWordCloud('body');
 
 $(document).on("click", ".category", (e) => {
-    ajax("word_cloud", "GET", {"category_id": $(e.target).data("id"), "top_n": 200}, function (data) {
+    $.get("word_cloud", {"category_id": $(e.target).data("id"), "top_n": 200}, function (data) {
+        let sum = 0;
+        $.each(data, function (key, val) {
+            sum += val['doc_count'];
+        });
         let words = [];
         $.each(data, function (key, val) {
-            words.push({text: val['key'], size: Math.sqrt(val['doc_count']) * 10});
+            words.push({text: val['key'], size: val['doc_count'] / sum * 500});
         });
         wordCloud.update(words);
-    });
+    }, "json");
 });
 
 $("#search").on("keydown", (e) => {
