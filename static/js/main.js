@@ -77,6 +77,8 @@ function createWordCloud(selector) {
 
 const wordCloud = createWordCloud('body');
 
+let category = "";
+
 $(document).on("click", ".category", (e) => {
     $.get("word_cloud", {"category_id": $(e.target).data("id"), "top_n": 200}, function (data) {
         let sum = 0;
@@ -109,21 +111,26 @@ $("#ask").on("click", (_) => {
     $("#results").text("Đang tìm kiếm...");
     ajax("classifier", "POST", {"question": $("#search").val()}, function (data) {
         $("#diagnose").html(`Bạn có triệu chứng của bệnh liên quan đến <span data-id="${data["category_id"]}" class="category">${data["category_name"]}</span>.`);
-    });
-    ajax("similarity", "POST", {"question": $("#search").val(), "top_n": 5}, function (data) {
-        let similars = [];
-        similars.push(`
+        category = data["category_id"];
+        ajax("similarity", "POST", {
+            "question": $("#search").val(),
+            "category_id": category,
+            "top_n": 5
+        }, function (data) {
+            let similars = [];
+            similars.push(`
             <div class="result-item">
                 <div class="similar">Một số bệnh nhân có khả năng cùng triệu chứng:</div>
             </div>`);
-        $.each(data, function (key, val) {
-            similars.push(`
+            $.each(data, function (key, val) {
+                similars.push(`
             <div class="result-item">
                 <div class="number">${key + 1}.</div>
                 <div class="similar">${val["_source"]["question"]}</div>
                 <div class="description">Bệnh chẩn đoán: <span data-id="${val["_source"]["category_id"]}" class="category">${val["_source"]["category"]}</span></div>
             </div>`);
+            });
+            $("#results").html(similars.join(""));
         });
-        $("#results").html(similars.join(""));
     });
 });
