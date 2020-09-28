@@ -28,7 +28,7 @@ def gen_bulk(client, all_data, index_name="index_name", model=None):
     for data, label in all_data:
         index += 1
         preprocessed_q = _format_line(data)
-        top_5_keywords = list(get_keyword(preprocessed_q, stopwords, tfidf_vectorizer, feature_names).keys())[:5]
+        top_5_keywords = list(get_keyword(preprocessed_q, stopwords, tfidf_vectorizer).keys())[:5]
         subwords = model.encode(preprocessed_q)
         if len(subwords) > 256:
             subwords = subwords[:255]
@@ -96,7 +96,7 @@ def extract_json_bulk_with_embedding(model):
     for data, label in all_data:
         index+=1
         preprocessed_q = _format_line(data)
-        top_5_keywords = list(get_keyword(preprocessed_q, stopwords, tfidf_vectorizer, feature_names).keys())[:5]
+        top_5_keywords = list(get_keyword(preprocessed_q, stopwords, tfidf_vectorizer).keys())[:5]
         subwords = model.encode(preprocessed_q)
         if len(subwords) > 256:
             subwords = subwords[:255]
@@ -113,7 +113,7 @@ def extract_json_bulk_with_embedding(model):
             "question_vector": embedding.tolist()
         }, ensure_ascii=False))
 
-    with open("es_bulk_data.json", "w+") as f:
+    with open("es_bulk_data_v2.json", "w+") as f:
         f.writelines("\n".join(result))
     pass
 
@@ -139,9 +139,8 @@ if __name__ == '__main__':
     # args = parser.parse_args()
     # phobert.bpe = fastBPE(args)  # Incorporate the BPE encoder into PhoBERT
     # extract_json_bulk_with_embedding(phobert)
-    # all_data, label_list = create_bulk()
-    # gen_bulk(elastic_client, all_data, index_name="new_medlatec", model=phobert)
-    INDEX_NAME = "new_medlatec_dummy"
+
+    INDEX_NAME = "medlatec_dummy_v2"
     with open("index.json") as index_file:
         source = index_file.read().strip()
     elastic_client = Elasticsearch(hosts=["localhost"], timeout=30)

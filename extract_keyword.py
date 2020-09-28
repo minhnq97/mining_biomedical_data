@@ -1,21 +1,30 @@
 """ Created by minhnq """
 import _pickle as cPickle
+import json
 import os
+from glob import glob
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from underthesea import word_tokenize
-
+from CocCocTokenizer import PyTokenizer
+# from create_es_bulk import create_bulk
 from preprocess import _format_line
+import pickle
 
 
 def preload_model():
-    stopwords = get_stop_words("resources/src_resources_vietstopwords.txt")
-    # open("resources/src_resources_vietstopwords.txt", 'r', encoding='utf-8').read().split("\n")
+    data = pickle.load(open("raw.pkl", "rb"))
+    stopwords = open("resources/src_resources_vietstopwords.txt").read().splitlines()
 
-    with open('model/tfidf_medlatec.pkl', 'rb') as fin:
-        tfidf_vectorizer = cPickle.load(fin)
-        # inv_map = {v: k for k, v in tfidf_vectorizer.vocabulary_.items()}
-        feature_names = tfidf_vectorizer.get_feature_names()
+    # with open('model/tfidf_model.pkl', 'rb') as fin:
+    #     tfidf_vectorizer = cPickle.load(fin)
+    #     # inv_map = {v: k for k, v in tfidf_vectorizer.vocabulary_.items()}
+    #     feature_names = tfidf_vectorizer.get_feature_names()
+    # return stopwords, tfidf_vectorizer, feature_names
+
+    tfidf_vectorizer = train_tfidf_by_data(data, stopwords)
+    feature_names = tfidf_vectorizer.get_feature_names()
+
     return  stopwords, tfidf_vectorizer, feature_names
 
 def get_stop_words(stop_file_path):
@@ -72,10 +81,11 @@ def extract_topn_from_vector(feature_names, sorted_items, topn=10):
     return results
 
 
-def get_keyword(raw_input,stopwords, tfidf_vectorizer,feature_names):
-
+def get_keyword(raw_input,stopwords, tfidf_vectorizer):
+    feature_names = tfidf_vectorizer.get_feature_names()
+    T = PyTokenizer(load_nontone_data=True)
     clean_text = _format_line(raw_input)
-    clean_text = word_tokenize(clean_text, format="text")
+    # clean_text = " ".join(T.word_tokenize(clean_text, tokenize_option=0))
     clean_text = " ".join([w for w in clean_text.split() if w not in stopwords])
     clean_text_tf_idf = tfidf_vectorizer.transform([clean_text])
 
@@ -86,25 +96,30 @@ def get_keyword(raw_input,stopwords, tfidf_vectorizer,feature_names):
     keys = extract_topn_from_vector(feature_names, sorted_items, 20)
     return keys
 
-def train_tfidf(train_texts):
-    if os.path.exists("model/tfidf_medlatec.pkl") is False:
-        vectorizer = TfidfVectorizer(sublinear_tf=True, max_df=0.5, ngram_range=(1, 2))
-        tfidf = vectorizer.fit(train_texts)
-        import pickle
-        pickle.dump(tfidf, open("model/tfidf_medlatec.pkl", "wb"))
-    pass
+def train_tfidf_by_data(data,stopwords):
+    T = PyTokenizer(load_nontone_data=True)
+    tokenizer = T.word_tokenize
+
+    tfidf = TfidfVectorizer(tokenizer=tokenizer, ngram_range=(1, 1), max_df=0.7, min_df=20, stop_words=stopwords)
+    tfidf.fit(data)
+    return tfidf
 
 
 if __name__ == "__main__":
     # ============ Only need for train tfidf =============
-    # all_data, _ = create_bulk()
-    # full_text = []
-    # for data,label in all_data:
-    #     full_text.append(_format_line(data))
+    # datas = glob("crawl_md_question/*.pt.json")
+    # all_content = []
+    # for i in datas:
+    #     dt = json.load(open(i, "r"))
+    #     content = [i['q_content'] for i in dt]
+    #     all_content += content
+    # print(len(all_content))
+    # pickle.dump(all_content, open("raw.pkl", "wb"))
+    # data = pickle.load(open("raw.pkl", "rb"))
+    # stopwords = open("resources/src_resources_vietstopwords.txt").read().splitlines()
     #
-    # train_tfidf(full_text)
+    # tfidf = train_tfidf_by_data(data, stopwords)
     # ====================================================
     stopwords, tfidf_vectorizer, feature_names = preload_model()
-    keywords = get_keyword("'Chào bác sĩ, Em vừa làm xét nghiệm HbsAg là 1068 COI và HBsAb định lượng <0,2 U/L  "
-                           "kết quả cho dương tính thì không biết em có phải thực hiện điều trị hay uống thuốc gì không ạ? Em cảm ơn ạ!'",stopwords, tfidf_vectorizer,feature_names)
+    keywords = get_keyword("Chi phí xét nghiệm phát hiện bệnh ung thư cổ tử cung là bao nhiêu?",stopwords, tfidf_vectorizer)
     print(keywords)
